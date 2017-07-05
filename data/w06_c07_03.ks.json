@@ -1,0 +1,2093 @@
+{
+  "name": "w06_c07_03.ks",
+  "lines": [
+    {
+      "lineNumber": 10,
+      "line": "@Talk name=静子 voice=SZ030017\r\n"
+    },
+    {
+      "lineNumber": 11,
+      "line": "「みなさん、全校集会お疲れさまでした〜」\r\n"
+    },
+    {
+      "lineNumber": 14,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 15,
+      "line": "教壇に立っている岡野先生が、手に持ったプリントを\r\n"
+    },
+    {
+      "lineNumber": 16,
+      "line": "ひらひらと振っている。\r\n"
+    },
+    {
+      "lineNumber": 21,
+      "line": "@Talk name=静子 voice=SZ030018\r\n"
+    },
+    {
+      "lineNumber": 22,
+      "line": "「みなさん、このプリントはきちんと受け取りましたか？\r\n"
+    },
+    {
+      "lineNumber": 23,
+      "line": "　夏休み前期で活躍した運動部の成績など……」\r\n"
+    },
+    {
+      "lineNumber": 30,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 31,
+      "line": "いつもは真面目に聞いている岡野先生の言葉が、今日は\r\n"
+    },
+    {
+      "lineNumber": 32,
+      "line": "右から左へと抜けていく。\r\n"
+    },
+    {
+      "lineNumber": 35,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 36,
+      "line": "今俺が聞かなければならないのは、隣の席の智花の吐息\r\n"
+    },
+    {
+      "lineNumber": 37,
+      "line": "だけだった。\r\n"
+    },
+    {
+      "lineNumber": 44,
+      "line": "@Talk name=智花 voice=TM030805\r\n"
+    },
+    {
+      "lineNumber": 45,
+      "line": "「んっ……んくっ……ん、んんっ……」\r\n"
+    },
+    {
+      "lineNumber": 48,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 49,
+      "line": "ホームルームが開始してからの数分間、俺はローターの\r\n"
+    },
+    {
+      "lineNumber": 50,
+      "line": "スイッチをいれっぱなしにしていた。\r\n"
+    },
+    {
+      "lineNumber": 53,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 54,
+      "line": "非日常的な状況もあいまってか、智花は秘部への刺激に\r\n"
+    },
+    {
+      "lineNumber": 55,
+      "line": "敏感に反応した。\r\n"
+    },
+    {
+      "lineNumber": 58,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 59,
+      "line": "あまり声をあげさせすぎないように、ローターの強弱を\r\n"
+    },
+    {
+      "lineNumber": 60,
+      "line": "細かく調整する。\r\n"
+    },
+    {
+      "lineNumber": 68,
+      "line": "@Talk name=智花 voice=TM030806\r\n"
+    },
+    {
+      "lineNumber": 69,
+      "line": "「ふ……ぁ、あぅっ……」\r\n"
+    },
+    {
+      "lineNumber": 72,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 73,
+      "line": "弱にローターを切り替えて、智花の様子を観察する。\r\n"
+    },
+    {
+      "lineNumber": 79,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 80,
+      "line": "机に手をついて背中を丸め、荒い呼吸を整えようと\r\n"
+    },
+    {
+      "lineNumber": 81,
+      "line": "深呼吸をしている。\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 85,
+      "line": "顔は真っ赤になり、額にはじっとりと汗がにじんでいる。\r\n"
+    },
+    {
+      "lineNumber": 90,
+      "line": "@Talk name=静子 voice=SZ030019\r\n"
+    },
+    {
+      "lineNumber": 91,
+      "line": "「さてさて〜、みなさん、夏休みの宿題のほうは\r\n"
+    },
+    {
+      "lineNumber": 92,
+      "line": "　はかどっていますか〜？」\r\n"
+    },
+    {
+      "lineNumber": 95,
+      "line": "@Talk name=クラスメイトＡ voice=NP050009\r\n"
+    },
+    {
+      "lineNumber": 96,
+      "line": "「あーっ、やめて静子ちゃん、思い出させないでぇっ！」\r\n"
+    },
+    {
+      "lineNumber": 102,
+      "line": "@Talk name=静子 voice=SZ030020\r\n"
+    },
+    {
+      "lineNumber": 103,
+      "line": "「あらあら、忘れちゃだめですよぅ〜〜、先生、眠気\r\n"
+    },
+    {
+      "lineNumber": 104,
+      "line": "　覚ましにコーヒーゼリーをたくさん食べながら、\r\n"
+    },
+    {
+      "lineNumber": 105,
+      "line": "　がんばって作ったんですからぁ〜〜」\r\n"
+    },
+    {
+      "lineNumber": 108,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 109,
+      "line": "岡野先生もクラスメイトたちも、楽しげに雑談を交わして\r\n"
+    },
+    {
+      "lineNumber": 110,
+      "line": "いる。\r\n"
+    },
+    {
+      "lineNumber": 113,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 114,
+      "line": "そんな中で、俺と智花は恋人同士のきずなを感じるために、\r\n"
+    },
+    {
+      "lineNumber": 115,
+      "line": "卑猥な行為をしているのだ。\r\n"
+    },
+    {
+      "lineNumber": 118,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 119,
+      "line": "後ろ向きな喜びに、強い興奮を感じた。\r\n"
+    },
+    {
+      "lineNumber": 127,
+      "line": "@Talk name=智花 voice=TM030807\r\n"
+    },
+    {
+      "lineNumber": 128,
+      "line": "「はーっ……はーっ……あ、あぁっ……ん、んっ……」\r\n"
+    },
+    {
+      "lineNumber": 131,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 132,
+      "line": "横からの視線を感じて、教卓から智花へと視線を戻す。\r\n"
+    },
+    {
+      "lineNumber": 135,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 136,
+      "line": "呼吸が整ってきたらしい智花は、快感のにじんだ表情で\r\n"
+    },
+    {
+      "lineNumber": 137,
+      "line": "俺を見つめていた。\r\n"
+    },
+    {
+      "lineNumber": 142,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 143,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 146,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 147,
+      "line": "スイッチを切るか、強めるか——怯えと期待が入り\r\n"
+    },
+    {
+      "lineNumber": 148,
+      "line": "混じった智花の視線に対しての答えはひとつしかなかった。\r\n"
+    },
+    {
+      "lineNumber": 157,
+      "line": "@Talk name=智花 voice=TM030808\r\n"
+    },
+    {
+      "lineNumber": 158,
+      "line": "「んっ……んんんんんっ！」\r\n"
+    },
+    {
+      "lineNumber": 165,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 166,
+      "line": "スイッチを一気に最大までシフトすると、智花は背中を\r\n"
+    },
+    {
+      "lineNumber": 167,
+      "line": "大きく震わせた。\r\n"
+    },
+    {
+      "lineNumber": 174,
+      "line": "@Talk name=静子 voice=SZ030021\r\n"
+    },
+    {
+      "lineNumber": 175,
+      "line": "「あらら、倉野さん、大丈夫ですか〜？」\r\n"
+    },
+    {
+      "lineNumber": 182,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 183,
+      "line": "俺はローターのスイッチを再び弱に切り替えて、智花が\r\n"
+    },
+    {
+      "lineNumber": 184,
+      "line": "受け答えをする余地を作った。\r\n"
+    },
+    {
+      "lineNumber": 190,
+      "line": "@Talk name=智花 voice=TM030809\r\n"
+    },
+    {
+      "lineNumber": 191,
+      "line": "「えっ、ええっ……大丈夫、ですっ……、ペンをっ、\r\n"
+    },
+    {
+      "lineNumber": 192,
+      "line": "　落としそうになった、だけなのでぇっ……」\r\n"
+    },
+    {
+      "lineNumber": 199,
+      "line": "@Talk name=静子 voice=SZ030022\r\n"
+    },
+    {
+      "lineNumber": 200,
+      "line": "「あのぅ、お顔が真っ赤ですよ？　夏風邪でしょうか〜？」\r\n"
+    },
+    {
+      "lineNumber": 207,
+      "line": "@Talk name=智花 voice=TM030810\r\n"
+    },
+    {
+      "lineNumber": 208,
+      "line": "「いっ、いえ！　教室がっ、暑いだけで……大丈夫ですっ」\r\n"
+    },
+    {
+      "lineNumber": 213,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 214,
+      "line": "智花は慌てたように言って、椅子の上に縮こまった。\r\n"
+    },
+    {
+      "lineNumber": 221,
+      "line": "@Talk name=静子 voice=SZ030023\r\n"
+    },
+    {
+      "lineNumber": 222,
+      "line": "「そうですかぁ〜、夏風邪は長引くといいますから、\r\n"
+    },
+    {
+      "lineNumber": 223,
+      "line": "　くれぐれも気を付けてくださいね」\r\n"
+    },
+    {
+      "lineNumber": 229,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 230,
+      "line": "みなさんも、と岡野先生は他の生徒たちに視線を移動\r\n"
+    },
+    {
+      "lineNumber": 231,
+      "line": "させた。\r\n"
+    },
+    {
+      "lineNumber": 238,
+      "line": "@Talk name=智花 voice=TM030811\r\n"
+    },
+    {
+      "lineNumber": 239,
+      "line": "「んっ……はぁぁ……はぁ……」\r\n"
+    },
+    {
+      "lineNumber": 242,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 243,
+      "line": "智花はほっとしたように吐息をしている。\r\n"
+    },
+    {
+      "lineNumber": 249,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 250,
+      "line": "その一瞬の緩みを突くように、俺は再び振動を強くさせた。\r\n"
+    },
+    {
+      "lineNumber": 256,
+      "line": "@Talk name=智花 voice=TM030812\r\n"
+    },
+    {
+      "lineNumber": 257,
+      "line": "「ひっ、ん……んんんっ〜〜！」\r\n"
+    },
+    {
+      "lineNumber": 265,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 266,
+      "line": "踏ん張るように椅子の足に自分の足をからめて、智花は\r\n"
+    },
+    {
+      "lineNumber": 267,
+      "line": "上半身を机に倒した。\r\n"
+    },
+    {
+      "lineNumber": 273,
+      "line": "@Talk name=智花 voice=TM030813\r\n"
+    },
+    {
+      "lineNumber": 274,
+      "line": "「ぃ、んっ、んっんっ……ふ、くっ……んぁぁっ……」\r\n"
+    },
+    {
+      "lineNumber": 277,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 278,
+      "line": "智花はがくがくと肩を震わせながら、俺を上目遣いに見た。\r\n"
+    },
+    {
+      "lineNumber": 281,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 282,
+      "line": "余裕のない表情で、唇を強く噛んでいる智花。\r\n"
+    },
+    {
+      "lineNumber": 288,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 289,
+      "line": "クラスメイトが全員出席している教室内で、羞恥心に\r\n"
+    },
+    {
+      "lineNumber": 290,
+      "line": "耐えながら俺の裁量で発情している恋人。\r\n"
+    },
+    {
+      "lineNumber": 293,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 294,
+      "line": "状況を確認するたび、後ろ暗い興奮でぞくぞくしてしまう。\r\n"
+    },
+    {
+      "lineNumber": 302,
+      "line": "@Talk name=静子 voice=SZ030024\r\n"
+    },
+    {
+      "lineNumber": 303,
+      "line": "「ええと、プリントと、宿題と〜、もう連絡事項はない\r\n"
+    },
+    {
+      "lineNumber": 304,
+      "line": "　はずですね、はい〜」\r\n"
+    },
+    {
+      "lineNumber": 307,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 308,
+      "line": "俺が智花への愛撫に夢中になっている間に、\r\n"
+    },
+    {
+      "lineNumber": 309,
+      "line": "ホームルームは進んでしまっていたらしい。\r\n"
+    },
+    {
+      "lineNumber": 312,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 313,
+      "line": "岡野先生は教卓の上を片付け、書類を胸に抱えた。\r\n"
+    },
+    {
+      "lineNumber": 318,
+      "line": "@Talk name=静子 voice=SZ030025\r\n"
+    },
+    {
+      "lineNumber": 319,
+      "line": "「それでは、今度は夏休み明けにお会いしましょうね〜\r\n"
+    },
+    {
+      "lineNumber": 320,
+      "line": "　今日みたいに、みんなが元気にそろってくれるのを\r\n"
+    },
+    {
+      "lineNumber": 321,
+      "line": "　楽しみにしています〜〜♪」\r\n"
+    },
+    {
+      "lineNumber": 324,
+      "line": "@Talk name=クラスメイトＢ voice=NP060006\r\n"
+    },
+    {
+      "lineNumber": 325,
+      "line": "「きりーつ」\r\n"
+    },
+    {
+      "lineNumber": 330,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 331,
+      "line": "学級委員の号令に、クラスメイトたちが立ち上がる。\r\n"
+    },
+    {
+      "lineNumber": 338,
+      "line": "@Talk name=智花 voice=TM030814\r\n"
+    },
+    {
+      "lineNumber": 339,
+      "line": "「ん、ん……はぁ、はぁ……んんぅ……っ！」\r\n"
+    },
+    {
+      "lineNumber": 342,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 343,
+      "line": "他に漏れず、智花もよろつきながら立ち上がった。\r\n"
+    },
+    {
+      "lineNumber": 346,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 347,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 350,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 351,
+      "line": "俺はそんな智花を横目で見つつ、ポケットの中で\r\n"
+    },
+    {
+      "lineNumber": 352,
+      "line": "ローターの振動を最大に引き上げた。\r\n"
+    },
+    {
+      "lineNumber": 359,
+      "line": "@Talk name=智花 voice=TM030815\r\n"
+    },
+    {
+      "lineNumber": 360,
+      "line": "「ん、んくぅぅぅ〜〜〜〜！？」\r\n"
+    },
+    {
+      "lineNumber": 363,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 364,
+      "line": "智花が机に手をついて、びくびくと痙攣する。\r\n"
+    },
+    {
+      "lineNumber": 370,
+      "line": "@Talk name=クラスメイトＢ voice=NP060007\r\n"
+    },
+    {
+      "lineNumber": 371,
+      "line": "「れいー」\r\n"
+    },
+    {
+      "lineNumber": 376,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 377,
+      "line": "クラスメイトたちが、それぞれ気だるげに吐息したり、\r\n"
+    },
+    {
+      "lineNumber": 378,
+      "line": "椅子をがたがたと言わせる音が響く。\r\n"
+    },
+    {
+      "lineNumber": 381,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 382,
+      "line": "そんな中、智花はひとり血が出るんじゃないかという\r\n"
+    },
+    {
+      "lineNumber": 383,
+      "line": "くらいに唇をかみしめながら、足をがくがくと震わせた。\r\n"
+    },
+    {
+      "lineNumber": 392,
+      "line": "@Talk name=智花 voice=TM030816\r\n"
+    },
+    {
+      "lineNumber": 393,
+      "line": "「んくゅっ、ん、んぁっ……んくぅぅ、んぐっ……！！」\r\n"
+    },
+    {
+      "lineNumber": 401,
+      "line": "@Talk name=静子 voice=SZ030026\r\n"
+    },
+    {
+      "lineNumber": 402,
+      "line": "「それでは、気をつけて帰ってくださいね〜〜」\r\n"
+    },
+    {
+      "lineNumber": 408,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 409,
+      "line": "岡野先生がとてとてと子どものように弾んだ歩調で教室を\r\n"
+    },
+    {
+      "lineNumber": 410,
+      "line": "出ていく。\r\n"
+    },
+    {
+      "lineNumber": 418,
+      "line": "@Talk name=智花 voice=TM030817\r\n"
+    },
+    {
+      "lineNumber": 419,
+      "line": "「んはぁっ……はぁ、はぁ…………っ」\r\n"
+    },
+    {
+      "lineNumber": 425,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 426,
+      "line": "緊張が一気にほどけたらしく、智花は椅子にへたりこんだ。\r\n"
+    },
+    {
+      "lineNumber": 431,
+      "line": "@Talk name=クラスメイトＡ voice=NP050010\r\n"
+    },
+    {
+      "lineNumber": 432,
+      "line": "「あれっ……智花ちゃん、大丈夫？」\r\n"
+    },
+    {
+      "lineNumber": 438,
+      "line": "@Talk name=智花 voice=TM030818\r\n"
+    },
+    {
+      "lineNumber": 439,
+      "line": "「ぅえ……あ、え、ええ……」\r\n"
+    },
+    {
+      "lineNumber": 442,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 443,
+      "line": "隣の席に座っている女子が、智花の異変に気づいて声を\r\n"
+    },
+    {
+      "lineNumber": 444,
+      "line": "かけている。\r\n"
+    },
+    {
+      "lineNumber": 447,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 448,
+      "line": "絶頂したらしい智花は目の焦点が合っておらず、\r\n"
+    },
+    {
+      "lineNumber": 449,
+      "line": "誤魔化す余裕はなさそうだった。\r\n"
+    },
+    {
+      "lineNumber": 456,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 457,
+      "line": "「智花、大丈夫か？」\r\n"
+    },
+    {
+      "lineNumber": 463,
+      "line": "@Talk name=智花 voice=TM030819\r\n"
+    },
+    {
+      "lineNumber": 464,
+      "line": "「あ、あっ……和哉……」\r\n"
+    },
+    {
+      "lineNumber": 467,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 468,
+      "line": "俺は智花をかばうようにそばへとかがみこんだ。\r\n"
+    },
+    {
+      "lineNumber": 473,
+      "line": "@Talk name=十兵衛 voice=JB030063\r\n"
+    },
+    {
+      "lineNumber": 474,
+      "line": "「なんだなんだ、どうした？」\r\n"
+    },
+    {
+      "lineNumber": 477,
+      "line": "@Talk name=クラスメイトＡ voice=NP050011\r\n"
+    },
+    {
+      "lineNumber": 478,
+      "line": "「智花ちゃん、本当に大丈夫なの？　やっぱり風邪？」\r\n"
+    },
+    {
+      "lineNumber": 481,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 482,
+      "line": "「もしかしたらそうかもしれないな。保健室に連れて\r\n"
+    },
+    {
+      "lineNumber": 483,
+      "line": "　行ってくるよ」\r\n"
+    },
+    {
+      "lineNumber": 489,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 490,
+      "line": "俺は手早く智花の荷物と自分の荷物を肩にかけ、智花の\r\n"
+    },
+    {
+      "lineNumber": 491,
+      "line": "身体を支えた。\r\n"
+    },
+    {
+      "lineNumber": 494,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 495,
+      "line": "「智花、立てるか？」\r\n"
+    },
+    {
+      "lineNumber": 501,
+      "line": "@Talk name=智花 voice=TM030820\r\n"
+    },
+    {
+      "lineNumber": 502,
+      "line": "「え、ええ……」\r\n"
+    },
+    {
+      "lineNumber": 505,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 506,
+      "line": "智花はすがりつくように俺の首筋に顔をうずめた。\r\n"
+    },
+    {
+      "lineNumber": 509,
+      "line": "@Talk name=クラスメイトＡ voice=NP050012\r\n"
+    },
+    {
+      "lineNumber": 510,
+      "line": "「うわぁ〜……なんか倉野くん、ほんっとーに\r\n"
+    },
+    {
+      "lineNumber": 511,
+      "line": "　智花ちゃんの彼氏みたい」\r\n"
+    },
+    {
+      "lineNumber": 517,
+      "line": "@Talk name=智花 voice=TM030821\r\n"
+    },
+    {
+      "lineNumber": 518,
+      "line": "「んぇっ、か、彼氏ぃ！？」\r\n"
+    },
+    {
+      "lineNumber": 521,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 522,
+      "line": "『彼氏』という言葉に反応したらしく、智花はびくっと\r\n"
+    },
+    {
+      "lineNumber": 523,
+      "line": "顔をはねあげた。\r\n"
+    },
+    {
+      "lineNumber": 526,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 527,
+      "line": "「本当にって？」\r\n"
+    },
+    {
+      "lineNumber": 530,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 531,
+      "line": "言い方がなんとなく引っかかった。\r\n"
+    },
+    {
+      "lineNumber": 534,
+      "line": "@Talk name=クラスメイトＡ voice=NP050013\r\n"
+    },
+    {
+      "lineNumber": 535,
+      "line": "「えー、だってさぁ、なんか朝からずっと倉野くんと\r\n"
+    },
+    {
+      "lineNumber": 536,
+      "line": "　智花ちゃんてば、見つめ合ったりベタベタしてて、\r\n"
+    },
+    {
+      "lineNumber": 537,
+      "line": "　イイ感じだったから」\r\n"
+    },
+    {
+      "lineNumber": 544,
+      "line": "@Talk name=十兵衛 voice=JB030064\r\n"
+    },
+    {
+      "lineNumber": 545,
+      "line": "「そっ、そりゃそうだ！！」\r\n"
+    },
+    {
+      "lineNumber": 550,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 551,
+      "line": "今まで黙っていた十兵衛が、いきなり大声をあげた。\r\n"
+    },
+    {
+      "lineNumber": 557,
+      "line": "@Talk name=十兵衛 voice=JB030065\r\n"
+    },
+    {
+      "lineNumber": 558,
+      "line": "「なんつっても、和哉と智花は双子だからな、うん、\r\n"
+    },
+    {
+      "lineNumber": 559,
+      "line": "　言うなれば恋人同士より深い関係って\r\n"
+    },
+    {
+      "lineNumber": 560,
+      "line": "　感じだよな、な！」\r\n"
+    },
+    {
+      "lineNumber": 563,
+      "line": "@Talk name=クラスメイトＡ voice=NP050014\r\n"
+    },
+    {
+      "lineNumber": 564,
+      "line": "「は、はぁ……？」\r\n"
+    },
+    {
+      "lineNumber": 569,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 570,
+      "line": "十兵衛はクラス中に聞こえるような大声で言いつつ、\r\n"
+    },
+    {
+      "lineNumber": 571,
+      "line": "俺に顔を寄せてきた。\r\n"
+    },
+    {
+      "lineNumber": 578,
+      "line": "@Talk name=十兵衛 voice=JB030066\r\n"
+    },
+    {
+      "lineNumber": 579,
+      "line": "「こ、ここは俺に任せておけ、うまくフォローしておいて\r\n"
+    },
+    {
+      "lineNumber": 580,
+      "line": "　やるからっ！」\r\n"
+    },
+    {
+      "lineNumber": 585,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 586,
+      "line": "「あ、ああ……ありがとうな」\r\n"
+    },
+    {
+      "lineNumber": 591,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 592,
+      "line": "十兵衛のフォローは心底あてにならない気がしたが、\r\n"
+    },
+    {
+      "lineNumber": 593,
+      "line": "今はありがたく従うことにした。\r\n"
+    },
+    {
+      "lineNumber": 598,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 599,
+      "line": "「智花、行こう」\r\n"
+    },
+    {
+      "lineNumber": 608,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 609,
+      "line": "返事をする余裕もなさそうな智花の肩をしっかりと抱いて、\r\n"
+    },
+    {
+      "lineNumber": 610,
+      "line": "俺は教室をあとにした。\r\n"
+    },
+    {
+      "lineNumber": 619,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 620,
+      "line": "教室を出た俺たちは、屋上の方へと足を運んだ。\r\n"
+    },
+    {
+      "lineNumber": 629,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 630,
+      "line": "屋上へ続く重い扉を開けると、夏独特の熱気が頬を撫でた。\r\n"
+    },
+    {
+      "lineNumber": 636,
+      "line": "@Talk name=智花 voice=TM030822\r\n"
+    },
+    {
+      "lineNumber": 637,
+      "line": "「あっ……姉さんたち、まだ来ていないのね」\r\n"
+    },
+    {
+      "lineNumber": 642,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 643,
+      "line": "「そうみたいだな、安心したよ」\r\n"
+    },
+    {
+      "lineNumber": 648,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 649,
+      "line": "生徒会や部活で学校に残る俺やいずみ姉さん、智花に\r\n"
+    },
+    {
+      "lineNumber": 650,
+      "line": "付き合って、みこと姉ちゃんたちも一緒に学校で\r\n"
+    },
+    {
+      "lineNumber": 651,
+      "line": "昼食をとる約束をしていた。\r\n"
+    },
+    {
+      "lineNumber": 654,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 655,
+      "line": "集合場所はいつも通りの屋上なのだが、今は人影が\r\n"
+    },
+    {
+      "lineNumber": 656,
+      "line": "なかった。\r\n"
+    },
+    {
+      "lineNumber": 659,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 660,
+      "line": "「本当は保健室に連れていければよかったんだけどな……」\r\n"
+    },
+    {
+      "lineNumber": 663,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 664,
+      "line": "保健室の先生がいた場合に、説明のしようがない。\r\n"
+    },
+    {
+      "lineNumber": 671,
+      "line": "@Talk name=智花 voice=TM030823\r\n"
+    },
+    {
+      "lineNumber": 672,
+      "line": "「ほっ、ほけっ！？　保健室でななななにするつもり！？」\r\n"
+    },
+    {
+      "lineNumber": 675,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 676,
+      "line": "「何って、着替えくらいならできるだろう」\r\n"
+    },
+    {
+      "lineNumber": 682,
+      "line": "@Talk name=智花 voice=TM030824\r\n"
+    },
+    {
+      "lineNumber": 683,
+      "line": "「なっ……なんだ、そういうこと……」\r\n"
+    },
+    {
+      "lineNumber": 686,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 687,
+      "line": "智花はなぜか残念そうに肩を落とした。\r\n"
+    },
+    {
+      "lineNumber": 690,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 691,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 694,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 695,
+      "line": "「智花はどんどんいやらしくなっていくな……」\r\n"
+    },
+    {
+      "lineNumber": 701,
+      "line": "@Talk name=智花 voice=TM030825\r\n"
+    },
+    {
+      "lineNumber": 702,
+      "line": "「だっ、誰のせいよ！？」\r\n"
+    },
+    {
+      "lineNumber": 708,
+      "line": "@Talk name=智花 voice=TM030826\r\n"
+    },
+    {
+      "lineNumber": 709,
+      "line": "「さっきだって、教室で……いきなり、イかされちゃう\r\n"
+    },
+    {
+      "lineNumber": 710,
+      "line": "　なんて、思わなくて……びっくりしたんだからぁ……」\r\n"
+    },
+    {
+      "lineNumber": 713,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 714,
+      "line": "智花はスカートのすそをぎゅうっとつかんで、膝を\r\n"
+    },
+    {
+      "lineNumber": 715,
+      "line": "擦り合わせた。\r\n"
+    },
+    {
+      "lineNumber": 718,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 719,
+      "line": "「良かった、ちゃんとイけたんだな」\r\n"
+    },
+    {
+      "lineNumber": 724,
+      "line": "@Talk name=智花 voice=TM030827\r\n"
+    },
+    {
+      "lineNumber": 725,
+      "line": "「よ、良かったってなにが……？」\r\n"
+    },
+    {
+      "lineNumber": 728,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 729,
+      "line": "「みんなの前で恋人宣言をしたりはできないけど、\r\n"
+    },
+    {
+      "lineNumber": 730,
+      "line": "　みんなの前で恋人同士にしかできないことはできたから」\r\n"
+    },
+    {
+      "lineNumber": 736,
+      "line": "@Talk name=智花 voice=TM030828\r\n"
+    },
+    {
+      "lineNumber": 737,
+      "line": "「あっ……」\r\n"
+    },
+    {
+      "lineNumber": 740,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 741,
+      "line": "智花は俺の顔をまじまじと見つめた後、恥ずかしそうに\r\n"
+    },
+    {
+      "lineNumber": 742,
+      "line": "うつむいた。\r\n"
+    },
+    {
+      "lineNumber": 748,
+      "line": "@Talk name=智花 voice=TM030829\r\n"
+    },
+    {
+      "lineNumber": 749,
+      "line": "「わ、私も……嬉しかったわ、和哉がずっと私のこと、\r\n"
+    },
+    {
+      "lineNumber": 750,
+      "line": "　気にしてくれてるって感じられて……どきどきして……」\r\n"
+    },
+    {
+      "lineNumber": 755,
+      "line": "@Talk name=智花 voice=TM030830\r\n"
+    },
+    {
+      "lineNumber": 756,
+      "line": "「やらしくて、恥ずかしいのに、全然いやじゃなくて、\r\n"
+    },
+    {
+      "lineNumber": 757,
+      "line": "　むしろ、もっと……」\r\n"
+    },
+    {
+      "lineNumber": 764,
+      "line": "@Talk name=みこと voice=MK030025\r\n"
+    },
+    {
+      "lineNumber": 765,
+      "line": "「あれー、もう来てたんだ、ふたりともー！」\r\n"
+    },
+    {
+      "lineNumber": 772,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 773,
+      "line": "「っ！」\r\n"
+    },
+    {
+      "lineNumber": 781,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 782,
+      "line": "元気の良い声に振り向くと、他の姉妹たちがそろって\r\n"
+    },
+    {
+      "lineNumber": 783,
+      "line": "屋上に出てくるところだった。\r\n"
+    },
+    {
+      "lineNumber": 786,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 787,
+      "line": "「みんな一緒だったのか？」\r\n"
+    },
+    {
+      "lineNumber": 793,
+      "line": "@Talk name=絵麻 voice=EM030050\r\n"
+    },
+    {
+      "lineNumber": 794,
+      "line": "「廊下でばったり、です」\r\n"
+    },
+    {
+      "lineNumber": 805,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 806,
+      "line": "絵麻がこっくりとうなずいて、俺に駆け寄ってきた。\r\n"
+    },
+    {
+      "lineNumber": 813,
+      "line": "@Talk name=智花 voice=TM030831\r\n"
+    },
+    {
+      "lineNumber": 814,
+      "line": "「あっ……！」\r\n"
+    },
+    {
+      "lineNumber": 817,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 818,
+      "line": "とっさに智花が反応する。\r\n"
+    },
+    {
+      "lineNumber": 821,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 822,
+      "line": "さっきは十兵衛にまで嫉妬していたというから、絵麻が\r\n"
+    },
+    {
+      "lineNumber": 823,
+      "line": "抱きついてくるということも許せないのかもしれない。\r\n"
+    },
+    {
+      "lineNumber": 828,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 829,
+      "line": "しかし自制したのか、智花はひと声漏らしただけで\r\n"
+    },
+    {
+      "lineNumber": 830,
+      "line": "それ以上のことは言わなかった。\r\n"
+    },
+    {
+      "lineNumber": 837,
+      "line": "@Talk name=いずみ voice=IS030021\r\n"
+    },
+    {
+      "lineNumber": 838,
+      "line": "「さあ、早速お昼ごはんにしましょう」\r\n"
+    },
+    {
+      "lineNumber": 844,
+      "line": "@Talk name=弥恵 voice=YE030060\r\n"
+    },
+    {
+      "lineNumber": 845,
+      "line": "「う、うん……でも、智花姉さん、大丈夫？\r\n"
+    },
+    {
+      "lineNumber": 846,
+      "line": "　お顔が赤いけど……」\r\n"
+    },
+    {
+      "lineNumber": 849,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 850,
+      "line": "絵麻に付き添うようにして俺たちのそばに立った弥恵が、\r\n"
+    },
+    {
+      "lineNumber": 851,
+      "line": "心配そうに小首をかしげた。\r\n"
+    },
+    {
+      "lineNumber": 857,
+      "line": "@Talk name=智花 voice=TM030832\r\n"
+    },
+    {
+      "lineNumber": 858,
+      "line": "「え、ええっ、大丈夫よ、なんでもないわ」\r\n"
+    },
+    {
+      "lineNumber": 861,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 862,
+      "line": "「本当に大丈夫か？　なんだったら、先に帰った方が\r\n"
+    },
+    {
+      "lineNumber": 863,
+      "line": "　いいんじゃないか？」\r\n"
+    },
+    {
+      "lineNumber": 869,
+      "line": "@Talk name=智花 voice=TM030833\r\n"
+    },
+    {
+      "lineNumber": 870,
+      "line": "「もう落ち着いたわ、平気よ」\r\n"
+    },
+    {
+      "lineNumber": 873,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 874,
+      "line": "声を落として尋ねた俺に、智花は意固地になった様子で\r\n"
+    },
+    {
+      "lineNumber": 875,
+      "line": "答えた。\r\n"
+    },
+    {
+      "lineNumber": 886,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 887,
+      "line": "お弁当箱を広げ、六人で昼食を食べ始めた。\r\n"
+    },
+    {
+      "lineNumber": 891,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 892,
+      "line": "まだまだこれから昇っていくだろう太陽にじりじりと\r\n"
+    },
+    {
+      "lineNumber": 893,
+      "line": "焼かれながら、久々の登校であった出来事を思い思いに\r\n"
+    },
+    {
+      "lineNumber": 894,
+      "line": "語りあう。\r\n"
+    },
+    {
+      "lineNumber": 901,
+      "line": "@Talk name=みこと voice=MK030026\r\n"
+    },
+    {
+      "lineNumber": 902,
+      "line": "「あのプリント見た？　かつやくしたぶかつどーと、\r\n"
+    },
+    {
+      "lineNumber": 903,
+      "line": "　こんごのよてい？　とかいうやつっ！」\r\n"
+    },
+    {
+      "lineNumber": 909,
+      "line": "@Talk name=絵麻 voice=EM030051\r\n"
+    },
+    {
+      "lineNumber": 910,
+      "line": "「はい。クラスの子に、話しかけられました」\r\n"
+    },
+    {
+      "lineNumber": 916,
+      "line": "@Talk name=弥恵 voice=YE030061\r\n"
+    },
+    {
+      "lineNumber": 917,
+      "line": "「あはは、運動部のほとんどにみこと姉さんの名前が\r\n"
+    },
+    {
+      "lineNumber": 918,
+      "line": "　載ったから、本当に姉妹か聞かれたんだよね」\r\n"
+    },
+    {
+      "lineNumber": 925,
+      "line": "@Talk name=智花 voice=TM030834\r\n"
+    },
+    {
+      "lineNumber": 926,
+      "line": "「へえ、すごいじゃな……」\r\n"
+    },
+    {
+      "lineNumber": 935,
+      "line": "@Talk name=智花 voice=TM030835\r\n"
+    },
+    {
+      "lineNumber": 936,
+      "line": "「……んんんっ！？」\r\n"
+    },
+    {
+      "lineNumber": 941,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 942,
+      "line": "言葉の途中で、智花はびくびくっと身体を震わせた。\r\n"
+    },
+    {
+      "lineNumber": 948,
+      "line": "@Talk name=みこと voice=MK030027\r\n"
+    },
+    {
+      "lineNumber": 949,
+      "line": "「えー、ともはまだ見てないの？」\r\n"
+    },
+    {
+      "lineNumber": 955,
+      "line": "@Talk name=智花 voice=TM030836\r\n"
+    },
+    {
+      "lineNumber": 956,
+      "line": "「えっ、ええっ……ホームルームのときは……っ、んん、\r\n"
+    },
+    {
+      "lineNumber": 957,
+      "line": "　ぼーっとしてたから……っ」\r\n"
+    },
+    {
+      "lineNumber": 960,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 961,
+      "line": "びくっ、びくっと震えながらも、智花はみこと姉ちゃんに\r\n"
+    },
+    {
+      "lineNumber": 962,
+      "line": "受け答えをしている。\r\n"
+    },
+    {
+      "lineNumber": 967,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 968,
+      "line": "そんな智花の姿を横目にしながら、俺はポケットから手を\r\n"
+    },
+    {
+      "lineNumber": 969,
+      "line": "出して昼食を食べ続けた。\r\n"
+    },
+    {
+      "lineNumber": 975,
+      "line": "@Talk name=智花 voice=TM030837\r\n"
+    },
+    {
+      "lineNumber": 976,
+      "line": "「ん、んくぅっ……はぁぁん、ん、んっ……！？」\r\n"
+    },
+    {
+      "lineNumber": 979,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 980,
+      "line": "いまにも弁当箱を落としてしまいそうな危うさで、智花が\r\n"
+    },
+    {
+      "lineNumber": 981,
+      "line": "びくびくと震えている。\r\n"
+    },
+    {
+      "lineNumber": 984,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 985,
+      "line": "絶頂したばかりのおかげか、スイッチが弱でも快感は\r\n"
+    },
+    {
+      "lineNumber": 986,
+      "line": "大きいようだった。\r\n"
+    },
+    {
+      "lineNumber": 992,
+      "line": "@Talk name=智花 voice=TM030838\r\n"
+    },
+    {
+      "lineNumber": 993,
+      "line": "「ふっ……ぁ、あふ……んんっ……」\r\n"
+    },
+    {
+      "lineNumber": 996,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 997,
+      "line": "智花が『どうして今？』とでも問いたそうに、俺の方を\r\n"
+    },
+    {
+      "lineNumber": 998,
+      "line": "ちらちらと見やる。\r\n"
+    },
+    {
+      "lineNumber": 1004,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1005,
+      "line": "俺はその視線にあいまいな微笑で応え、もくもくと弁当を\r\n"
+    },
+    {
+      "lineNumber": 1006,
+      "line": "咀嚼した。\r\n"
+    },
+    {
+      "lineNumber": 1012,
+      "line": "@Talk name=いずみ voice=IS030022\r\n"
+    },
+    {
+      "lineNumber": 1013,
+      "line": "「そういえば、かずちゃん、今日は岡野先生とお話をした\r\n"
+    },
+    {
+      "lineNumber": 1014,
+      "line": "　かしら？」\r\n"
+    },
+    {
+      "lineNumber": 1017,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1018,
+      "line": "「岡野先生と？　雑談くらいならしたけど」\r\n"
+    },
+    {
+      "lineNumber": 1023,
+      "line": "@Talk name=いずみ voice=IS030023\r\n"
+    },
+    {
+      "lineNumber": 1024,
+      "line": "「今日の生徒会活動で使う資料を頼んでおいたのだけど、\r\n"
+    },
+    {
+      "lineNumber": 1025,
+      "line": "　かずちゃんに言づてが無いということは……」\r\n"
+    },
+    {
+      "lineNumber": 1028,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1029,
+      "line": "「はは……忘れているのかもしれないな」\r\n"
+    },
+    {
+      "lineNumber": 1035,
+      "line": "@Talk name=いずみ voice=IS030024\r\n"
+    },
+    {
+      "lineNumber": 1036,
+      "line": "「はぁ……あとで聞いてみないといけないわね」\r\n"
+    },
+    {
+      "lineNumber": 1039,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1040,
+      "line": "いずみ姉さんは困ったような吐息を漏らした。\r\n"
+    },
+    {
+      "lineNumber": 1043,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1044,
+      "line": "よほど手間のかかる資料なのか、半ばあきらめの表情に\r\n"
+    },
+    {
+      "lineNumber": 1045,
+      "line": "なっている。\r\n"
+    },
+    {
+      "lineNumber": 1053,
+      "line": "@Talk name=智花 voice=TM030839\r\n"
+    },
+    {
+      "lineNumber": 1054,
+      "line": "「んっ……んんぅ……はぁ……んんっ……」\r\n"
+    },
+    {
+      "lineNumber": 1057,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1058,
+      "line": "いずみ姉さんの悩ましげな吐息に重なって、智花の\r\n"
+    },
+    {
+      "lineNumber": 1059,
+      "line": "口からも喘ぎ声が漏れ出していた。\r\n"
+    },
+    {
+      "lineNumber": 1064,
+      "line": "@Talk name=絵麻 voice=EM030052\r\n"
+    },
+    {
+      "lineNumber": 1065,
+      "line": "「大丈夫ですか、ともかお姉ちゃん」\r\n"
+    },
+    {
+      "lineNumber": 1071,
+      "line": "@Talk name=智花 voice=TM030840\r\n"
+    },
+    {
+      "lineNumber": 1072,
+      "line": "「えぇっ、な、なにが？」\r\n"
+    },
+    {
+      "lineNumber": 1077,
+      "line": "@Talk name=弥恵 voice=YE030062\r\n"
+    },
+    {
+      "lineNumber": 1078,
+      "line": "「さっきからあまりおはしが進んでいないみたいだけど、\r\n"
+    },
+    {
+      "lineNumber": 1079,
+      "line": "　やっぱり具合が悪いんじゃ……？」\r\n"
+    },
+    {
+      "lineNumber": 1085,
+      "line": "@Talk name=智花 voice=TM030841\r\n"
+    },
+    {
+      "lineNumber": 1086,
+      "line": "「そ、そんなことないわ、ちょっと日差しが強くて\r\n"
+    },
+    {
+      "lineNumber": 1087,
+      "line": "　ぼーっとしてるだけ」\r\n"
+    },
+    {
+      "lineNumber": 1093,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1094,
+      "line": "智花は額ににじんだ汗をさも気温のせいだというように\r\n"
+    },
+    {
+      "lineNumber": 1095,
+      "line": "ぬぐってみせ、それから弁当を急いでつまみはじめた。\r\n"
+    },
+    {
+      "lineNumber": 1101,
+      "line": "@Talk name=いずみ voice=IS030025\r\n"
+    },
+    {
+      "lineNumber": 1102,
+      "line": "「そうね、日に焼けるのもいやだから、早く食べて\r\n"
+    },
+    {
+      "lineNumber": 1103,
+      "line": "　しまいましょう」\r\n"
+    },
+    {
+      "lineNumber": 1109,
+      "line": "@Talk name=みこと voice=MK030028\r\n"
+    },
+    {
+      "lineNumber": 1110,
+      "line": "「みんなゆっくりすぎだよー、あたし、もう\r\n"
+    },
+    {
+      "lineNumber": 1111,
+      "line": "　食べおわってるもんっ！」\r\n"
+    },
+    {
+      "lineNumber": 1114,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1115,
+      "line": "「よく噛んで食べないと身体に悪いぞ？」\r\n"
+    },
+    {
+      "lineNumber": 1120,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1121,
+      "line": "みこと姉ちゃんをたしなめたものの、俺もすでに弁当を\r\n"
+    },
+    {
+      "lineNumber": 1122,
+      "line": "食べ終えていた。\r\n"
+    },
+    {
+      "lineNumber": 1125,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1126,
+      "line": "智花を間接的に愛撫する悦びの方が食欲に勝って、\r\n"
+    },
+    {
+      "lineNumber": 1127,
+      "line": "つい気が急いてしまっている。\r\n"
+    },
+    {
+      "lineNumber": 1134,
+      "line": "@Talk name=智花 voice=TM030842\r\n"
+    },
+    {
+      "lineNumber": 1135,
+      "line": "「ん、ぁ、あふぅっ……っ！」\r\n"
+    },
+    {
+      "lineNumber": 1138,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1139,
+      "line": "ポケットの中でリモコンを細かく操作して、強弱を\r\n"
+    },
+    {
+      "lineNumber": 1140,
+      "line": "切り替える。\r\n"
+    },
+    {
+      "lineNumber": 1143,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1144,
+      "line": "弁当を半分ほど食べていた智花は、またびくりとして箸を\r\n"
+    },
+    {
+      "lineNumber": 1145,
+      "line": "止めてしまった。\r\n"
+    },
+    {
+      "lineNumber": 1150,
+      "line": "@Talk name=いずみ voice=IS030026\r\n"
+    },
+    {
+      "lineNumber": 1151,
+      "line": "「智花ちゃん、大丈夫？」\r\n"
+    },
+    {
+      "lineNumber": 1157,
+      "line": "@Talk name=智花 voice=TM030843\r\n"
+    },
+    {
+      "lineNumber": 1158,
+      "line": "「えっ、ええ……んんっ！　部活でも、料理をするから、\r\n"
+    },
+    {
+      "lineNumber": 1159,
+      "line": "　おなかいっぱいにしないほうが、いいのよ……」\r\n"
+    },
+    {
+      "lineNumber": 1165,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1166,
+      "line": "智花はひきつった笑みを浮かべつつ、弁当のふたを閉じた。\r\n"
+    },
+    {
+      "lineNumber": 1179,
+      "line": "@Talk name=絵麻 voice=EM030053\r\n"
+    },
+    {
+      "lineNumber": 1180,
+      "line": "「……ごちそうさまでした」\r\n"
+    },
+    {
+      "lineNumber": 1185,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1186,
+      "line": "小さな声でつぶやいて、絵麻が箸を置く。\r\n"
+    },
+    {
+      "lineNumber": 1192,
+      "line": "@Talk name=いずみ voice=IS030027\r\n"
+    },
+    {
+      "lineNumber": 1193,
+      "line": "「みんな食べ終わったわね、それじゃあ行きましょう」\r\n"
+    },
+    {
+      "lineNumber": 1199,
+      "line": "@Talk name=弥恵 voice=YE030063\r\n"
+    },
+    {
+      "lineNumber": 1200,
+      "line": "「ええと、みこと姉さんは運動部の助っ人、無いん\r\n"
+    },
+    {
+      "lineNumber": 1201,
+      "line": "　だよね？」\r\n"
+    },
+    {
+      "lineNumber": 1207,
+      "line": "@Talk name=みこと voice=MK030029\r\n"
+    },
+    {
+      "lineNumber": 1208,
+      "line": "「うんっ、やええまはいっつもしょーてんがいで\r\n"
+    },
+    {
+      "lineNumber": 1209,
+      "line": "　かいものしてるんでしょ？　あたし荷物もってあげるー」\r\n"
+    },
+    {
+      "lineNumber": 1214,
+      "line": "@Talk name=絵麻 voice=EM030054\r\n"
+    },
+    {
+      "lineNumber": 1215,
+      "line": "「目的はアイスですか、それともハンバーガーですか？」\r\n"
+    },
+    {
+      "lineNumber": 1223,
+      "line": "@Talk name=みこと voice=MK030030\r\n"
+    },
+    {
+      "lineNumber": 1224,
+      "line": "「な、なんでばれたのっ！？　いっ、いこーる、えまは\r\n"
+    },
+    {
+      "lineNumber": 1225,
+      "line": "　エスパーだったの！？」\r\n"
+    },
+    {
+      "lineNumber": 1230,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1231,
+      "line": "わいわいと騒ぎながら屋上を出ていく姉妹たちの後ろに、\r\n"
+    },
+    {
+      "lineNumber": 1232,
+      "line": "俺と智花が続く。\r\n"
+    },
+    {
+      "lineNumber": 1237,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1238,
+      "line": "「智花、ちゃんと立ってられるか？」\r\n"
+    },
+    {
+      "lineNumber": 1244,
+      "line": "@Talk name=智花 voice=TM030844\r\n"
+    },
+    {
+      "lineNumber": 1245,
+      "line": "「え……？」\r\n"
+    },
+    {
+      "lineNumber": 1248,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1249,
+      "line": "俺の言葉に智花が目を見開くと同時、ローターの振動を\r\n"
+    },
+    {
+      "lineNumber": 1250,
+      "line": "倍加させた。\r\n"
+    },
+    {
+      "lineNumber": 1259,
+      "line": "@Talk name=智花 voice=TM030845\r\n"
+    },
+    {
+      "lineNumber": 1260,
+      "line": "「ひっ……ん、んぁぁぁぁっ、んぅぅぅぅぅ！」\r\n"
+    },
+    {
+      "lineNumber": 1266,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1267,
+      "line": "智花が背筋を反らして、何度か大きく痙攣した。\r\n"
+    },
+    {
+      "lineNumber": 1275,
+      "line": "@Talk name=智花 voice=TM030846\r\n"
+    },
+    {
+      "lineNumber": 1276,
+      "line": "「んっ、はぁ、はぁっ……はぁっ……」\r\n"
+    },
+    {
+      "lineNumber": 1282,
+      "line": "@Talk name=いずみ voice=IS030028\r\n"
+    },
+    {
+      "lineNumber": 1283,
+      "line": "「あら、立ち止まってどうしたの？」\r\n"
+    },
+    {
+      "lineNumber": 1286,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1287,
+      "line": "いずみ姉さんは、日差しの強い屋上にとどまっている\r\n"
+    },
+    {
+      "lineNumber": 1288,
+      "line": "俺たちを不思議そうに見た。\r\n"
+    },
+    {
+      "lineNumber": 1291,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1292,
+      "line": "「なんでもないよ」\r\n"
+    },
+    {
+      "lineNumber": 1298,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1299,
+      "line": "なんでもない風を装って、俺は歩みを進めた。\r\n"
+    },
+    {
+      "lineNumber": 1305,
+      "line": "@Talk name=智花 voice=TM030847\r\n"
+    },
+    {
+      "lineNumber": 1306,
+      "line": "「か、和哉……どうして……」\r\n"
+    },
+    {
+      "lineNumber": 1312,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1313,
+      "line": "みんなと合流する直前、智花が後ろから俺のシャツを\r\n"
+    },
+    {
+      "lineNumber": 1314,
+      "line": "引いてきた。\r\n"
+    },
+    {
+      "lineNumber": 1317,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1318,
+      "line": "「やきもちを焼いているみたいだったから」\r\n"
+    },
+    {
+      "lineNumber": 1324,
+      "line": "@Talk name=智花 voice=TM030848\r\n"
+    },
+    {
+      "lineNumber": 1325,
+      "line": "「えっ……あ、ああ……っ、なんで、分かって……？」\r\n"
+    },
+    {
+      "lineNumber": 1328,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1329,
+      "line": "図星だったらしく、智花は水から上がった魚のように\r\n"
+    },
+    {
+      "lineNumber": 1330,
+      "line": "ぱくぱくと口を喘がせた。\r\n"
+    },
+    {
+      "lineNumber": 1333,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1334,
+      "line": "今までの俺が鈍感すぎたのだと実感する。\r\n"
+    },
+    {
+      "lineNumber": 1337,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1338,
+      "line": "「やきもちを焼く必要はないって、分かってくれたか？」\r\n"
+    },
+    {
+      "lineNumber": 1344,
+      "line": "@Talk name=智花 voice=TM030849\r\n"
+    },
+    {
+      "lineNumber": 1345,
+      "line": "「……んん、す、少しは……ね」\r\n"
+    },
+    {
+      "lineNumber": 1348,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1349,
+      "line": "「少し？」\r\n"
+    },
+    {
+      "lineNumber": 1355,
+      "line": "@Talk name=智花 voice=TM030850\r\n"
+    },
+    {
+      "lineNumber": 1356,
+      "line": "「じ、自分でも思うもの……私、すごく嫉妬深いの」\r\n"
+    },
+    {
+      "lineNumber": 1359,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1360,
+      "line": "智花は真っ赤な顔で俺を見上げた。\r\n"
+    },
+    {
+      "lineNumber": 1363,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1364,
+      "line": "二度も人前で絶頂した智花は、顔に浮かぶ興奮を隠せなく\r\n"
+    },
+    {
+      "lineNumber": 1365,
+      "line": "なっているようだった。\r\n"
+    },
+    {
+      "lineNumber": 1368,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1369,
+      "line": "「……智花、部活は遅くまでかかりそうか？」\r\n"
+    },
+    {
+      "lineNumber": 1375,
+      "line": "@Talk name=智花 voice=TM030851\r\n"
+    },
+    {
+      "lineNumber": 1376,
+      "line": "「えっ……ど、どうして？」\r\n"
+    },
+    {
+      "lineNumber": 1379,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1380,
+      "line": "「終わったら、教室に来てほしいんだ」\r\n"
+    },
+    {
+      "lineNumber": 1383,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1384,
+      "line": "智花は俺の顔をまじまじと見つめ……\r\n"
+    },
+    {
+      "lineNumber": 1390,
+      "line": "@Talk name=智花 voice=TM030852\r\n"
+    },
+    {
+      "lineNumber": 1391,
+      "line": "「わ、分かったわ……」\r\n"
+    },
+    {
+      "lineNumber": 1394,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1395,
+      "line": "真っ赤な顔で、小さくうなずいてくれた。\r\n"
+    }
+  ]
+}

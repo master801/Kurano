@@ -1,0 +1,2225 @@
+{
+  "name": "w05_z05.ks",
+  "lines": [
+    {
+      "lineNumber": 9,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 10,
+      "line": "「麦茶かコーラか、それが問題だ……」\r\n"
+    },
+    {
+      "lineNumber": 19,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 20,
+      "line": "「……っと」\r\n"
+    },
+    {
+      "lineNumber": 23,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 24,
+      "line": "キッチンへ飲み物を取りに行くと、いずみ姉さんが\r\n"
+    },
+    {
+      "lineNumber": 25,
+      "line": "リビングでテレビを見ていた。\r\n"
+    },
+    {
+      "lineNumber": 31,
+      "line": "@Talk name=いずみ voice=IS001349\r\n"
+    },
+    {
+      "lineNumber": 32,
+      "line": "「あら、かずちゃん」\r\n"
+    },
+    {
+      "lineNumber": 35,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 36,
+      "line": "「姉さんもなにか飲む？」\r\n"
+    },
+    {
+      "lineNumber": 42,
+      "line": "@Talk name=いずみ voice=IS001350\r\n"
+    },
+    {
+      "lineNumber": 43,
+      "line": "「そうね、それじゃあアイスティーをお願いしようかしら」\r\n"
+    },
+    {
+      "lineNumber": 46,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 47,
+      "line": "「分かった」\r\n"
+    },
+    {
+      "lineNumber": 54,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 55,
+      "line": "ちょうどいいので、自分の分もアイスティーを作ることに\r\n"
+    },
+    {
+      "lineNumber": 56,
+      "line": "した。\r\n"
+    },
+    {
+      "lineNumber": 62,
+      "line": "@Talk name=いずみ voice=IS001351\r\n"
+    },
+    {
+      "lineNumber": 63,
+      "line": "「ねえ、かずちゃん……」\r\n"
+    },
+    {
+      "lineNumber": 66,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 67,
+      "line": "「うん？」\r\n"
+    },
+    {
+      "lineNumber": 72,
+      "line": "@Talk name=いずみ voice=IS001352\r\n"
+    },
+    {
+      "lineNumber": 73,
+      "line": "「明日はお店、何時頃から開けようかしら？」\r\n"
+    },
+    {
+      "lineNumber": 76,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 77,
+      "line": "「そうだなぁ……」\r\n"
+    },
+    {
+      "lineNumber": 82,
+      "line": "@Talk name=いずみ voice=IS001353\r\n"
+    },
+    {
+      "lineNumber": 83,
+      "line": "「今日は丸一日遊んでいたわけだから、明日出すケーキの\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "　準備はできていないでしょう？」\r\n"
+    },
+    {
+      "lineNumber": 89,
+      "line": "@Talk name=いずみ voice=IS001354\r\n"
+    },
+    {
+      "lineNumber": 90,
+      "line": "「疲れているみんなに、早起きさせるのも心苦しいし……」\r\n"
+    },
+    {
+      "lineNumber": 93,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 94,
+      "line": "「そっか、そうだな……」\r\n"
+    },
+    {
+      "lineNumber": 99,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 100,
+      "line": "『遊んでいて疲れたから』という理由で開店時間を\r\n"
+    },
+    {
+      "lineNumber": 101,
+      "line": "遅らせるのは心苦しいが、なにしろ今、店のメニューを\r\n"
+    },
+    {
+      "lineNumber": 102,
+      "line": "作れるのは弥恵しかいない。\r\n"
+    },
+    {
+      "lineNumber": 105,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 106,
+      "line": "妹一人にそんな負担を負わせるよりは、家族を大切に\r\n"
+    },
+    {
+      "lineNumber": 107,
+      "line": "する方が先決だ。\r\n"
+    },
+    {
+      "lineNumber": 112,
+      "line": "@Talk name=いずみ voice=IS001355\r\n"
+    },
+    {
+      "lineNumber": 113,
+      "line": "「開店時間を２時間遅らせるというのはどうかしら？」\r\n"
+    },
+    {
+      "lineNumber": 116,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 117,
+      "line": "「２時間っていうと、１２時からか」\r\n"
+    },
+    {
+      "lineNumber": 123,
+      "line": "@Talk name=いずみ voice=IS001356\r\n"
+    },
+    {
+      "lineNumber": 124,
+      "line": "「それなら、最初のピークには間に合うでしょう？」\r\n"
+    },
+    {
+      "lineNumber": 127,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 128,
+      "line": "「ああ、そうだな」\r\n"
+    },
+    {
+      "lineNumber": 131,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 132,
+      "line": "午後のおやつに、と買いに来る近所のお客さんが多いから、\r\n"
+    },
+    {
+      "lineNumber": 133,
+      "line": "休日は１２時ごろが最初のピークなのだ。\r\n"
+    },
+    {
+      "lineNumber": 136,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 137,
+      "line": "「それじゃあ、貼り紙をしておくよ」\r\n"
+    },
+    {
+      "lineNumber": 142,
+      "line": "@Talk name=いずみ voice=IS001357\r\n"
+    },
+    {
+      "lineNumber": 143,
+      "line": "「ありがとう、ちょうどいま作ったところなの」\r\n"
+    },
+    {
+      "lineNumber": 149,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 150,
+      "line": "いずみ姉さんは、リビングのテーブルに伏せてあった紙を\r\n"
+    },
+    {
+      "lineNumber": 151,
+      "line": "こちらへ手渡してきた。\r\n"
+    },
+    {
+      "lineNumber": 156,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 157,
+      "line": "「さすが、いずみ姉さん」\r\n"
+    },
+    {
+      "lineNumber": 162,
+      "line": "@Talk name=いずみ voice=IS001358\r\n"
+    },
+    {
+      "lineNumber": 163,
+      "line": "「書いてから、もうパジャマに着替えていたことに\r\n"
+    },
+    {
+      "lineNumber": 164,
+      "line": "　気付いて、どうしようかと思っていたところだったのよ」\r\n"
+    },
+    {
+      "lineNumber": 167,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 168,
+      "line": "「なるほど」\r\n"
+    },
+    {
+      "lineNumber": 174,
+      "line": "@Talk name=いずみ voice=IS001359\r\n"
+    },
+    {
+      "lineNumber": 175,
+      "line": "「悪いけどよろしくね。かずちゃん」\r\n"
+    },
+    {
+      "lineNumber": 178,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 179,
+      "line": "「分かった」\r\n"
+    },
+    {
+      "lineNumber": 187,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 188,
+      "line": "俺はアイスティーを飲み干したあと、ガムテープを持って\r\n"
+    },
+    {
+      "lineNumber": 189,
+      "line": "店の方へと下りていった。\r\n"
+    },
+    {
+      "lineNumber": 197,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 198,
+      "line": "「これでよし……と」\r\n"
+    },
+    {
+      "lineNumber": 201,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 202,
+      "line": "『ｃｌｏｓｅｄ』の看板の下に、開店時間の貼り紙をする。\r\n"
+    },
+    {
+      "lineNumber": 205,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 206,
+      "line": "達筆な姉さんの字を眺めつつ、紙が斜めになって\r\n"
+    },
+    {
+      "lineNumber": 207,
+      "line": "いないか、何度か確認する。\r\n"
+    },
+    {
+      "lineNumber": 212,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 213,
+      "line": "「…………ん？」\r\n"
+    },
+    {
+      "lineNumber": 218,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 219,
+      "line": "違和感を覚えて、ガラス戸によくよく目をこらしてみた。\r\n"
+    },
+    {
+      "lineNumber": 222,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 223,
+      "line": "「明かりが点いてる……？」\r\n"
+    },
+    {
+      "lineNumber": 226,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 227,
+      "line": "見間違いかと目を擦ってみるが、確かに厨房の明かりが\r\n"
+    },
+    {
+      "lineNumber": 228,
+      "line": "点いている。\r\n"
+    },
+    {
+      "lineNumber": 231,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 232,
+      "line": "家族の誰かとも考えたが、もうみんな寝ているはず。\r\n"
+    },
+    {
+      "lineNumber": 235,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 236,
+      "line": "……まさか、泥棒か？\r\n"
+    },
+    {
+      "lineNumber": 244,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 245,
+      "line": "俺は息を忍ばせて、直接厨房に繋がる扉がある、\r\n"
+    },
+    {
+      "lineNumber": 246,
+      "line": "店の裏手へと回った。\r\n"
+    },
+    {
+      "lineNumber": 260,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 261,
+      "line": "「誰だっ！」\r\n"
+    },
+    {
+      "lineNumber": 264,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 265,
+      "line": "みこと姉ちゃんの影響ではないが、こういうことは\r\n"
+    },
+    {
+      "lineNumber": 266,
+      "line": "先手必勝に限る。\r\n"
+    },
+    {
+      "lineNumber": 269,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 270,
+      "line": "俺は大声をあげて、厨房の扉を開いた！\r\n"
+    },
+    {
+      "lineNumber": 276,
+      "line": "@Talk name=弥恵 voice=YE001155\r\n"
+    },
+    {
+      "lineNumber": 277,
+      "line": "「ふぁっ！？　はわわわわ！？」\r\n"
+    },
+    {
+      "lineNumber": 285,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 286,
+      "line": "女の子の悲鳴に続いて、物がばたばたと倒れる音が厨房に\r\n"
+    },
+    {
+      "lineNumber": 287,
+      "line": "響き渡る。\r\n"
+    },
+    {
+      "lineNumber": 294,
+      "line": "@Talk name=弥恵 voice=YE001156\r\n"
+    },
+    {
+      "lineNumber": 295,
+      "line": "「ご、ごめんなさいごめんなさいっ！？」\r\n"
+    },
+    {
+      "lineNumber": 300,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 301,
+      "line": "厨房に不審な人物の姿はなく、あるのは床にうずくまって\r\n"
+    },
+    {
+      "lineNumber": 302,
+      "line": "頭を抱えて縮こまる女の子の姿だけだ。\r\n"
+    },
+    {
+      "lineNumber": 305,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 306,
+      "line": "「……弥恵？」\r\n"
+    },
+    {
+      "lineNumber": 311,
+      "line": "@Talk name=弥恵 voice=YE001157\r\n"
+    },
+    {
+      "lineNumber": 312,
+      "line": "「ふ、ふぇ……兄さん？」\r\n"
+    },
+    {
+      "lineNumber": 315,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 316,
+      "line": "びくびくしていた女の子が、ゆっくりと顔をあげた。\r\n"
+    },
+    {
+      "lineNumber": 322,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 323,
+      "line": "「なんだ、弥恵だったのか……」\r\n"
+    },
+    {
+      "lineNumber": 328,
+      "line": "@Talk name=弥恵 voice=YE001158\r\n"
+    },
+    {
+      "lineNumber": 329,
+      "line": "「う、うん……？　いきなり大きな声だすから、びっくり\r\n"
+    },
+    {
+      "lineNumber": 330,
+      "line": "　したよ、兄さん……」\r\n"
+    },
+    {
+      "lineNumber": 333,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 334,
+      "line": "「いや、もうみんな寝てると思ってたからさ、泥棒が\r\n"
+    },
+    {
+      "lineNumber": 335,
+      "line": "　入ったんじゃないかと思ったんだ」\r\n"
+    },
+    {
+      "lineNumber": 341,
+      "line": "@Talk name=弥恵 voice=YE001159\r\n"
+    },
+    {
+      "lineNumber": 342,
+      "line": "「あっ、そっか……なにも言ってなかったもんね。\r\n"
+    },
+    {
+      "lineNumber": 343,
+      "line": "　ごめんなさい……」\r\n"
+    },
+    {
+      "lineNumber": 346,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 347,
+      "line": "「いや、謝ることはないんだけど……」\r\n"
+    },
+    {
+      "lineNumber": 352,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 353,
+      "line": "「一体なにしてたんだ、忘れ物か？」\r\n"
+    },
+    {
+      "lineNumber": 358,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 359,
+      "line": "問いかけつつ厨房の台を見れば、理由は明白だった。\r\n"
+    },
+    {
+      "lineNumber": 365,
+      "line": "@Talk name=弥恵 voice=YE001160\r\n"
+    },
+    {
+      "lineNumber": 366,
+      "line": "「明日はお店開くでしょう？　だから、仕込みをして\r\n"
+    },
+    {
+      "lineNumber": 367,
+      "line": "　おこうと思って」\r\n"
+    },
+    {
+      "lineNumber": 370,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 371,
+      "line": "「弥恵……」\r\n"
+    },
+    {
+      "lineNumber": 377,
+      "line": "@Talk name=弥恵 voice=YE001161\r\n"
+    },
+    {
+      "lineNumber": 378,
+      "line": "「あ、大丈夫だよ。帰りの電車で眠ったから、あんまり\r\n"
+    },
+    {
+      "lineNumber": 379,
+      "line": "　疲れてないの」\r\n"
+    },
+    {
+      "lineNumber": 382,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 383,
+      "line": "よほど心配げな顔をしていたのだろう、弥恵が慌てて\r\n"
+    },
+    {
+      "lineNumber": 384,
+      "line": "付け足した。\r\n"
+    },
+    {
+      "lineNumber": 387,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 388,
+      "line": "「気が回らなくてごめんな、ひとりで大変だっただろう？」\r\n"
+    },
+    {
+      "lineNumber": 394,
+      "line": "@Talk name=弥恵 voice=YE001162\r\n"
+    },
+    {
+      "lineNumber": 395,
+      "line": "「ううん、そんなことないよ。ほんとに簡単にしか\r\n"
+    },
+    {
+      "lineNumber": 396,
+      "line": "　準備してないから」\r\n"
+    },
+    {
+      "lineNumber": 399,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 400,
+      "line": "とはいえ、パイ生地らしき物がラップに包んであったり、\r\n"
+    },
+    {
+      "lineNumber": 401,
+      "line": "オーブンでもスポンジ生地が焼かれている。\r\n"
+    },
+    {
+      "lineNumber": 404,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 405,
+      "line": "「あとはどんなものが残ってるんだ？」\r\n"
+    },
+    {
+      "lineNumber": 410,
+      "line": "@Talk name=弥恵 voice=YE001163\r\n"
+    },
+    {
+      "lineNumber": 411,
+      "line": "「え？　えっと、そうだね、スポンジをあと何台か焼いて、\r\n"
+    },
+    {
+      "lineNumber": 412,
+      "line": "　アップルフィリングを作っておこうかなって……」\r\n"
+    },
+    {
+      "lineNumber": 415,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 416,
+      "line": "「分かった。手伝うよ」\r\n"
+    },
+    {
+      "lineNumber": 422,
+      "line": "@Talk name=弥恵 voice=YE001164\r\n"
+    },
+    {
+      "lineNumber": 423,
+      "line": "「えっ？　で、でも」\r\n"
+    },
+    {
+      "lineNumber": 426,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 427,
+      "line": "「仕込みが終わったら、明日は思う存分寝坊していいから\r\n"
+    },
+    {
+      "lineNumber": 428,
+      "line": "　な」\r\n"
+    },
+    {
+      "lineNumber": 433,
+      "line": "@Talk name=弥恵 voice=YE001165\r\n"
+    },
+    {
+      "lineNumber": 434,
+      "line": "「ふぇ、ど、どうして？」\r\n"
+    },
+    {
+      "lineNumber": 437,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 438,
+      "line": "「いずみ姉さんと相談して、明日は開店を２時間\r\n"
+    },
+    {
+      "lineNumber": 439,
+      "line": "　遅らせるって決めたんだ」\r\n"
+    },
+    {
+      "lineNumber": 445,
+      "line": "@Talk name=弥恵 voice=YE001166\r\n"
+    },
+    {
+      "lineNumber": 446,
+      "line": "「えっ」\r\n"
+    },
+    {
+      "lineNumber": 449,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 450,
+      "line": "「ついさっき決まったから伝えるのが間に合わなくて\r\n"
+    },
+    {
+      "lineNumber": 451,
+      "line": "　夜更かしさせちゃったけど、その分明日は寝てて\r\n"
+    },
+    {
+      "lineNumber": 452,
+      "line": "　いいから」\r\n"
+    },
+    {
+      "lineNumber": 457,
+      "line": "@Talk name=弥恵 voice=YE001167\r\n"
+    },
+    {
+      "lineNumber": 458,
+      "line": "「あ、で、でも朝ごはん……」\r\n"
+    },
+    {
+      "lineNumber": 461,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 462,
+      "line": "「どうせみんな寝坊するだろうし、俺が作るから大丈夫だ」\r\n"
+    },
+    {
+      "lineNumber": 468,
+      "line": "@Talk name=弥恵 voice=YE001168\r\n"
+    },
+    {
+      "lineNumber": 469,
+      "line": "「それなら、わたしも起きて作るよぅ……」\r\n"
+    },
+    {
+      "lineNumber": 472,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 473,
+      "line": "「いいから、ちゃんと寝坊すること。兄さん指令」\r\n"
+    },
+    {
+      "lineNumber": 479,
+      "line": "@Talk name=弥恵 voice=YE001169\r\n"
+    },
+    {
+      "lineNumber": 480,
+      "line": "「えへへ、それ、いずみ姉さんみたい……」\r\n"
+    },
+    {
+      "lineNumber": 483,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 484,
+      "line": "弥恵は困惑ぎみだった表情をほころばせた。\r\n"
+    },
+    {
+      "lineNumber": 496,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 497,
+      "line": "更衣室でエプロンを着け、厨房へと戻った。\r\n"
+    },
+    {
+      "lineNumber": 503,
+      "line": "@Talk name=弥恵 voice=YE001170\r\n"
+    },
+    {
+      "lineNumber": 504,
+      "line": "「それじゃあ、えっと、りんごの皮を剥いてもらって\r\n"
+    },
+    {
+      "lineNumber": 505,
+      "line": "　いいかな」\r\n"
+    },
+    {
+      "lineNumber": 508,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 509,
+      "line": "「了解」\r\n"
+    },
+    {
+      "lineNumber": 514,
+      "line": "@Talk name=弥恵 voice=YE001171\r\n"
+    },
+    {
+      "lineNumber": 515,
+      "line": "「剥いた皮は、こっちのボウルに入れてね」\r\n"
+    },
+    {
+      "lineNumber": 521,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 522,
+      "line": "大きな銀色のボウルを二つ並べて、弥恵が片方を指さす。\r\n"
+    },
+    {
+      "lineNumber": 528,
+      "line": "@Talk name=弥恵 voice=YE001172\r\n"
+    },
+    {
+      "lineNumber": 529,
+      "line": "「くるくる〜って、皮をひとつなぎにして剥くとあとあと\r\n"
+    },
+    {
+      "lineNumber": 530,
+      "line": "　楽なんだけど、お願いしてもいいかな？」\r\n"
+    },
+    {
+      "lineNumber": 535,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 536,
+      "line": "「うっ……頑張るよ」\r\n"
+    },
+    {
+      "lineNumber": 541,
+      "line": "@Talk name=弥恵 voice=YE001173\r\n"
+    },
+    {
+      "lineNumber": 542,
+      "line": "「えへへ、無理しなくていいからね」\r\n"
+    },
+    {
+      "lineNumber": 545,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 546,
+      "line": "厨房にいる時の弥恵は本当に明るい。\r\n"
+    },
+    {
+      "lineNumber": 549,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 550,
+      "line": "とはいえ、あまり無理させてもいけないな。\r\n"
+    },
+    {
+      "lineNumber": 555,
+      "line": "@Talk name=弥恵 voice=YE001174\r\n"
+    },
+    {
+      "lineNumber": 556,
+      "line": "「……兄さん」\r\n"
+    },
+    {
+      "lineNumber": 559,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 560,
+      "line": "「……うん？」\r\n"
+    },
+    {
+      "lineNumber": 566,
+      "line": "@Talk name=弥恵 voice=YE001175\r\n"
+    },
+    {
+      "lineNumber": 567,
+      "line": "「兄さんは……その……」\r\n"
+    },
+    {
+      "lineNumber": 570,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 571,
+      "line": "「……なんだ？」\r\n"
+    },
+    {
+      "lineNumber": 574,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 575,
+      "line": "口ごもる弥恵をうながすように、なるべく優しい笑みを\r\n"
+    },
+    {
+      "lineNumber": 576,
+      "line": "浮かべてみせる。\r\n"
+    },
+    {
+      "lineNumber": 582,
+      "line": "@Talk name=弥恵 voice=YE001176\r\n"
+    },
+    {
+      "lineNumber": 583,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 588,
+      "line": "@Talk name=弥恵 voice=YE001177\r\n"
+    },
+    {
+      "lineNumber": 589,
+      "line": "「兄さんは、誰を選ぶか……もう決めたの？」\r\n"
+    },
+    {
+      "lineNumber": 592,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 593,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 599,
+      "line": "@Talk name=弥恵 voice=YE001178\r\n"
+    },
+    {
+      "lineNumber": 600,
+      "line": "「あっ！　あの……昨日、お母さんから電話があった\r\n"
+    },
+    {
+      "lineNumber": 601,
+      "line": "　でしょう？」\r\n"
+    },
+    {
+      "lineNumber": 607,
+      "line": "@Talk name=弥恵 voice=YE001179\r\n"
+    },
+    {
+      "lineNumber": 608,
+      "line": "「だから、その……」\r\n"
+    },
+    {
+      "lineNumber": 611,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 612,
+      "line": "弥恵はくるくると表情を変えながら、沈みそうになった\r\n"
+    },
+    {
+      "lineNumber": 613,
+      "line": "空気を取り繕おうとする。\r\n"
+    },
+    {
+      "lineNumber": 624,
+      "line": "@Talk name=佐枝 voice=SA000109\r\n"
+    },
+    {
+      "lineNumber": 625,
+      "line": "『だから、こうしましょう。カズヤ、誰を連れて行くのが\r\n"
+    },
+    {
+      "lineNumber": 626,
+      "line": "　一番いいか、一人だけ決めておいて』\r\n"
+    },
+    {
+      "lineNumber": 631,
+      "line": "@Talk name=佐枝 voice=SA000110\r\n"
+    },
+    {
+      "lineNumber": 632,
+      "line": "『ええ、私は誰でも良いわよ。あんたたちのことは平等に\r\n"
+    },
+    {
+      "lineNumber": 633,
+      "line": "　愛してるし、この人と離婚して離ればなれになっても、\r\n"
+    },
+    {
+      "lineNumber": 634,
+      "line": "　親子まで辞めるつもりはないもの』\r\n"
+    },
+    {
+      "lineNumber": 643,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 644,
+      "line": "ふいに、母さんとのやりとりがはっきりと思い出された。\r\n"
+    },
+    {
+      "lineNumber": 647,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 648,
+      "line": "今日一日がどんなに楽しくても、母さんのこの言葉を\r\n"
+    },
+    {
+      "lineNumber": 649,
+      "line": "思い出す瞬間が一瞬でもあれば、不安な気持ちで\r\n"
+    },
+    {
+      "lineNumber": 650,
+      "line": "いっぱいになるはずだ。\r\n"
+    },
+    {
+      "lineNumber": 653,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 654,
+      "line": "猶予はまだあるとはいえ、誰かひとりを選ぶのか、\r\n"
+    },
+    {
+      "lineNumber": 655,
+      "line": "それとも選ぶつもりが全く無いのかくらいは、俺自身の\r\n"
+    },
+    {
+      "lineNumber": 656,
+      "line": "ためにもはっきりさせておかなくてはいけないだろう。\r\n"
+    },
+    {
+      "lineNumber": 661,
+      "line": "@Talk name=弥恵 voice=YE001180\r\n"
+    },
+    {
+      "lineNumber": 662,
+      "line": "「兄さん……？」\r\n"
+    },
+    {
+      "lineNumber": 665,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 666,
+      "line": "弥恵が、黙り込んだ俺を気遣わしげに見上げる。\r\n"
+    },
+    {
+      "lineNumber": 669,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 670,
+      "line": "「俺は……」\r\n"
+    },
+    {
+      "lineNumber": 675,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 676,
+      "line": "誰かを選ぶのか、家族で居られる手段をまだ探すのか。\r\n"
+    },
+    {
+      "lineNumber": 679,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 680,
+      "line": "父さんと母さんが出て行った日から今日までのことを\r\n"
+    },
+    {
+      "lineNumber": 681,
+      "line": "ひとつひとつ思い出しながら考える。\r\n"
+    },
+    {
+      "lineNumber": 684,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 685,
+      "line": "そして……もう気持ちはほとんど決まっていることに\r\n"
+    },
+    {
+      "lineNumber": 686,
+      "line": "気がついた。\r\n"
+    },
+    {
+      "lineNumber": 691,
+      "line": "@Talk name=弥恵 voice=YE001181\r\n"
+    },
+    {
+      "lineNumber": 692,
+      "line": "「兄さん……わたし、いまの兄さんの気持ち、聞かせて\r\n"
+    },
+    {
+      "lineNumber": 693,
+      "line": "　欲しいな」\r\n"
+    },
+    {
+      "lineNumber": 699,
+      "line": "@Talk name=弥恵 voice=YE001182\r\n"
+    },
+    {
+      "lineNumber": 700,
+      "line": "「兄さんはもう……誰を選ぶのか、決めてるの？」\r\n"
+    },
+    {
+      "lineNumber": 705,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 706,
+      "line": "「ああ、俺は——」\r\n"
+    },
+    {
+      "lineNumber": 711,
+      "line": "\t@AddSelect text=俺は気になっている人がいる\r\n"
+    },
+    {
+      "lineNumber": 712,
+      "line": "\t@AddSelect text=みんな大切な家族だ\r\n"
+    },
+    {
+      "lineNumber": 713,
+      "line": "\t@StartSelect\r\n"
+    },
+    {
+      "lineNumber": 715,
+      "line": "\t@setSelect id=1\r\n"
+    },
+    {
+      "lineNumber": 720,
+      "line": "\t@onFlag id=16\r\n"
+    },
+    {
+      "lineNumber": 722,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 723,
+      "line": "\t「俺は……気になってる人がいるんだ」\r\n"
+    },
+    {
+      "lineNumber": 724,
+      "line": "\t@Hitret id=14709\r\n"
+    },
+    {
+      "lineNumber": 726,
+      "line": "\t@char file=CD04013M\t\t\r\n"
+    },
+    {
+      "lineNumber": 728,
+      "line": "\t@Talk name=弥恵 voice=YE001183\r\n"
+    },
+    {
+      "lineNumber": 729,
+      "line": "\t「そう、なんだ……」\r\n"
+    },
+    {
+      "lineNumber": 730,
+      "line": "\t@Hitret id=14710\r\n"
+    },
+    {
+      "lineNumber": 732,
+      "line": "\t@clearChar id=-1\r\n"
+    },
+    {
+      "lineNumber": 734,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 735,
+      "line": "\t口に出してみると、自分でも驚くほどすとんと腑に落ちた。\r\n"
+    },
+    {
+      "lineNumber": 736,
+      "line": "\t@Hitret id=14711\r\n"
+    },
+    {
+      "lineNumber": 738,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 739,
+      "line": "\t「明確に誰を選ぶかは、すぐに答えることができないけど、\r\n"
+    },
+    {
+      "lineNumber": 740,
+      "line": "\t　きちんと、誰か一人を選ぶつもりだ」\r\n"
+    },
+    {
+      "lineNumber": 741,
+      "line": "\t@Hitret id=14712\r\n"
+    },
+    {
+      "lineNumber": 743,
+      "line": "\t@char file=CD04010M\t\t\r\n"
+    },
+    {
+      "lineNumber": 744,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 746,
+      "line": "\t@Talk name=弥恵 voice=YE001184\r\n"
+    },
+    {
+      "lineNumber": 747,
+      "line": "\t「そっか……」\r\n"
+    },
+    {
+      "lineNumber": 748,
+      "line": "\t@Hitret id=14713\r\n"
+    },
+    {
+      "lineNumber": 750,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 751,
+      "line": "\t俺の言葉をかみしめるように、弥恵が頷いた。\r\n"
+    },
+    {
+      "lineNumber": 752,
+      "line": "\t@Hitret id=14714\r\n"
+    },
+    {
+      "lineNumber": 754,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 755,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 757,
+      "line": "\t@Talk name=弥恵 voice=YE001185\r\n"
+    },
+    {
+      "lineNumber": 758,
+      "line": "\t「……うん。兄さんが考えた上で決めたことなら、\r\n"
+    },
+    {
+      "lineNumber": 759,
+      "line": "\t　みんな納得してくれるよ」\r\n"
+    },
+    {
+      "lineNumber": 760,
+      "line": "\t@Hitret id=14715\r\n"
+    },
+    {
+      "lineNumber": 762,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 763,
+      "line": "\t「……そうかな？」\r\n"
+    },
+    {
+      "lineNumber": 764,
+      "line": "\t@Hitret id=14716\r\n"
+    },
+    {
+      "lineNumber": 766,
+      "line": "\t@clearChar id=-1\r\n"
+    },
+    {
+      "lineNumber": 768,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 769,
+      "line": "\t誰か一人を選ぶということは、それ以外の姉妹を置いて\r\n"
+    },
+    {
+      "lineNumber": 770,
+      "line": "\tいくということだ。\r\n"
+    },
+    {
+      "lineNumber": 771,
+      "line": "\t@Hitret id=14717\r\n"
+    },
+    {
+      "lineNumber": 773,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 774,
+      "line": "\t簡単な図式でも、意味はとてつもなく重い。\r\n"
+    },
+    {
+      "lineNumber": 775,
+      "line": "\t@Hitret id=14718\r\n"
+    },
+    {
+      "lineNumber": 777,
+      "line": "\t@char file=CD04011M\t\t\r\n"
+    },
+    {
+      "lineNumber": 778,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 780,
+      "line": "\t@Talk name=弥恵 voice=YE001186\r\n"
+    },
+    {
+      "lineNumber": 781,
+      "line": "\t「うん、大丈夫」\r\n"
+    },
+    {
+      "lineNumber": 782,
+      "line": "\t@Hitret id=14719\r\n"
+    },
+    {
+      "lineNumber": 784,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 785,
+      "line": "\t急に弱気になる俺に対して、弥恵は小麦粉で白くなった\r\n"
+    },
+    {
+      "lineNumber": 786,
+      "line": "\t手をぐっと握った。\r\n"
+    },
+    {
+      "lineNumber": 787,
+      "line": "\t@Hitret id=14720\r\n"
+    },
+    {
+      "lineNumber": 789,
+      "line": "\t@char file=CD04012M\t\t\r\n"
+    },
+    {
+      "lineNumber": 791,
+      "line": "\t@Talk name=弥恵 voice=YE001187\r\n"
+    },
+    {
+      "lineNumber": 792,
+      "line": "\t「みんな、兄さんのことを信頼してるもの。だから大丈夫\r\n"
+    },
+    {
+      "lineNumber": 793,
+      "line": "\t　だよ」\r\n"
+    },
+    {
+      "lineNumber": 794,
+      "line": "\t@Hitret id=14721\r\n"
+    },
+    {
+      "lineNumber": 796,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 797,
+      "line": "\t「そうか……ありがとう、弥恵」\r\n"
+    },
+    {
+      "lineNumber": 798,
+      "line": "\t@Hitret id=14722\r\n"
+    },
+    {
+      "lineNumber": 800,
+      "line": "\t@char file=CD04007M\t\t\r\n"
+    },
+    {
+      "lineNumber": 801,
+      "line": "\t@action id=弥恵 action=ActionAdvWave width=10 height=0 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 803,
+      "line": "\t@Talk name=弥恵 voice=YE001188\r\n"
+    },
+    {
+      "lineNumber": 804,
+      "line": "\t「ううん」\r\n"
+    },
+    {
+      "lineNumber": 805,
+      "line": "\t@Hitret id=14723\r\n"
+    },
+    {
+      "lineNumber": 807,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 808,
+      "line": "\t弥恵はにっこりと笑ってくれる。\r\n"
+    },
+    {
+      "lineNumber": 809,
+      "line": "\t@Hitret id=14724\r\n"
+    },
+    {
+      "lineNumber": 811,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 812,
+      "line": "\tすべてが明確にはなっていない俺の答えでも、弥恵は\r\n"
+    },
+    {
+      "lineNumber": 813,
+      "line": "\tしっかりと受け止めてくれたようだった。\r\n"
+    },
+    {
+      "lineNumber": 814,
+      "line": "\t@Hitret id=14725\r\n"
+    },
+    {
+      "lineNumber": 816,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 818,
+      "line": "\t@Talk name=弥恵 voice=YE001189\r\n"
+    },
+    {
+      "lineNumber": 819,
+      "line": "\t「せっかく手伝ってくれてるのに、ごめんね、変なことを\r\n"
+    },
+    {
+      "lineNumber": 820,
+      "line": "\t　聞いて」\r\n"
+    },
+    {
+      "lineNumber": 821,
+      "line": "\t@Hitret id=14726\r\n"
+    },
+    {
+      "lineNumber": 823,
+      "line": "\t@char file=CD04006M\t\t\r\n"
+    },
+    {
+      "lineNumber": 825,
+      "line": "\t@Talk name=弥恵 voice=YE001190\r\n"
+    },
+    {
+      "lineNumber": 826,
+      "line": "\t「でも、聞かせてくれてありがとう、兄さん」\r\n"
+    },
+    {
+      "lineNumber": 827,
+      "line": "\t@Hitret id=14727\r\n"
+    },
+    {
+      "lineNumber": 829,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 830,
+      "line": "\t「いや、むしろ話を聞いてくれて良かった。ありがとう」\r\n"
+    },
+    {
+      "lineNumber": 831,
+      "line": "\t@Hitret id=14728\r\n"
+    },
+    {
+      "lineNumber": 833,
+      "line": "\t@char file=CD04002M\t\t\r\n"
+    },
+    {
+      "lineNumber": 835,
+      "line": "\t@Talk name=弥恵 voice=YE001191\r\n"
+    },
+    {
+      "lineNumber": 836,
+      "line": "\t「えへへ、そっか。どういたしまして」\r\n"
+    },
+    {
+      "lineNumber": 837,
+      "line": "\t@Hitret id=14729\r\n"
+    },
+    {
+      "lineNumber": 839,
+      "line": "\t@char file=CD04007M\t\t\r\n"
+    },
+    {
+      "lineNumber": 841,
+      "line": "\t@Talk name=弥恵 voice=YE001192\r\n"
+    },
+    {
+      "lineNumber": 842,
+      "line": "\t「手、止まっちゃったね。早く終わらせないと日付が\r\n"
+    },
+    {
+      "lineNumber": 843,
+      "line": "\t　変わっちゃう」\r\n"
+    },
+    {
+      "lineNumber": 844,
+      "line": "\t@Hitret id=14730\r\n"
+    },
+    {
+      "lineNumber": 846,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 847,
+      "line": "\t「そうだな、さくさく終わらせよう」\r\n"
+    },
+    {
+      "lineNumber": 848,
+      "line": "\t@Hitret id=14731\r\n"
+    },
+    {
+      "lineNumber": 850,
+      "line": "\t@char file=CD04011M\t\t\r\n"
+    },
+    {
+      "lineNumber": 851,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 853,
+      "line": "\t@Talk name=弥恵 voice=YE001193\r\n"
+    },
+    {
+      "lineNumber": 854,
+      "line": "\t「うんっ」\r\n"
+    },
+    {
+      "lineNumber": 855,
+      "line": "\t@Hitret id=14732\r\n"
+    },
+    {
+      "lineNumber": 857,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 858,
+      "line": "\t俺と弥恵は笑みを浮かべて頷き合い、それぞれの作業に\r\n"
+    },
+    {
+      "lineNumber": 859,
+      "line": "\t没頭した。\r\n"
+    },
+    {
+      "lineNumber": 860,
+      "line": "\t@Hitret id=14733\r\n"
+    },
+    {
+      "lineNumber": 862,
+      "line": "\t@clearChar id=-1\r\n"
+    },
+    {
+      "lineNumber": 863,
+      "line": "\t@stopBgm fade=3000\r\n"
+    },
+    {
+      "lineNumber": 865,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 866,
+      "line": "\tそうだ、俺は——\r\n"
+    },
+    {
+      "lineNumber": 867,
+      "line": "\t@Hitret id=14734\r\n"
+    },
+    {
+      "lineNumber": 869,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 870,
+      "line": "\tこの数日間で、惹かれている人物がいる。\r\n"
+    },
+    {
+      "lineNumber": 871,
+      "line": "\t@Hitret id=14735\r\n"
+    },
+    {
+      "lineNumber": 873,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 874,
+      "line": "\tまだ感情はあいまいで、ぼんやりしたものだけど、\r\n"
+    },
+    {
+      "lineNumber": 875,
+      "line": "\t間違いない。\r\n"
+    },
+    {
+      "lineNumber": 876,
+      "line": "\t@Hitret id=14736\r\n"
+    },
+    {
+      "lineNumber": 878,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 879,
+      "line": "\t@cg file=black\r\n"
+    },
+    {
+      "lineNumber": 880,
+      "line": "\t@update transition=crossfade time=500\r\n"
+    },
+    {
+      "lineNumber": 881,
+      "line": "\t@waitUpdate\r\n"
+    },
+    {
+      "lineNumber": 883,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 884,
+      "line": "\tりんごの皮を剥くしゃりしゃりという音を聞きながら、\r\n"
+    },
+    {
+      "lineNumber": 885,
+      "line": "\t俺は自分の気持ちを改めて確認していくのだった。\r\n"
+    },
+    {
+      "lineNumber": 886,
+      "line": "\t@Hitret id=14737\r\n"
+    },
+    {
+      "lineNumber": 888,
+      "line": "\t@if exp=\"ChkFlagOn(119)\"\r\n"
+    },
+    {
+      "lineNumber": 890,
+      "line": "\t\r\n"
+    },
+    {
+      "lineNumber": 891,
+      "line": "\t\t@waitVoice hitCancel\r\n"
+    },
+    {
+      "lineNumber": 892,
+      "line": "\t\t@hide wait\r\n"
+    },
+    {
+      "lineNumber": 893,
+      "line": "\t\t@stopBgm fade=2000\r\n"
+    },
+    {
+      "lineNumber": 894,
+      "line": "\t\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 895,
+      "line": "\t\t@eyecatch bg=BG010c char=CA04005M/CB04001M\r\n"
+    },
+    {
+      "lineNumber": 897,
+      "line": "\t\t@Change target=w06_ab01_01\r\n"
+    },
+    {
+      "lineNumber": 899,
+      "line": "\t@elsif exp=\"ChkFlagOn(120)\"\r\n"
+    },
+    {
+      "lineNumber": 901,
+      "line": "\t\r\n"
+    },
+    {
+      "lineNumber": 902,
+      "line": "\t\t@waitVoice hitCancel\r\n"
+    },
+    {
+      "lineNumber": 903,
+      "line": "\t\t@hide wait\r\n"
+    },
+    {
+      "lineNumber": 904,
+      "line": "\t\t@stopBgm fade=2000\r\n"
+    },
+    {
+      "lineNumber": 905,
+      "line": "\t\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 906,
+      "line": "\t\t@eyecatch bg=BG010c char=CC04015M\r\n"
+    },
+    {
+      "lineNumber": 908,
+      "line": "\t\t@Change target=w06_c01_01\r\n"
+    },
+    {
+      "lineNumber": 910,
+      "line": "\t@elsif exp=\"ChkFlagOn(121)\"\r\n"
+    },
+    {
+      "lineNumber": 912,
+      "line": "\t\r\n"
+    },
+    {
+      "lineNumber": 913,
+      "line": "\t\r\n"
+    },
+    {
+      "lineNumber": 915,
+      "line": "\t\r\n"
+    },
+    {
+      "lineNumber": 916,
+      "line": "\t\t@waitVoice hitCancel\r\n"
+    },
+    {
+      "lineNumber": 917,
+      "line": "\t\t@hide wait\r\n"
+    },
+    {
+      "lineNumber": 918,
+      "line": "\t\t@stopBgm fade=2000\r\n"
+    },
+    {
+      "lineNumber": 919,
+      "line": "\t\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 920,
+      "line": "\t\t@eyecatch bg=BG010c char=CE04010M/CD04003M\r\n"
+    },
+    {
+      "lineNumber": 922,
+      "line": "\t\t@Change target=w06_de01_01\r\n"
+    },
+    {
+      "lineNumber": 924,
+      "line": "\t@endif\r\n"
+    },
+    {
+      "lineNumber": 928,
+      "line": "\t@onFlag id=17\r\n"
+    },
+    {
+      "lineNumber": 930,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 931,
+      "line": "\t「俺は、みんな大切な家族だと思ってる」\r\n"
+    },
+    {
+      "lineNumber": 932,
+      "line": "\t@Hitret id=14738\r\n"
+    },
+    {
+      "lineNumber": 934,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 936,
+      "line": "\t@Talk name=弥恵 voice=YE001194\r\n"
+    },
+    {
+      "lineNumber": 937,
+      "line": "\t「……そっか」\r\n"
+    },
+    {
+      "lineNumber": 938,
+      "line": "\t@Hitret id=14739\r\n"
+    },
+    {
+      "lineNumber": 940,
+      "line": "\t@char file=CD04007M\t\t\r\n"
+    },
+    {
+      "lineNumber": 942,
+      "line": "\t@Talk name=弥恵 voice=YE001195\r\n"
+    },
+    {
+      "lineNumber": 943,
+      "line": "\t「そっかぁ……うん、兄さんなら、そう言うんじゃ\r\n"
+    },
+    {
+      "lineNumber": 944,
+      "line": "\t　ないかなって、ちょっとだけ思ってたんだ」\r\n"
+    },
+    {
+      "lineNumber": 945,
+      "line": "\t@Hitret id=14740\r\n"
+    },
+    {
+      "lineNumber": 947,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 948,
+      "line": "\t「そうか？」\r\n"
+    },
+    {
+      "lineNumber": 949,
+      "line": "\t@Hitret id=14741\r\n"
+    },
+    {
+      "lineNumber": 951,
+      "line": "\t@char file=CD04006M\t\t\r\n"
+    },
+    {
+      "lineNumber": 952,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 954,
+      "line": "\t@Talk name=弥恵 voice=YE001196\r\n"
+    },
+    {
+      "lineNumber": 955,
+      "line": "\t「うん。兄さんは、わたしたちに優しいから」\r\n"
+    },
+    {
+      "lineNumber": 956,
+      "line": "\t@Hitret id=14742\r\n"
+    },
+    {
+      "lineNumber": 958,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 959,
+      "line": "\t弥恵にしては意外なほどに力強く頷く。\r\n"
+    },
+    {
+      "lineNumber": 960,
+      "line": "\t@Hitret id=14743\r\n"
+    },
+    {
+      "lineNumber": 962,
+      "line": "\t@clearChar id=-1\r\n"
+    },
+    {
+      "lineNumber": 964,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 965,
+      "line": "\t「みんなで一緒に暮らし続ける方法は、きっとあると\r\n"
+    },
+    {
+      "lineNumber": 966,
+      "line": "\t　思うんだ」\r\n"
+    },
+    {
+      "lineNumber": 967,
+      "line": "\t@Hitret id=14744\r\n"
+    },
+    {
+      "lineNumber": 969,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 970,
+      "line": "\t「父さんや母さんだって、カッとなって出て行った面も\r\n"
+    },
+    {
+      "lineNumber": 971,
+      "line": "\t　あるだろうし」\r\n"
+    },
+    {
+      "lineNumber": 972,
+      "line": "\t@Hitret id=14745\r\n"
+    },
+    {
+      "lineNumber": 974,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 975,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 977,
+      "line": "\t@Talk name=弥恵 voice=YE001197\r\n"
+    },
+    {
+      "lineNumber": 978,
+      "line": "\t「うん、そうだね……」\r\n"
+    },
+    {
+      "lineNumber": 979,
+      "line": "\t@Hitret id=14746\r\n"
+    },
+    {
+      "lineNumber": 981,
+      "line": "\t@char file=CD04011M\t\t\r\n"
+    },
+    {
+      "lineNumber": 983,
+      "line": "\t@Talk name=弥恵 voice=YE001198\r\n"
+    },
+    {
+      "lineNumber": 984,
+      "line": "\t「兄さんの決めたことならみんな納得できるから、\r\n"
+    },
+    {
+      "lineNumber": 985,
+      "line": "\t　兄さんの思うようにするのが、いちばんだと思うよ」\r\n"
+    },
+    {
+      "lineNumber": 986,
+      "line": "\t@Hitret id=14747\r\n"
+    },
+    {
+      "lineNumber": 988,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 989,
+      "line": "\t「そうかな？」\r\n"
+    },
+    {
+      "lineNumber": 990,
+      "line": "\t@Hitret id=14748\r\n"
+    },
+    {
+      "lineNumber": 992,
+      "line": "\t@char file=CD04012M\t\t\r\n"
+    },
+    {
+      "lineNumber": 993,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 995,
+      "line": "\t@Talk name=弥恵 voice=YE001199\r\n"
+    },
+    {
+      "lineNumber": 996,
+      "line": "\t「うんっ」\r\n"
+    },
+    {
+      "lineNumber": 997,
+      "line": "\t@Hitret id=14749\r\n"
+    },
+    {
+      "lineNumber": 999,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1000,
+      "line": "\t弥恵は力強い調子のまま頷いてくれた。\r\n"
+    },
+    {
+      "lineNumber": 1001,
+      "line": "\t@Hitret id=14750\r\n"
+    },
+    {
+      "lineNumber": 1003,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1004,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 1006,
+      "line": "\t@Talk name=弥恵 voice=YE001200\r\n"
+    },
+    {
+      "lineNumber": 1007,
+      "line": "\t「聞かせてくれてありがとう、兄さん」\r\n"
+    },
+    {
+      "lineNumber": 1008,
+      "line": "\t@Hitret id=14751\r\n"
+    },
+    {
+      "lineNumber": 1010,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1011,
+      "line": "\t「いや、こっちこそ、聞いてくれて感謝してる。\r\n"
+    },
+    {
+      "lineNumber": 1012,
+      "line": "\t　ありがとう」\r\n"
+    },
+    {
+      "lineNumber": 1013,
+      "line": "\t@Hitret id=14752\r\n"
+    },
+    {
+      "lineNumber": 1015,
+      "line": "\t@char file=CD04006M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1017,
+      "line": "\t@Talk name=弥恵 voice=YE001201\r\n"
+    },
+    {
+      "lineNumber": 1018,
+      "line": "\t「えへへ、えっと、どういたしまして」\r\n"
+    },
+    {
+      "lineNumber": 1019,
+      "line": "\t@Hitret id=14753\r\n"
+    },
+    {
+      "lineNumber": 1021,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1022,
+      "line": "\t弥恵は照れたように微笑むと、ぐっと拳を握りしめた。\r\n"
+    },
+    {
+      "lineNumber": 1023,
+      "line": "\t@Hitret id=14754\r\n"
+    },
+    {
+      "lineNumber": 1025,
+      "line": "\t@char file=CD04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1026,
+      "line": "\t@action id=弥恵 action=ActionAdvBow height=10 cycle=500 count=1\r\n"
+    },
+    {
+      "lineNumber": 1028,
+      "line": "\t@Talk name=弥恵 voice=YE001202\r\n"
+    },
+    {
+      "lineNumber": 1029,
+      "line": "\t「そ、それじゃあ、りんごの続き、お願いするね」\r\n"
+    },
+    {
+      "lineNumber": 1030,
+      "line": "\t@Hitret id=14755\r\n"
+    },
+    {
+      "lineNumber": 1032,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1033,
+      "line": "\t「ああ、任せとけ」\r\n"
+    },
+    {
+      "lineNumber": 1034,
+      "line": "\t@Hitret id=14756\r\n"
+    },
+    {
+      "lineNumber": 1036,
+      "line": "\t@char file=CD04002M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1038,
+      "line": "\t@Talk name=弥恵 voice=YE001203\r\n"
+    },
+    {
+      "lineNumber": 1039,
+      "line": "\t「えへへっ、頼りにしてるね」\r\n"
+    },
+    {
+      "lineNumber": 1040,
+      "line": "\t@Hitret id=14757\r\n"
+    },
+    {
+      "lineNumber": 1042,
+      "line": "\t@clearChar id=-1\r\n"
+    },
+    {
+      "lineNumber": 1044,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1045,
+      "line": "\t調理中の弥恵はやはりテンションが高いらしく、\r\n"
+    },
+    {
+      "lineNumber": 1046,
+      "line": "\t少しおどけたように言う。\r\n"
+    },
+    {
+      "lineNumber": 1047,
+      "line": "\t@Hitret id=14758\r\n"
+    },
+    {
+      "lineNumber": 1049,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1050,
+      "line": "\t弥恵の楽しげな調子につられつつも、俺は自分の出した\r\n"
+    },
+    {
+      "lineNumber": 1051,
+      "line": "\t答えをかみしめる。\r\n"
+    },
+    {
+      "lineNumber": 1052,
+      "line": "\t@Hitret id=14759\r\n"
+    },
+    {
+      "lineNumber": 1054,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 1055,
+      "line": "\t@cg file=BG008a\t\r\n"
+    },
+    {
+      "lineNumber": 1056,
+      "line": "\t@char file=CA04002M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1057,
+      "line": "\t@char file=CB04009M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1058,
+      "line": "\t@char file=CC04005M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1059,
+      "line": "\t@char file=CE04001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1060,
+      "line": "\t@char file=CD04008M\t\t\r\n"
+    },
+    {
+      "lineNumber": 1061,
+      "line": "\t@tone all type=sepia\r\n"
+    },
+    {
+      "lineNumber": 1062,
+      "line": "\t@update transition=mosaic maxsize=30 time=500\r\n"
+    },
+    {
+      "lineNumber": 1063,
+      "line": "\t@waitUpdate\r\n"
+    },
+    {
+      "lineNumber": 1065,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1066,
+      "line": "\t『みんな大切な家族だと思ってる』\r\n"
+    },
+    {
+      "lineNumber": 1067,
+      "line": "\t@Hitret id=14760\r\n"
+    },
+    {
+      "lineNumber": 1069,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1070,
+      "line": "\t母さんたちや、もしかしたら他の姉弟から見ても、\r\n"
+    },
+    {
+      "lineNumber": 1071,
+      "line": "\t優柔不断に思われるかもしれない。\r\n"
+    },
+    {
+      "lineNumber": 1072,
+      "line": "\t@Hitret id=14761\r\n"
+    },
+    {
+      "lineNumber": 1074,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1075,
+      "line": "\tそれでも俺にとって姉妹たちは、唯一無二の存在なのだ。\r\n"
+    },
+    {
+      "lineNumber": 1076,
+      "line": "\t@Hitret id=14762\r\n"
+    },
+    {
+      "lineNumber": 1078,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 1079,
+      "line": "\t@cg file=black\r\n"
+    },
+    {
+      "lineNumber": 1080,
+      "line": "\t@update transition=crossfade time=500\r\n"
+    },
+    {
+      "lineNumber": 1081,
+      "line": "\t@waitUpdate\r\n"
+    },
+    {
+      "lineNumber": 1083,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1084,
+      "line": "\t誰か一人だけになんて決められない。\r\n"
+    },
+    {
+      "lineNumber": 1085,
+      "line": "\t@Hitret id=14763\r\n"
+    },
+    {
+      "lineNumber": 1087,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1088,
+      "line": "\t……それが、今の俺の答えだった。\r\n"
+    },
+    {
+      "lineNumber": 1089,
+      "line": "\t@Hitret id=14764\r\n"
+    },
+    {
+      "lineNumber": 1091,
+      "line": "\t@waitVoice hitCancel\r\n"
+    },
+    {
+      "lineNumber": 1092,
+      "line": "\t@hide wait\r\n"
+    },
+    {
+      "lineNumber": 1093,
+      "line": "\t@stopBgm fade=2000\r\n"
+    },
+    {
+      "lineNumber": 1094,
+      "line": "\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 1095,
+      "line": "\t@eyecatch bg=BG010c\r\n"
+    },
+    {
+      "lineNumber": 1097,
+      "line": "\t@Change target=w06_z06_01\r\n"
+    }
+  ]
+}

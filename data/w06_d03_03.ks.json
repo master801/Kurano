@@ -1,0 +1,1873 @@
+{
+  "name": "w06_d03_03.ks",
+  "lines": [
+    {
+      "lineNumber": 12,
+      "line": "@Talk name=弥恵 voice=YE040659\r\n"
+    },
+    {
+      "lineNumber": 13,
+      "line": "「うわぁ、兄さん兄さん、今日はベーコンが\r\n"
+    },
+    {
+      "lineNumber": 14,
+      "line": "　こんなに安いよっ」\r\n"
+    },
+    {
+      "lineNumber": 17,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 18,
+      "line": "「お、本当だ。それじゃあアスパラも買って\r\n"
+    },
+    {
+      "lineNumber": 19,
+      "line": "　ベーコン巻きにしちゃおうか」\r\n"
+    },
+    {
+      "lineNumber": 24,
+      "line": "@Talk name=弥恵 voice=YE040660\r\n"
+    },
+    {
+      "lineNumber": 25,
+      "line": "「あ、そうだね、美味しそう」\r\n"
+    },
+    {
+      "lineNumber": 30,
+      "line": "@Talk name=弥恵 voice=YE040661\r\n"
+    },
+    {
+      "lineNumber": 31,
+      "line": "「ん……でも、いろいろお野菜余ってるから、炒め物……\r\n"
+    },
+    {
+      "lineNumber": 32,
+      "line": "　ううん、ポトフとかもいいなぁ〜」\r\n"
+    },
+    {
+      "lineNumber": 35,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 36,
+      "line": "スーパーの中はいつも通り、まさに弥恵の勢力下とでも\r\n"
+    },
+    {
+      "lineNumber": 37,
+      "line": "いった感じだ。\r\n"
+    },
+    {
+      "lineNumber": 40,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 41,
+      "line": "安売り品の吟味をし、献立のイメージを固めながら食材を\r\n"
+    },
+    {
+      "lineNumber": 42,
+      "line": "買い物かごに入れていく。\r\n"
+    },
+    {
+      "lineNumber": 45,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 46,
+      "line": "ああでもないこうでもない、とかごの中身を入れ替える\r\n"
+    },
+    {
+      "lineNumber": 47,
+      "line": "事もなくスムーズに売り場を移動してゆく姿は、まさに\r\n"
+    },
+    {
+      "lineNumber": 48,
+      "line": "『できる奥さん』とでもいったところだ。\r\n"
+    },
+    {
+      "lineNumber": 51,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 52,
+      "line": "「それにしても、やっぱり弥恵は凄いな。家にある食材の\r\n"
+    },
+    {
+      "lineNumber": 53,
+      "line": "　こととか、完璧に頭に入ってるんだ」\r\n"
+    },
+    {
+      "lineNumber": 58,
+      "line": "@Talk name=弥恵 voice=YE040662\r\n"
+    },
+    {
+      "lineNumber": 59,
+      "line": "「完璧なんかじゃないよぉ。なんとなく葉物はまだあるな\r\n"
+    },
+    {
+      "lineNumber": 60,
+      "line": "　とか、お肉は残ってたなとか、その程度だもん」\r\n"
+    },
+    {
+      "lineNumber": 63,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 64,
+      "line": "「それでも十分凄いって。いつもありがとうな」\r\n"
+    },
+    {
+      "lineNumber": 69,
+      "line": "@Talk name=弥恵 voice=YE040663\r\n"
+    },
+    {
+      "lineNumber": 70,
+      "line": "「う、うんっ。もぉ、恥ずかしいよ。そんなに\r\n"
+    },
+    {
+      "lineNumber": 71,
+      "line": "　あらたまって言われちゃうと」\r\n"
+    },
+    {
+      "lineNumber": 76,
+      "line": "@Talk name=弥恵 voice=YE040664\r\n"
+    },
+    {
+      "lineNumber": 77,
+      "line": "「でも、兄さんにそう言ってもらえるの、とっても嬉しい」\r\n"
+    },
+    {
+      "lineNumber": 83,
+      "line": "\t@cutin hide\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "\t@stopEnvSe fade=1000\r\n"
+    },
+    {
+      "lineNumber": 85,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 86,
+      "line": "\t@cg file=BG027a\r\n"
+    },
+    {
+      "lineNumber": 87,
+      "line": "\t@char file=CD03001M\t\t\r\n"
+    },
+    {
+      "lineNumber": 88,
+      "line": "\t@tone all type=sepia\r\n"
+    },
+    {
+      "lineNumber": 89,
+      "line": "\t@update transition=mosaic maxsize=30 time=500\r\n"
+    },
+    {
+      "lineNumber": 90,
+      "line": "\t@waitUpdate\r\n"
+    },
+    {
+      "lineNumber": 91,
+      "line": "\t@face hideOnce\r\n"
+    },
+    {
+      "lineNumber": 94,
+      "line": "\t@Talk name=弥恵 voice=YE040665\r\n"
+    },
+    {
+      "lineNumber": 95,
+      "line": "\t『わたし、兄さんとお買い物しているときがね、いちばん\r\n"
+    },
+    {
+      "lineNumber": 96,
+      "line": "\t　楽しいな』\r\n"
+    },
+    {
+      "lineNumber": 97,
+      "line": "\t@Hitret id=35876\r\n"
+    },
+    {
+      "lineNumber": 99,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 100,
+      "line": "\t@PlayEnvSe file=SE120 vol=50\r\n"
+    },
+    {
+      "lineNumber": 101,
+      "line": "\t@cg file=BG027a\r\n"
+    },
+    {
+      "lineNumber": 102,
+      "line": "\t@update transition=mosaic maxsize=30 time=500\r\n"
+    },
+    {
+      "lineNumber": 103,
+      "line": "\t@waitUpdate\r\n"
+    },
+    {
+      "lineNumber": 105,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 106,
+      "line": "\t少し前にここへ来た時、弥恵はそんな事を言っていたっけ。\r\n"
+    },
+    {
+      "lineNumber": 107,
+      "line": "\t@Hitret id=35877\r\n"
+    },
+    {
+      "lineNumber": 109,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 110,
+      "line": "\t俺だって、今みたいな時間を弥恵と過ごすのは大好きだ。\r\n"
+    },
+    {
+      "lineNumber": 111,
+      "line": "\t@Hitret id=35878\r\n"
+    },
+    {
+      "lineNumber": 116,
+      "line": "\t@cutin hide\r\n"
+    },
+    {
+      "lineNumber": 118,
+      "line": "\t@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 119,
+      "line": "\t「………………」\r\n"
+    },
+    {
+      "lineNumber": 120,
+      "line": "\t@Hitret id=35879\r\n"
+    },
+    {
+      "lineNumber": 122,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 123,
+      "line": "\t周りに学生服の人間はおらず、いるのは主婦らしき\r\n"
+    },
+    {
+      "lineNumber": 124,
+      "line": "\t女の人か、年配の人ばかり。\r\n"
+    },
+    {
+      "lineNumber": 125,
+      "line": "\t@Hitret id=35880\r\n"
+    },
+    {
+      "lineNumber": 127,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 128,
+      "line": "\tそんな中で弥恵とふたりで過ごす、ゆったりとした時間。\r\n"
+    },
+    {
+      "lineNumber": 129,
+      "line": "\t@Hitret id=35881\r\n"
+    },
+    {
+      "lineNumber": 131,
+      "line": "\t@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 132,
+      "line": "\tデートとか、そんな大仰なものじゃない、平凡で……でも、\r\n"
+    },
+    {
+      "lineNumber": 133,
+      "line": "\tとても愛おしく思える、大切な時間。\r\n"
+    },
+    {
+      "lineNumber": 134,
+      "line": "\t@Hitret id=35882\r\n"
+    },
+    {
+      "lineNumber": 138,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 139,
+      "line": "ただこうして、他愛もない会話をしながら過ごす事を特別\r\n"
+    },
+    {
+      "lineNumber": 140,
+      "line": "なものに思えるなんて……自分がどれだけ弥恵のことが\r\n"
+    },
+    {
+      "lineNumber": 141,
+      "line": "好きなのかを自覚せずにはいられない。\r\n"
+    },
+    {
+      "lineNumber": 147,
+      "line": "@Talk name=弥恵 voice=YE040666\r\n"
+    },
+    {
+      "lineNumber": 148,
+      "line": "「兄さん、どうしたの？　なんだか落ち着かない感じ\r\n"
+    },
+    {
+      "lineNumber": 149,
+      "line": "　だけど……？」\r\n"
+    },
+    {
+      "lineNumber": 152,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 153,
+      "line": "「え？　あ、ああ、なんでもないんだ、ごめんごめん。\r\n"
+    },
+    {
+      "lineNumber": 154,
+      "line": "　他の特売は無いかなって気になっちゃって」\r\n"
+    },
+    {
+      "lineNumber": 160,
+      "line": "@Talk name=弥恵 voice=YE040667\r\n"
+    },
+    {
+      "lineNumber": 161,
+      "line": "「あ、そうなんだ？　今日はあとはね、かぼちゃと牛乳が\r\n"
+    },
+    {
+      "lineNumber": 162,
+      "line": "　安いみたいだよ」\r\n"
+    },
+    {
+      "lineNumber": 165,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 166,
+      "line": "「そそ、そっか。じゃあそれも……」\r\n"
+    },
+    {
+      "lineNumber": 169,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 170,
+      "line": "「……そうか。特売、かぁ」\r\n"
+    },
+    {
+      "lineNumber": 175,
+      "line": "@Talk name=弥恵 voice=YE040668\r\n"
+    },
+    {
+      "lineNumber": 176,
+      "line": "「……兄さん？」\r\n"
+    },
+    {
+      "lineNumber": 179,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 180,
+      "line": "「ああいや、今日問題になっちゃった食材も安く手に\r\n"
+    },
+    {
+      "lineNumber": 181,
+      "line": "　入れられればいいのになって、そう思ってさ」\r\n"
+    },
+    {
+      "lineNumber": 187,
+      "line": "@Talk name=弥恵 voice=YE040669\r\n"
+    },
+    {
+      "lineNumber": 188,
+      "line": "「ぁ……うん、そうだね。学食だし仕入れの量も多い\r\n"
+    },
+    {
+      "lineNumber": 189,
+      "line": "　だろうから、安くしてもらえれば、ひょっとしたら……」\r\n"
+    },
+    {
+      "lineNumber": 192,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 193,
+      "line": "「うん。もしかしたら交渉次第でうまくいくかもしれない」\r\n"
+    },
+    {
+      "lineNumber": 196,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 197,
+      "line": "難しいかもしれないが、可能性が全くゼロだとも思わない。\r\n"
+    },
+    {
+      "lineNumber": 200,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 201,
+      "line": "「もし生クリームの価格が安くならなかったとしても、\r\n"
+    },
+    {
+      "lineNumber": 202,
+      "line": "　今日みたいな値段で牛乳が手に入ればいいわけだし」\r\n"
+    },
+    {
+      "lineNumber": 208,
+      "line": "@Talk name=弥恵 voice=YE040670\r\n"
+    },
+    {
+      "lineNumber": 209,
+      "line": "「あはは。なんだか、おうちの献立を考えてるみたいだね。\r\n"
+    },
+    {
+      "lineNumber": 210,
+      "line": "　どうやって家計をやりくりするか、みたいな？」\r\n"
+    },
+    {
+      "lineNumber": 213,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 214,
+      "line": "「本当だな。そっか、そういう意識で学食を考えた事って\r\n"
+    },
+    {
+      "lineNumber": 215,
+      "line": "　無かったなぁ」\r\n"
+    },
+    {
+      "lineNumber": 221,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 222,
+      "line": "デザート……プリンだけにこだわりすぎちゃいけないんだ。\r\n"
+    },
+    {
+      "lineNumber": 225,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 226,
+      "line": "一食全体、ひいては一週間・一ヶ月のコストを意識して……\r\n"
+    },
+    {
+      "lineNumber": 231,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 232,
+      "line": "「……あれ？　弥恵、今日の特売で他に安いものって、\r\n"
+    },
+    {
+      "lineNumber": 233,
+      "line": "　牛乳とあとなんだったっけ？」\r\n"
+    },
+    {
+      "lineNumber": 239,
+      "line": "@Talk name=弥恵 voice=YE040671\r\n"
+    },
+    {
+      "lineNumber": 240,
+      "line": "「えと、かぼちゃだよ」\r\n"
+    },
+    {
+      "lineNumber": 243,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 244,
+      "line": "かぼちゃかぁ。デザートとしても使える食材だよな。\r\n"
+    },
+    {
+      "lineNumber": 251,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 252,
+      "line": "あれ、ということは、つまり……\r\n"
+    },
+    {
+      "lineNumber": 255,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 256,
+      "line": "「……そうだ……」\r\n"
+    },
+    {
+      "lineNumber": 264,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 265,
+      "line": "「そっか、それだっ！！」\r\n"
+    },
+    {
+      "lineNumber": 273,
+      "line": "@Talk name=弥恵 voice=YE040672\r\n"
+    },
+    {
+      "lineNumber": 274,
+      "line": "「ふわぁぁっ！？」\r\n"
+    },
+    {
+      "lineNumber": 280,
+      "line": "@Talk name=弥恵 voice=YE040673\r\n"
+    },
+    {
+      "lineNumber": 281,
+      "line": "「ど、どうしたの兄さんっ、急に……！？」\r\n"
+    },
+    {
+      "lineNumber": 284,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 285,
+      "line": "「弥恵、学校に戻ろうっ。学食の仕入れ担当者と\r\n"
+    },
+    {
+      "lineNumber": 286,
+      "line": "　交渉するんだ！」\r\n"
+    },
+    {
+      "lineNumber": 292,
+      "line": "@Talk name=弥恵 voice=YE040674\r\n"
+    },
+    {
+      "lineNumber": 293,
+      "line": "「え？　え！　そそ、そんないきなり！？　無理だよぉ」\r\n"
+    },
+    {
+      "lineNumber": 296,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 297,
+      "line": "「大丈夫だよ、俺に任せてっ。ひらめいたんだよ、\r\n"
+    },
+    {
+      "lineNumber": 298,
+      "line": "　大逆転の方法を。ほら、早く早くっ」\r\n"
+    },
+    {
+      "lineNumber": 306,
+      "line": "@Talk name=弥恵 voice=YE040675\r\n"
+    },
+    {
+      "lineNumber": 307,
+      "line": "「きゃっ……！？　ちょ、ちょっと兄さん、押さないで\r\n"
+    },
+    {
+      "lineNumber": 308,
+      "line": "　転んじゃうっ、転んじゃうからぁ〜っ！」\r\n"
+    },
+    {
+      "lineNumber": 322,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 323,
+      "line": "携帯で智花に電話し、遅くなることを許してもらって、\r\n"
+    },
+    {
+      "lineNumber": 324,
+      "line": "俺と弥恵は学校までの道を逆走した。\r\n"
+    },
+    {
+      "lineNumber": 335,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 336,
+      "line": "「すみません、まだいらっしゃいますか！？」\r\n"
+    },
+    {
+      "lineNumber": 341,
+      "line": "@Talk name=おばちゃんＢ voice=NP040027\r\n"
+    },
+    {
+      "lineNumber": 342,
+      "line": "「きゃっ！？　びっくりしたぁ……どうしたのいきなり\r\n"
+    },
+    {
+      "lineNumber": 343,
+      "line": "　飛び込んできて」\r\n"
+    },
+    {
+      "lineNumber": 346,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 347,
+      "line": "「すみません、どうしても今日中にお聞きしたいことが\r\n"
+    },
+    {
+      "lineNumber": 348,
+      "line": "　あったものでっ」\r\n"
+    },
+    {
+      "lineNumber": 351,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 352,
+      "line": "「あの、学食の仕入れを担当してらっしゃる方ってどなた\r\n"
+    },
+    {
+      "lineNumber": 353,
+      "line": "　なんですか？　できれば直接お話しを……」\r\n"
+    },
+    {
+      "lineNumber": 356,
+      "line": "@Talk name=おばちゃんＢ voice=NP040028\r\n"
+    },
+    {
+      "lineNumber": 357,
+      "line": "「仕入れの担当？　ああ、だったら丁度よかったわ。\r\n"
+    },
+    {
+      "lineNumber": 358,
+      "line": "　先生、お客さんですよ」\r\n"
+    },
+    {
+      "lineNumber": 363,
+      "line": "@Talk name=静子/？？？ voice=SZ040001\r\n"
+    },
+    {
+      "lineNumber": 364,
+      "line": "「はいはい、どちらさまですか〜？」\r\n"
+    },
+    {
+      "lineNumber": 369,
+      "line": "@Talk name=おばちゃんＡ voice=NP030029\r\n"
+    },
+    {
+      "lineNumber": 370,
+      "line": "「あら、弥恵ちゃんにお兄ちゃんも。一体どうしたの\r\n"
+    },
+    {
+      "lineNumber": 371,
+      "line": "　かしら？」\r\n"
+    },
+    {
+      "lineNumber": 377,
+      "line": "@Talk name=弥恵 voice=YE040676\r\n"
+    },
+    {
+      "lineNumber": 378,
+      "line": "「すみません、何度もお邪魔してしまって……」\r\n"
+    },
+    {
+      "lineNumber": 385,
+      "line": "@Talk name=弥恵 voice=YE040677\r\n"
+    },
+    {
+      "lineNumber": 386,
+      "line": "「え？　岡野先生？」\r\n"
+    },
+    {
+      "lineNumber": 394,
+      "line": "@Talk name=静子 voice=SZ040002\r\n"
+    },
+    {
+      "lineNumber": 395,
+      "line": "「あらあら〜、倉野くんに弥恵さんも。先生になにか\r\n"
+    },
+    {
+      "lineNumber": 396,
+      "line": "　ご用ですかー？」\r\n"
+    },
+    {
+      "lineNumber": 403,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 404,
+      "line": "「へ？　なんで岡野先生が……ひょっとして、\r\n"
+    },
+    {
+      "lineNumber": 405,
+      "line": "　仕入れ担当者って先生のことなんですかっ！？」\r\n"
+    },
+    {
+      "lineNumber": 413,
+      "line": "@Talk name=静子 voice=SZ040003\r\n"
+    },
+    {
+      "lineNumber": 414,
+      "line": "「ひいぃぃっ！？　くくく倉野くんっ、先生なにか\r\n"
+    },
+    {
+      "lineNumber": 415,
+      "line": "　倉野くんを怒らせるようなことをっ……！？」\r\n"
+    },
+    {
+      "lineNumber": 418,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 419,
+      "line": "「え、あっ……！　違うっ、違うんです先生、今のはっ」\r\n"
+    },
+    {
+      "lineNumber": 424,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 425,
+      "line": "ヤバい。やってしまった。\r\n"
+    },
+    {
+      "lineNumber": 428,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 429,
+      "line": "予想外の人物を前にして、声を張り上げてしまった。\r\n"
+    },
+    {
+      "lineNumber": 432,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 433,
+      "line": "それがどういう結末を招くかは、分かりきっていることで。\r\n"
+    },
+    {
+      "lineNumber": 439,
+      "line": "@Talk name=静子 voice=SZ040004\r\n"
+    },
+    {
+      "lineNumber": 440,
+      "line": "「はわわっ、はわわわっ、どうしましょうどうしましょう、\r\n"
+    },
+    {
+      "lineNumber": 441,
+      "line": "　放課後の学校で、暴力事件発生です……！！」\r\n"
+    },
+    {
+      "lineNumber": 444,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 445,
+      "line": "「違うんです先生っ、すみません大きな声出しちゃって、\r\n"
+    },
+    {
+      "lineNumber": 446,
+      "line": "　ちょっと興奮してて……」\r\n"
+    },
+    {
+      "lineNumber": 453,
+      "line": "@Talk name=静子 voice=SZ040005\r\n"
+    },
+    {
+      "lineNumber": 454,
+      "line": "「こ、こここ、興奮なんですかっ！？　はぅぅ〜っ！」\r\n"
+    },
+    {
+      "lineNumber": 460,
+      "line": "@Talk name=静子 voice=SZ040006\r\n"
+    },
+    {
+      "lineNumber": 461,
+      "line": "「そんな、そんなそんな、暴力ではすまない若者の悶々と\r\n"
+    },
+    {
+      "lineNumber": 462,
+      "line": "　した衝動が今ここにっ！？」\r\n"
+    },
+    {
+      "lineNumber": 469,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 470,
+      "line": "ちがーう！！\r\n"
+    },
+    {
+      "lineNumber": 473,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 474,
+      "line": "力の限り叫びたかったが、そんな事をしてしまえば火に油\r\n"
+    },
+    {
+      "lineNumber": 475,
+      "line": "どころの話じゃない。\r\n"
+    },
+    {
+      "lineNumber": 481,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 482,
+      "line": "こういう場合は正攻法で、ポケットの中から……\r\n"
+    },
+    {
+      "lineNumber": 487,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 488,
+      "line": "あれ？\r\n"
+    },
+    {
+      "lineNumber": 494,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 495,
+      "line": "しまった手持ちのお菓子がっ！？\r\n"
+    },
+    {
+      "lineNumber": 498,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 499,
+      "line": "放課後ゆえの油断からか、俺のポケットには常備されて\r\n"
+    },
+    {
+      "lineNumber": 500,
+      "line": "いるべきお菓子が入っていなかった。\r\n"
+    },
+    {
+      "lineNumber": 503,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 504,
+      "line": "「弥恵っ、なにかお菓子持ってないか！？」\r\n"
+    },
+    {
+      "lineNumber": 510,
+      "line": "@Talk name=弥恵 voice=YE040678\r\n"
+    },
+    {
+      "lineNumber": 511,
+      "line": "「ふぇぇっ、お菓子！？　な、無いよぉ、そんなの\r\n"
+    },
+    {
+      "lineNumber": 512,
+      "line": "　いきなり言われてもぉっ」\r\n"
+    },
+    {
+      "lineNumber": 518,
+      "line": "@Talk name=弥恵 voice=YE040679\r\n"
+    },
+    {
+      "lineNumber": 519,
+      "line": "「あ。さっきのプリンだったら、もしかしたら……」\r\n"
+    },
+    {
+      "lineNumber": 524,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 525,
+      "line": "「そ、そうだっ。すみません、さっき弥恵が作った\r\n"
+    },
+    {
+      "lineNumber": 526,
+      "line": "　プリンって、まだ残ってますか！？」\r\n"
+    },
+    {
+      "lineNumber": 529,
+      "line": "@Talk name=おばちゃんＡ voice=NP030030\r\n"
+    },
+    {
+      "lineNumber": 530,
+      "line": "「え？　ええ……それならまだ冷蔵庫に入っているけれど」\r\n"
+    },
+    {
+      "lineNumber": 535,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 536,
+      "line": "「お願いしますそれを岡野先生にっ！　早くっ！」\r\n"
+    },
+    {
+      "lineNumber": 539,
+      "line": "@Talk name=おばちゃんＡ voice=NP030031\r\n"
+    },
+    {
+      "lineNumber": 540,
+      "line": "「な、なになに？　プリンを渡せばいいの？」\r\n"
+    },
+    {
+      "lineNumber": 545,
+      "line": "@Talk name=おばちゃんＡ voice=NP030032\r\n"
+    },
+    {
+      "lineNumber": 546,
+      "line": "「え、ええと、岡野先生、大丈夫ですか？\r\n"
+    },
+    {
+      "lineNumber": 547,
+      "line": "　これ持てます？」\r\n"
+    },
+    {
+      "lineNumber": 553,
+      "line": "@Talk name=静子 voice=SZ040007\r\n"
+    },
+    {
+      "lineNumber": 554,
+      "line": "「あら、あらあら、プリン、プリンです〜♪」\r\n"
+    },
+    {
+      "lineNumber": 557,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 558,
+      "line": "「先生それ弥恵が作ったんです。ぜひ食べてみてください！」\r\n"
+    },
+    {
+      "lineNumber": 564,
+      "line": "@Talk name=静子 voice=SZ040008\r\n"
+    },
+    {
+      "lineNumber": 565,
+      "line": "「まぁぁ〜、いいんですか？　先生この美味しそうな\r\n"
+    },
+    {
+      "lineNumber": 566,
+      "line": "　プリン、食べちゃってもいいんですか？」\r\n"
+    },
+    {
+      "lineNumber": 569,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 570,
+      "line": "「ええ、もちろんですっ」\r\n"
+    },
+    {
+      "lineNumber": 576,
+      "line": "@Talk name=静子 voice=SZ040009\r\n"
+    },
+    {
+      "lineNumber": 577,
+      "line": "「わぁぁぁ、いただきまぁ〜す」\r\n"
+    },
+    {
+      "lineNumber": 583,
+      "line": "@Talk name=静子 voice=SZ040010\r\n"
+    },
+    {
+      "lineNumber": 584,
+      "line": "「はむっ……んん……んくぅ……」\r\n"
+    },
+    {
+      "lineNumber": 591,
+      "line": "@Talk name=静子 voice=SZ040011\r\n"
+    },
+    {
+      "lineNumber": 592,
+      "line": "「はわぁぁぁ、とってもなめらかでおいしいです〜♪\r\n"
+    },
+    {
+      "lineNumber": 593,
+      "line": "　こんな素敵なプリンが食べられるなんて、\r\n"
+    },
+    {
+      "lineNumber": 594,
+      "line": "　しあわせぇ〜〜っ」\r\n"
+    },
+    {
+      "lineNumber": 597,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 598,
+      "line": "「……ふぅ。危なかった……」\r\n"
+    },
+    {
+      "lineNumber": 604,
+      "line": "@Talk name=弥恵 voice=YE040680\r\n"
+    },
+    {
+      "lineNumber": 605,
+      "line": "「あはははは……」\r\n"
+    },
+    {
+      "lineNumber": 620,
+      "line": "@Talk name=静子 voice=SZ040012\r\n"
+    },
+    {
+      "lineNumber": 621,
+      "line": "「ええと、お話はお姉さん……会長さんから聞きました〜。\r\n"
+    },
+    {
+      "lineNumber": 622,
+      "line": "　ごめんなさい、今日は立ち会ってあげられなくて〜」\r\n"
+    },
+    {
+      "lineNumber": 625,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 626,
+      "line": "「いえ、自分たちも急にお願いした身ですから。許可して\r\n"
+    },
+    {
+      "lineNumber": 627,
+      "line": "　いただいて、ありがとうございました」\r\n"
+    },
+    {
+      "lineNumber": 632,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 633,
+      "line": "弥恵のプリンで平静を取り戻した岡野先生と、学食の\r\n"
+    },
+    {
+      "lineNumber": 634,
+      "line": "テーブルごしに向かい合う。\r\n"
+    },
+    {
+      "lineNumber": 639,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 640,
+      "line": "隣では弥恵が、若干緊張した表情を浮かべていた。\r\n"
+    },
+    {
+      "lineNumber": 647,
+      "line": "@Talk name=静子 voice=SZ040013\r\n"
+    },
+    {
+      "lineNumber": 648,
+      "line": "「今日のことは、さっきおばさまたちから聞きましたよ〜。\r\n"
+    },
+    {
+      "lineNumber": 649,
+      "line": "　ふふ、弥恵さんったら凄いんですねー」\r\n"
+    },
+    {
+      "lineNumber": 654,
+      "line": "@Talk name=静子 voice=SZ040014\r\n"
+    },
+    {
+      "lineNumber": 655,
+      "line": "「こんな美味しいプリンが作れるなんて、先生\r\n"
+    },
+    {
+      "lineNumber": 656,
+      "line": "　尊敬しちゃいます〜」\r\n"
+    },
+    {
+      "lineNumber": 662,
+      "line": "@Talk name=弥恵 voice=YE040681\r\n"
+    },
+    {
+      "lineNumber": 663,
+      "line": "「いえ、そんな。ありがとうございます、岡野先生」\r\n"
+    },
+    {
+      "lineNumber": 669,
+      "line": "@Talk name=静子 voice=SZ040015\r\n"
+    },
+    {
+      "lineNumber": 670,
+      "line": "「でも、残念です〜。こんなに美味しいのに、生徒の\r\n"
+    },
+    {
+      "lineNumber": 671,
+      "line": "　みなさんに食べさせてあげられないなんて〜……」\r\n"
+    },
+    {
+      "lineNumber": 677,
+      "line": "@Talk name=弥恵 voice=YE040682\r\n"
+    },
+    {
+      "lineNumber": 678,
+      "line": "「ぁ……はい……」\r\n"
+    },
+    {
+      "lineNumber": 683,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 684,
+      "line": "「岡野先生、そのことで少しご相談があるんです」\r\n"
+    },
+    {
+      "lineNumber": 690,
+      "line": "@Talk name=静子 voice=SZ040016\r\n"
+    },
+    {
+      "lineNumber": 691,
+      "line": "「はぁぅ……倉野くんごめんなさい、学食の予算に\r\n"
+    },
+    {
+      "lineNumber": 692,
+      "line": "　ついては、先生ひとりの力ではどうにもぉ……」\r\n"
+    },
+    {
+      "lineNumber": 695,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 696,
+      "line": "「いえ、予算アップのお願いじゃないんです」\r\n"
+    },
+    {
+      "lineNumber": 702,
+      "line": "@Talk name=弥恵 voice=YE040683\r\n"
+    },
+    {
+      "lineNumber": 703,
+      "line": "「兄さん……？」\r\n"
+    },
+    {
+      "lineNumber": 706,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 707,
+      "line": "「今仕入れている食材を、もう少し安く手に\r\n"
+    },
+    {
+      "lineNumber": 708,
+      "line": "　入れられないかという話でして……」\r\n"
+    },
+    {
+      "lineNumber": 714,
+      "line": "@Talk name=静子 voice=SZ040017\r\n"
+    },
+    {
+      "lineNumber": 715,
+      "line": "「ええっと……どういう意味でしょうか〜……？」\r\n"
+    },
+    {
+      "lineNumber": 720,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 721,
+      "line": "「例えばですけど、砂糖みたいな保存のきくものは、\r\n"
+    },
+    {
+      "lineNumber": 722,
+      "line": "　一度に大量に仕入れていただく代わりに安く\r\n"
+    },
+    {
+      "lineNumber": 723,
+      "line": "　仕入れてもらったりはできないでしょうか？」\r\n"
+    },
+    {
+      "lineNumber": 726,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 727,
+      "line": "「日持ちのしづらい生クリームや牛乳も、例えばその週は\r\n"
+    },
+    {
+      "lineNumber": 728,
+      "line": "　プリンやクリームシチューといった乳製品を使う\r\n"
+    },
+    {
+      "lineNumber": 729,
+      "line": "　メニューを献立にして……」\r\n"
+    },
+    {
+      "lineNumber": 732,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 733,
+      "line": "「そうやって、使用する量を多くする分だけ単価は安く\r\n"
+    },
+    {
+      "lineNumber": 734,
+      "line": "　食材を仕入れることができれば、デザートのコストを\r\n"
+    },
+    {
+      "lineNumber": 735,
+      "line": "　少しでも下げられると思うんです」\r\n"
+    },
+    {
+      "lineNumber": 741,
+      "line": "@Talk name=静子 voice=SZ040018\r\n"
+    },
+    {
+      "lineNumber": 742,
+      "line": "「ふむふむ、クリームシチューですか〜。\r\n"
+    },
+    {
+      "lineNumber": 743,
+      "line": "　それは美味しそうですー」\r\n"
+    },
+    {
+      "lineNumber": 746,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 747,
+      "line": "「ですよね。そうやって仕入れをコントロールできれば、\r\n"
+    },
+    {
+      "lineNumber": 748,
+      "line": "　予算はそのままでデザートメニューを改善していく\r\n"
+    },
+    {
+      "lineNumber": 749,
+      "line": "　ことも可能なのではないでしょうか」\r\n"
+    },
+    {
+      "lineNumber": 756,
+      "line": "@Talk name=弥恵 voice=YE040684\r\n"
+    },
+    {
+      "lineNumber": 757,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 760,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 761,
+      "line": "デザートだけのことを考えていては、コストオーバーは\r\n"
+    },
+    {
+      "lineNumber": 762,
+      "line": "避けられない。\r\n"
+    },
+    {
+      "lineNumber": 765,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 766,
+      "line": "だったら、メニュー全体。それも毎日の事を計算に入れて、\r\n"
+    },
+    {
+      "lineNumber": 767,
+      "line": "その枠の中で食材を使い回していけばいい。\r\n"
+    },
+    {
+      "lineNumber": 770,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 771,
+      "line": "そう。弥恵がうちの食卓でそうしてくれているみたいに。\r\n"
+    },
+    {
+      "lineNumber": 778,
+      "line": "@Talk name=静子 voice=SZ040019\r\n"
+    },
+    {
+      "lineNumber": 779,
+      "line": "「うんうん。おばさまたちにオーケーしてもらえるなら、\r\n"
+    },
+    {
+      "lineNumber": 780,
+      "line": "　献立をリニューアルするのと一緒に仕入れを\r\n"
+    },
+    {
+      "lineNumber": 781,
+      "line": "　調節するのは、できると思います〜」\r\n"
+    },
+    {
+      "lineNumber": 784,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 785,
+      "line": "「もちろん、今回指摘をいただいたコストオーバーの部分\r\n"
+    },
+    {
+      "lineNumber": 786,
+      "line": "　は再検討して、現場のみなさんに納得していただける\r\n"
+    },
+    {
+      "lineNumber": 787,
+      "line": "　ものを提案させてもらいます」\r\n"
+    },
+    {
+      "lineNumber": 790,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 791,
+      "line": "「それとですけど……学食ですからメインの野菜とかは\r\n"
+    },
+    {
+      "lineNumber": 792,
+      "line": "　大量に仕入れてますよね？」\r\n"
+    },
+    {
+      "lineNumber": 798,
+      "line": "@Talk name=静子 voice=SZ040020\r\n"
+    },
+    {
+      "lineNumber": 799,
+      "line": "「そうですね〜、キャベツやレタスはもちろんだし、\r\n"
+    },
+    {
+      "lineNumber": 800,
+      "line": "　緑黄色野菜とかも格安で仕入れさせてもらってますよー。\r\n"
+    },
+    {
+      "lineNumber": 801,
+      "line": "　何十箱って単位ですから〜」\r\n"
+    },
+    {
+      "lineNumber": 804,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 805,
+      "line": "「えっと、かぼちゃもその中にあったりしますか？」\r\n"
+    },
+    {
+      "lineNumber": 810,
+      "line": "@Talk name=静子 voice=SZ040021\r\n"
+    },
+    {
+      "lineNumber": 811,
+      "line": "「かぼちゃ？　それは入っていますけど、それが\r\n"
+    },
+    {
+      "lineNumber": 812,
+      "line": "　デザートとなにか……」\r\n"
+    },
+    {
+      "lineNumber": 818,
+      "line": "@Talk name=静子 voice=SZ040022\r\n"
+    },
+    {
+      "lineNumber": 819,
+      "line": "「あっ、倉野くん倉野くんっ、先生わかっちゃいました、\r\n"
+    },
+    {
+      "lineNumber": 820,
+      "line": "　わかっちゃいました〜〜〜！」\r\n"
+    },
+    {
+      "lineNumber": 823,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 824,
+      "line": "俺の意図を理解したらしく、岡野先生は顔をほころばせる。\r\n"
+    },
+    {
+      "lineNumber": 827,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 828,
+      "line": "ホントにお菓子好きの人だなぁ。\r\n"
+    },
+    {
+      "lineNumber": 834,
+      "line": "@Talk name=静子 voice=SZ040023\r\n"
+    },
+    {
+      "lineNumber": 835,
+      "line": "「先生に言わせてください〜、先生の口から\r\n"
+    },
+    {
+      "lineNumber": 836,
+      "line": "　言わせてほしいです〜」\r\n"
+    },
+    {
+      "lineNumber": 842,
+      "line": "@Talk name=弥恵 voice=YE040685\r\n"
+    },
+    {
+      "lineNumber": 843,
+      "line": "「そっかぁ……だからかぼちゃだったんだね」\r\n"
+    },
+    {
+      "lineNumber": 846,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 847,
+      "line": "視線を横に向けると、弥恵も気づいているらしく、\r\n"
+    },
+    {
+      "lineNumber": 848,
+      "line": "なにか言いたげな顔をしていた。\r\n"
+    },
+    {
+      "lineNumber": 851,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 852,
+      "line": "「そうです。かぼちゃを大量に仕入れてある時は……」\r\n"
+    },
+    {
+      "lineNumber": 861,
+      "line": "@Talk name=弥恵＆静子 voice=SZ040024/YE040686\r\n"
+    },
+    {
+      "lineNumber": 862,
+      "line": "「かぼちゃのプリンを作るんだねっ、兄さん」\r\n"
+    },
+    {
+      "lineNumber": 863,
+      "line": "「かぼちゃのプリンを作る気ですね、倉野くん」\r\n"
+    },
+    {
+      "lineNumber": 866,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 867,
+      "line": "「はい。正解です」\r\n"
+    },
+    {
+      "lineNumber": 873,
+      "line": "@Talk name=静子 voice=SZ040025\r\n"
+    },
+    {
+      "lineNumber": 874,
+      "line": "「うふふ♪　やりました〜」\r\n"
+    },
+    {
+      "lineNumber": 877,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 878,
+      "line": "「秋になればさつまいもが安く手に入ると思いますから、\r\n"
+    },
+    {
+      "lineNumber": 879,
+      "line": "　その時はさつまいものプリンに変更したりして……」\r\n"
+    },
+    {
+      "lineNumber": 882,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 883,
+      "line": "「そんな風に食材のコストを調節しながら\r\n"
+    },
+    {
+      "lineNumber": 884,
+      "line": "　デザートメニューも少しずつ幅を広げていっては\r\n"
+    },
+    {
+      "lineNumber": 885,
+      "line": "　どうかと思うんです、岡野先生っ」\r\n"
+    },
+    {
+      "lineNumber": 891,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 892,
+      "line": "喋った。\r\n"
+    },
+    {
+      "lineNumber": 895,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 896,
+      "line": "まるで弁護士かなにかにでもなったみたいに、\r\n"
+    },
+    {
+      "lineNumber": 897,
+      "line": "必死になって。\r\n"
+    },
+    {
+      "lineNumber": 902,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 903,
+      "line": "大逆転を信じて……弥恵の思いを絶対にムダにしたくない、\r\n"
+    },
+    {
+      "lineNumber": 904,
+      "line": "その一心で。\r\n"
+    },
+    {
+      "lineNumber": 909,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 910,
+      "line": "そして、最後の一押し。\r\n"
+    },
+    {
+      "lineNumber": 913,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 914,
+      "line": "残りわずかな期間の先に待っているものを、逆に\r\n"
+    },
+    {
+      "lineNumber": 915,
+      "line": "利用するんだ。\r\n"
+    },
+    {
+      "lineNumber": 920,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 921,
+      "line": "「学食メニュー全体にも関わってしまうことですから、\r\n"
+    },
+    {
+      "lineNumber": 922,
+      "line": "　いきなりは難しいかもしれませんけど……」\r\n"
+    },
+    {
+      "lineNumber": 925,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 926,
+      "line": "「ですけど丁度夏休みになりますし、二学期に向けて\r\n"
+    },
+    {
+      "lineNumber": 927,
+      "line": "　この機会に検討していただければと……\r\n"
+    },
+    {
+      "lineNumber": 928,
+      "line": "　どうでしょうか、岡野先生っ」\r\n"
+    },
+    {
+      "lineNumber": 934,
+      "line": "@Talk name=静子 voice=SZ040026\r\n"
+    },
+    {
+      "lineNumber": 935,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 940,
+      "line": "@Talk name=静子 voice=SZ040027\r\n"
+    },
+    {
+      "lineNumber": 941,
+      "line": "「……なるほど。よくわかりました〜」\r\n"
+    },
+    {
+      "lineNumber": 948,
+      "line": "@Talk name=静子 voice=SZ040028\r\n"
+    },
+    {
+      "lineNumber": 949,
+      "line": "「そうですね……うん、うん。\r\n"
+    },
+    {
+      "lineNumber": 950,
+      "line": "　コストの意識を持ちながら、よく練られた素晴らしい\r\n"
+    },
+    {
+      "lineNumber": 951,
+      "line": "　提案だと思います〜」\r\n"
+    },
+    {
+      "lineNumber": 957,
+      "line": "@Talk name=静子 voice=SZ040029\r\n"
+    },
+    {
+      "lineNumber": 958,
+      "line": "「ふふふ。先生関心しちゃいました〜」\r\n"
+    },
+    {
+      "lineNumber": 961,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 962,
+      "line": "「岡野先生……それじゃあ」\r\n"
+    },
+    {
+      "lineNumber": 967,
+      "line": "@Talk name=静子 voice=SZ040030\r\n"
+    },
+    {
+      "lineNumber": 968,
+      "line": "「はい〜。でははじめは、このプリンのコスト削減を\r\n"
+    },
+    {
+      "lineNumber": 969,
+      "line": "　お願いしますね〜」\r\n"
+    },
+    {
+      "lineNumber": 975,
+      "line": "@Talk name=静子 voice=SZ040031\r\n"
+    },
+    {
+      "lineNumber": 976,
+      "line": "「おばさまたちにオーケーしてもらえたら、仕入れの話を\r\n"
+    },
+    {
+      "lineNumber": 977,
+      "line": "　具体的にしていきましょう？」\r\n"
+    },
+    {
+      "lineNumber": 982,
+      "line": "@Talk name=静子 voice=SZ040032\r\n"
+    },
+    {
+      "lineNumber": 983,
+      "line": "「期待していますからね〜。がんばってくださいね、\r\n"
+    },
+    {
+      "lineNumber": 984,
+      "line": "　おふたりとも〜」\r\n"
+    },
+    {
+      "lineNumber": 992,
+      "line": "@Talk name=弥恵 voice=YE040687\r\n"
+    },
+    {
+      "lineNumber": 993,
+      "line": "「……っ……！」\r\n"
+    },
+    {
+      "lineNumber": 996,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 997,
+      "line": "「はい、よろしくお願いしますっ。\r\n"
+    },
+    {
+      "lineNumber": 998,
+      "line": "　……やったな、弥恵っ」\r\n"
+    },
+    {
+      "lineNumber": 1004,
+      "line": "@Talk name=弥恵 voice=YE040688\r\n"
+    },
+    {
+      "lineNumber": 1005,
+      "line": "「兄さん……うん、うんっ……！」\r\n"
+    },
+    {
+      "lineNumber": 1011,
+      "line": "@Talk name=弥恵 voice=YE040689\r\n"
+    },
+    {
+      "lineNumber": 1012,
+      "line": "「あ、あのっ。よろしくお願いします、岡野先生っ」\r\n"
+    },
+    {
+      "lineNumber": 1018,
+      "line": "@Talk name=静子 voice=SZ040033\r\n"
+    },
+    {
+      "lineNumber": 1019,
+      "line": "「んふふっ、デザートが美味しくなるなら先生\r\n"
+    },
+    {
+      "lineNumber": 1020,
+      "line": "　大歓迎ですよ〜」\r\n"
+    },
+    {
+      "lineNumber": 1026,
+      "line": "@Talk name=静子 voice=SZ040034\r\n"
+    },
+    {
+      "lineNumber": 1027,
+      "line": "「倉野くんっ、弥恵さんっ。先生、断然\r\n"
+    },
+    {
+      "lineNumber": 1028,
+      "line": "　応援しちゃいますから〜！」\r\n"
+    },
+    {
+      "lineNumber": 1034,
+      "line": "@Talk name=弥恵 voice=YE040690\r\n"
+    },
+    {
+      "lineNumber": 1035,
+      "line": "「はっ、はいっ、ありがとうございますっ！」\r\n"
+    },
+    {
+      "lineNumber": 1041,
+      "line": "@Talk name=弥恵 voice=YE040691\r\n"
+    },
+    {
+      "lineNumber": 1042,
+      "line": "「………………」\r\n"
+    },
+    {
+      "lineNumber": 1048,
+      "line": "@Talk name=弥恵 voice=YE040692\r\n"
+    },
+    {
+      "lineNumber": 1049,
+      "line": "「……あっ、あの、岡野先生っ。早速で\r\n"
+    },
+    {
+      "lineNumber": 1050,
+      "line": "　申し訳ないんですけど、お願いが……」\r\n"
+    },
+    {
+      "lineNumber": 1055,
+      "line": "@Talk name=静子 voice=SZ040035\r\n"
+    },
+    {
+      "lineNumber": 1056,
+      "line": "「なんでしょうか？　弥恵さん」\r\n"
+    },
+    {
+      "lineNumber": 1062,
+      "line": "@Talk name=弥恵 voice=YE040693\r\n"
+    },
+    {
+      "lineNumber": 1063,
+      "line": "「よろしければもう一度、そのっ、厨房を\r\n"
+    },
+    {
+      "lineNumber": 1064,
+      "line": "　貸していただけないでしょうか？」\r\n"
+    },
+    {
+      "lineNumber": 1070,
+      "line": "@Talk name=静子 voice=SZ040036\r\n"
+    },
+    {
+      "lineNumber": 1071,
+      "line": "「もちろんいいですよ〜。あ、先生も立ち会わせて\r\n"
+    },
+    {
+      "lineNumber": 1072,
+      "line": "　もらってもいいでしょうか〜？」\r\n"
+    },
+    {
+      "lineNumber": 1078,
+      "line": "@Talk name=弥恵 voice=YE040694\r\n"
+    },
+    {
+      "lineNumber": 1079,
+      "line": "「は、はいっ、よろしくお願いしますっ」\r\n"
+    },
+    {
+      "lineNumber": 1086,
+      "line": "@Talk name=弥恵 voice=YE040695\r\n"
+    },
+    {
+      "lineNumber": 1087,
+      "line": "「えと、その、おばさんたちにも、もしよければ\r\n"
+    },
+    {
+      "lineNumber": 1088,
+      "line": "　意見をいただきたいなって……」\r\n"
+    },
+    {
+      "lineNumber": 1091,
+      "line": "@Talk name=おばちゃんＢ voice=NP040029\r\n"
+    },
+    {
+      "lineNumber": 1092,
+      "line": "「あら？　あたしたちも？」\r\n"
+    },
+    {
+      "lineNumber": 1095,
+      "line": "@Talk name=おばちゃんＡ voice=NP030033\r\n"
+    },
+    {
+      "lineNumber": 1096,
+      "line": "「役に立てるか分からないけれど、わたしたちでよければ\r\n"
+    },
+    {
+      "lineNumber": 1097,
+      "line": "　喜んでお付き合いさせていただくわ、弥恵ちゃん」\r\n"
+    },
+    {
+      "lineNumber": 1103,
+      "line": "@Talk name=弥恵 voice=YE040696\r\n"
+    },
+    {
+      "lineNumber": 1104,
+      "line": "「ぁ……ありがとうございます。よろしくお願いしますっ」\r\n"
+    },
+    {
+      "lineNumber": 1109,
+      "line": "@Talk name=弥恵 voice=YE040697\r\n"
+    },
+    {
+      "lineNumber": 1110,
+      "line": "「兄さんっ……もう少しだけ……いいかな？\r\n"
+    },
+    {
+      "lineNumber": 1111,
+      "line": "　わたし、頑張るから……」\r\n"
+    },
+    {
+      "lineNumber": 1114,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 1115,
+      "line": "「ああ、もちろん。弥恵、頑張ろうな」\r\n"
+    },
+    {
+      "lineNumber": 1121,
+      "line": "@Talk name=弥恵 voice=YE040698\r\n"
+    },
+    {
+      "lineNumber": 1122,
+      "line": "「っ……えへへ……うんっ」\r\n"
+    },
+    {
+      "lineNumber": 1127,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1128,
+      "line": "ぽんぽんと頭をなでてやると、屈託のない笑顔を\r\n"
+    },
+    {
+      "lineNumber": 1129,
+      "line": "向けてくる弥恵。\r\n"
+    },
+    {
+      "lineNumber": 1134,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1135,
+      "line": "その表情は、普段とはなんだか違って見えた。\r\n"
+    },
+    {
+      "lineNumber": 1138,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 1139,
+      "line": "自分から一歩先へと踏み出したその姿は、いつもより\r\n"
+    },
+    {
+      "lineNumber": 1140,
+      "line": "輝いているような気がした。\r\n"
+    }
+  ]
+}

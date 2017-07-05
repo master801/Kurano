@@ -1,0 +1,173 @@
+{
+  "name": "w02_z04.ks",
+  "lines": [
+    {
+      "lineNumber": 12,
+      "line": "@Talk name=静子 voice=SZ000026\r\n"
+    },
+    {
+      "lineNumber": 13,
+      "line": "「みなさ〜ん、帰りのホームルームをはじめますよ〜」\r\n"
+    },
+    {
+      "lineNumber": 16,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 17,
+      "line": "一日の授業が終わって空気が弛緩している教室へ、\r\n"
+    },
+    {
+      "lineNumber": 18,
+      "line": "岡野先生が入ってくる。\r\n"
+    },
+    {
+      "lineNumber": 23,
+      "line": "@Talk name=静子 voice=SZ000027\r\n"
+    },
+    {
+      "lineNumber": 24,
+      "line": "「あらあら、みなさん、お疲れみたいですね〜〜？」\r\n"
+    },
+    {
+      "lineNumber": 29,
+      "line": "@Talk name=静子 voice=SZ000028\r\n"
+    },
+    {
+      "lineNumber": 30,
+      "line": "「運動部はもうすぐ大会があるところも多いそうですから、\r\n"
+    },
+    {
+      "lineNumber": 31,
+      "line": "　放課後が本番なのじゃないかしら〜？」\r\n"
+    },
+    {
+      "lineNumber": 34,
+      "line": "@Talk name=クラスメイトＢ voice=NP060001\r\n"
+    },
+    {
+      "lineNumber": 35,
+      "line": "「そうそう！　だから授業中は寝ててもいいー？」\r\n"
+    },
+    {
+      "lineNumber": 41,
+      "line": "@Talk name=静子 voice=SZ000029\r\n"
+    },
+    {
+      "lineNumber": 42,
+      "line": "「ふぇぇ、だ、だめですよぅ〜〜、そ、そんなこと、\r\n"
+    },
+    {
+      "lineNumber": 43,
+      "line": "　学級崩壊への第一歩になってしまうかもしれない\r\n"
+    },
+    {
+      "lineNumber": 44,
+      "line": "　です〜〜っ」\r\n"
+    },
+    {
+      "lineNumber": 49,
+      "line": "@Talk name=クラスメイトＡ voice=NP050001\r\n"
+    },
+    {
+      "lineNumber": 50,
+      "line": "「わわっ、ごめん静子ちゃん！　真面目にやるから、\r\n"
+    },
+    {
+      "lineNumber": 51,
+      "line": "　泣かないでーーっ！」\r\n"
+    },
+    {
+      "lineNumber": 56,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 57,
+      "line": "岡野先生の言葉をぼんやり聞きながら、放課後のことを\r\n"
+    },
+    {
+      "lineNumber": 58,
+      "line": "考える。\r\n"
+    },
+    {
+      "lineNumber": 61,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 62,
+      "line": "今日はいずみ姉さんから生徒会に呼び出されていたので、\r\n"
+    },
+    {
+      "lineNumber": 63,
+      "line": "顔を出さないといけないな。\r\n"
+    },
+    {
+      "lineNumber": 66,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 67,
+      "line": "……とはいえ、店のことも心配だ。\r\n"
+    },
+    {
+      "lineNumber": 70,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 71,
+      "line": "他の姉妹たちは、どんな風に過ごすつもりなのだろう？\r\n"
+    },
+    {
+      "lineNumber": 81,
+      "line": "\t@onFlag id=1\r\n"
+    },
+    {
+      "lineNumber": 83,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "\t@stopBgm fade=2000\r\n"
+    },
+    {
+      "lineNumber": 85,
+      "line": "\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 87,
+      "line": "\t@Change target=w02_z04_ab01\r\n"
+    },
+    {
+      "lineNumber": 91,
+      "line": "\t@onFlag id=2\r\n"
+    },
+    {
+      "lineNumber": 93,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 94,
+      "line": "\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 96,
+      "line": "\t@Change target=w02_z04_c01\r\n"
+    },
+    {
+      "lineNumber": 100,
+      "line": "\t@onFlag id=3\r\n"
+    },
+    {
+      "lineNumber": 102,
+      "line": "\t@hide\r\n"
+    },
+    {
+      "lineNumber": 103,
+      "line": "\t@blackout time=2000 hitCancel\r\n"
+    },
+    {
+      "lineNumber": 105,
+      "line": "\t@Change target=w02_z04_de01\r\n"
+    }
+  ]
+}

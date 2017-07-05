@@ -1,0 +1,817 @@
+{
+  "name": "w06_c10_03.ks",
+  "lines": [
+    {
+      "lineNumber": 11,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 12,
+      "line": "レジャーシートを片付けて、荷物を海の家へ預けたあと、\r\n"
+    },
+    {
+      "lineNumber": 13,
+      "line": "俺と智花はのんびりと海で遊んだ。\r\n"
+    },
+    {
+      "lineNumber": 16,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 17,
+      "line": "時間を追うにつれて、夏の終わりの海は少し肌寒くなり、\r\n"
+    },
+    {
+      "lineNumber": 18,
+      "line": "海水浴客が減っていった。\r\n"
+    },
+    {
+      "lineNumber": 26,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 27,
+      "line": "そして……あっという間に、一日が終わろうとしていた。\r\n"
+    },
+    {
+      "lineNumber": 37,
+      "line": "@Talk name=智花 voice=TM031408\r\n"
+    },
+    {
+      "lineNumber": 38,
+      "line": "「んっ……風が強くなってきたわね……」\r\n"
+    },
+    {
+      "lineNumber": 41,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 42,
+      "line": "智花は、風に踊る髪の毛を押さえながら、沖の方へ視線を\r\n"
+    },
+    {
+      "lineNumber": 43,
+      "line": "向けた。\r\n"
+    },
+    {
+      "lineNumber": 46,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 47,
+      "line": "日の高いうちはずっと日陰にいたためか、智花の肌は朝と\r\n"
+    },
+    {
+      "lineNumber": 48,
+      "line": "変わらずにまっ白なままだった。\r\n"
+    },
+    {
+      "lineNumber": 51,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 52,
+      "line": "夕日に照らされたその白い身体は、きらきらと輝いていて、\r\n"
+    },
+    {
+      "lineNumber": 53,
+      "line": "さながら１枚の絵画のようだった。\r\n"
+    },
+    {
+      "lineNumber": 58,
+      "line": "@Talk name=智花 voice=TM031409\r\n"
+    },
+    {
+      "lineNumber": 59,
+      "line": "「夕日が沈んでいくわね……水平線がきらきらして、\r\n"
+    },
+    {
+      "lineNumber": 60,
+      "line": "　すごく綺麗だわ」\r\n"
+    },
+    {
+      "lineNumber": 63,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 64,
+      "line": "「そ、そうだな」\r\n"
+    },
+    {
+      "lineNumber": 69,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 70,
+      "line": "まるで俺の心情を読んだかのような言葉にどきりとする。\r\n"
+    },
+    {
+      "lineNumber": 75,
+      "line": "@Talk name=智花 voice=TM031410\r\n"
+    },
+    {
+      "lineNumber": 76,
+      "line": "「なんだか不思議ね」\r\n"
+    },
+    {
+      "lineNumber": 79,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 80,
+      "line": "どちらともなく歩調がゆっくりとしたものになり、やがて\r\n"
+    },
+    {
+      "lineNumber": 81,
+      "line": "止まった。\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 85,
+      "line": "「……なにがだ？」\r\n"
+    },
+    {
+      "lineNumber": 90,
+      "line": "@Talk name=智花 voice=TM031411\r\n"
+    },
+    {
+      "lineNumber": 91,
+      "line": "「この間まで、姉弟がばらばらになってしまいそうな\r\n"
+    },
+    {
+      "lineNumber": 92,
+      "line": "　大問題があったのに、今はすっかり日常が戻って\r\n"
+    },
+    {
+      "lineNumber": 93,
+      "line": "　きているんだもの」\r\n"
+    },
+    {
+      "lineNumber": 96,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 97,
+      "line": "「そうだな……」\r\n"
+    },
+    {
+      "lineNumber": 102,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 103,
+      "line": "父さんと母さんは、喧嘩をする前と同じように二人で店を\r\n"
+    },
+    {
+      "lineNumber": 104,
+      "line": "開けている。\r\n"
+    },
+    {
+      "lineNumber": 107,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 108,
+      "line": "いずみ姉さんは相変わらず生徒会活動で忙しそうにして\r\n"
+    },
+    {
+      "lineNumber": 109,
+      "line": "いるし、みこと姉ちゃんは運動部の助っ人をやめて店を\r\n"
+    },
+    {
+      "lineNumber": 110,
+      "line": "手伝ったりつまみ食いをしたりと家に入り浸っている。\r\n"
+    },
+    {
+      "lineNumber": 113,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 114,
+      "line": "弥恵は厨房を手伝ったり、智花と一緒に家事をしたり\r\n"
+    },
+    {
+      "lineNumber": 115,
+      "line": "しているし、絵麻は弥恵のあとや俺のあとに\r\n"
+    },
+    {
+      "lineNumber": 116,
+      "line": "くっついて歩いている。\r\n"
+    },
+    {
+      "lineNumber": 119,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 120,
+      "line": "全部が元通りになったのだ。\r\n"
+    },
+    {
+      "lineNumber": 123,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 124,
+      "line": "「でも……」\r\n"
+    },
+    {
+      "lineNumber": 129,
+      "line": "@Talk name=智花 voice=TM031412\r\n"
+    },
+    {
+      "lineNumber": 130,
+      "line": "「ん……なに？」\r\n"
+    },
+    {
+      "lineNumber": 133,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 134,
+      "line": "俺の呟きを聞きとがめて、智花は首を傾げた。\r\n"
+    },
+    {
+      "lineNumber": 137,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 138,
+      "line": "「変わったこともたくさんあるよ」\r\n"
+    },
+    {
+      "lineNumber": 144,
+      "line": "@Talk name=智花 voice=TM031413\r\n"
+    },
+    {
+      "lineNumber": 145,
+      "line": "「変わったこと？」\r\n"
+    },
+    {
+      "lineNumber": 151,
+      "line": "@Talk name=智花 voice=TM031414\r\n"
+    },
+    {
+      "lineNumber": 152,
+      "line": "「そういえば、和哉はパティシエの修業を始めたものね」\r\n"
+    },
+    {
+      "lineNumber": 155,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 156,
+      "line": "「ああ、それもあるな」\r\n"
+    },
+    {
+      "lineNumber": 159,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 160,
+      "line": "父さんと母さんは、どうやら本気で将来俺に店を\r\n"
+    },
+    {
+      "lineNumber": 161,
+      "line": "持たせようと思っているらしい。\r\n"
+    },
+    {
+      "lineNumber": 164,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 165,
+      "line": "普通であれば子どもの意志を無視するのかと抗議する\r\n"
+    },
+    {
+      "lineNumber": 166,
+      "line": "ところなのだろうが、俺自身もパティシエの道に興味を\r\n"
+    },
+    {
+      "lineNumber": 167,
+      "line": "持ってしまっているのだからタチが悪い。\r\n"
+    },
+    {
+      "lineNumber": 172,
+      "line": "@Talk name=智花 voice=TM031415\r\n"
+    },
+    {
+      "lineNumber": 173,
+      "line": "「将来有望だって、母さんたちが言ってたわよ」\r\n"
+    },
+    {
+      "lineNumber": 176,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 177,
+      "line": "「本当か？　俺は怒られてばっかりだけどな」\r\n"
+    },
+    {
+      "lineNumber": 180,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 181,
+      "line": "指導に熱が入りすぎて、深夜遅くまで厨房に居残り\r\n"
+    },
+    {
+      "lineNumber": 182,
+      "line": "させられることも少なくない。\r\n"
+    },
+    {
+      "lineNumber": 188,
+      "line": "@Talk name=智花 voice=TM031416\r\n"
+    },
+    {
+      "lineNumber": 189,
+      "line": "「いいじゃない。目標があるっていうのは素敵なことだと\r\n"
+    },
+    {
+      "lineNumber": 190,
+      "line": "　思うわ」\r\n"
+    },
+    {
+      "lineNumber": 193,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 194,
+      "line": "「カブに入ってる智花に言われると、説得力があるな」\r\n"
+    },
+    {
+      "lineNumber": 197,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 198,
+      "line": "俺のお嫁さんになる——その夢のために、花嫁修業を\r\n"
+    },
+    {
+      "lineNumber": 199,
+      "line": "ずっと続けていてくれたのだから。\r\n"
+    },
+    {
+      "lineNumber": 205,
+      "line": "@Talk name=智花 voice=TM031417\r\n"
+    },
+    {
+      "lineNumber": 206,
+      "line": "「も、もう……あんまりにやにやしないで、怒るわよ」\r\n"
+    },
+    {
+      "lineNumber": 209,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 210,
+      "line": "恥ずかしそうに口を尖らせる智花が可愛らしくて仕方ない。\r\n"
+    },
+    {
+      "lineNumber": 215,
+      "line": "@Talk name=智花 voice=TM031418\r\n"
+    },
+    {
+      "lineNumber": 216,
+      "line": "「それより、他に変わったことといえば……」\r\n"
+    },
+    {
+      "lineNumber": 221,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 222,
+      "line": "智花は思案げに視線をさまよわせる。\r\n"
+    },
+    {
+      "lineNumber": 225,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 226,
+      "line": "「思いつかないか？」\r\n"
+    },
+    {
+      "lineNumber": 233,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 234,
+      "line": "言って、俺は智花の手を握った。\r\n"
+    },
+    {
+      "lineNumber": 237,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 238,
+      "line": "「俺たちが恋人同士になれただろう？」\r\n"
+    },
+    {
+      "lineNumber": 245,
+      "line": "@Talk name=智花 voice=TM031419\r\n"
+    },
+    {
+      "lineNumber": 246,
+      "line": "「……ふふ、そうね」\r\n"
+    },
+    {
+      "lineNumber": 251,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 252,
+      "line": "智花と一緒にいると、とくん、とくんと心臓が穏やかに\r\n"
+    },
+    {
+      "lineNumber": 253,
+      "line": "鼓動する。\r\n"
+    },
+    {
+      "lineNumber": 256,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 257,
+      "line": "以前までの、双子と一緒にいる時の穏やかさとは全く違う、\r\n"
+    },
+    {
+      "lineNumber": 258,
+      "line": "もっと親密な穏やかさだ。\r\n"
+    },
+    {
+      "lineNumber": 261,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 262,
+      "line": "自分が愛している相手が、自分のことも愛してくれている\r\n"
+    },
+    {
+      "lineNumber": 263,
+      "line": "という安心感。\r\n"
+    },
+    {
+      "lineNumber": 266,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 267,
+      "line": "そんな時間を、他でもない智花と共有できていることが、\r\n"
+    },
+    {
+      "lineNumber": 268,
+      "line": "なによりも幸せに思えた。\r\n"
+    },
+    {
+      "lineNumber": 275,
+      "line": "@Talk name=智花 voice=TM031420\r\n"
+    },
+    {
+      "lineNumber": 276,
+      "line": "「なんだか夢みたいだわ、和哉と恋人同士だなんて」\r\n"
+    },
+    {
+      "lineNumber": 279,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 280,
+      "line": "「どうして？」\r\n"
+    },
+    {
+      "lineNumber": 286,
+      "line": "@Talk name=智花 voice=TM031421\r\n"
+    },
+    {
+      "lineNumber": 287,
+      "line": "「それだけ長い間、和哉が私を焦らしていたってことよ？」\r\n"
+    },
+    {
+      "lineNumber": 290,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 291,
+      "line": "「うっ……それは、ごめん」\r\n"
+    },
+    {
+      "lineNumber": 297,
+      "line": "@Talk name=智花 voice=TM031422\r\n"
+    },
+    {
+      "lineNumber": 298,
+      "line": "「ふふっ……だからね、和哉」\r\n"
+    },
+    {
+      "lineNumber": 304,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 305,
+      "line": "智花は一歩進んで、俺に顔を近づけてきた。\r\n"
+    },
+    {
+      "lineNumber": 310,
+      "line": "@Talk name=智花 voice=TM031423\r\n"
+    },
+    {
+      "lineNumber": 311,
+      "line": "「その分、今度は……私と和哉が恋人同士だって思える\r\n"
+    },
+    {
+      "lineNumber": 312,
+      "line": "　ことを、たくさんしてちょうだいね」\r\n"
+    },
+    {
+      "lineNumber": 315,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 316,
+      "line": "そう言って、夕日のせいだけではない、薄紅色に染まった\r\n"
+    },
+    {
+      "lineNumber": 317,
+      "line": "頬をほころばせる。\r\n"
+    },
+    {
+      "lineNumber": 320,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 321,
+      "line": "「ああ、もちろん……」\r\n"
+    },
+    {
+      "lineNumber": 324,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 325,
+      "line": "俺は智花の頬に手を添えて、唇を近づけていく。\r\n"
+    },
+    {
+      "lineNumber": 333,
+      "line": "@Talk name=智花 voice=TM031424\r\n"
+    },
+    {
+      "lineNumber": 334,
+      "line": "「んっ…………」\r\n"
+    },
+    {
+      "lineNumber": 337,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 338,
+      "line": "穏やかな心をそのまま伝え合うような、優しいキスをする。\r\n"
+    },
+    {
+      "lineNumber": 343,
+      "line": "@Talk name=智花 voice=TM031425\r\n"
+    },
+    {
+      "lineNumber": 344,
+      "line": "「んっ……んん、ふぁ…………」\r\n"
+    },
+    {
+      "lineNumber": 347,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 348,
+      "line": "鼻をくすぐる吐息は、甘やかに香りながら潮風に\r\n"
+    },
+    {
+      "lineNumber": 349,
+      "line": "溶けていく。\r\n"
+    },
+    {
+      "lineNumber": 354,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 355,
+      "line": "唇を離すと、自然と笑みがこぼれてきた。\r\n"
+    },
+    {
+      "lineNumber": 358,
+      "line": "@Talk name=智花 voice=TM031426\r\n"
+    },
+    {
+      "lineNumber": 359,
+      "line": "「……好きよ、和哉」\r\n"
+    },
+    {
+      "lineNumber": 362,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 363,
+      "line": "「ああ、俺もだ」\r\n"
+    },
+    {
+      "lineNumber": 366,
+      "line": "@Talk name=智花 voice=TM031427\r\n"
+    },
+    {
+      "lineNumber": 367,
+      "line": "「もうしばらく、こうしていてもいい……？」\r\n"
+    },
+    {
+      "lineNumber": 370,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 371,
+      "line": "「どうして？」\r\n"
+    },
+    {
+      "lineNumber": 374,
+      "line": "@Talk name=智花 voice=TM031428\r\n"
+    },
+    {
+      "lineNumber": 375,
+      "line": "「家に帰ったら、またやきもちを焼きっぱなしで、忙しく\r\n"
+    },
+    {
+      "lineNumber": 376,
+      "line": "　なるもの」\r\n"
+    },
+    {
+      "lineNumber": 379,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 380,
+      "line": "「俺の恋人は智花だけだぞ？」\r\n"
+    },
+    {
+      "lineNumber": 383,
+      "line": "@Talk name=智花 voice=TM031429\r\n"
+    },
+    {
+      "lineNumber": 384,
+      "line": "「それとこれとは別なの……和哉を好きになればなるほど、\r\n"
+    },
+    {
+      "lineNumber": 385,
+      "line": "　私、どんどんやきもち焼きになっていくのよ」\r\n"
+    },
+    {
+      "lineNumber": 388,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 389,
+      "line": "智花はいたずらっぽく笑った。\r\n"
+    },
+    {
+      "lineNumber": 392,
+      "line": "@Talk name=智花 voice=TM031430\r\n"
+    },
+    {
+      "lineNumber": 393,
+      "line": "「だから、覚悟していてね——他の子に目移りしたら、\r\n"
+    },
+    {
+      "lineNumber": 394,
+      "line": "　許さないんだから」\r\n"
+    },
+    {
+      "lineNumber": 397,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 398,
+      "line": "「ああ、もちろん……不安なら、何度でも智花だけが恋人\r\n"
+    },
+    {
+      "lineNumber": 399,
+      "line": "　だって証明するよ」\r\n"
+    },
+    {
+      "lineNumber": 402,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 403,
+      "line": "まっすぐに目を見つめながら言うと、智花は\r\n"
+    },
+    {
+      "lineNumber": 404,
+      "line": "くすぐったそうにくすくすと笑った。\r\n"
+    },
+    {
+      "lineNumber": 407,
+      "line": "@Talk name=智花 voice=TM031431\r\n"
+    },
+    {
+      "lineNumber": 408,
+      "line": "「ふふ……信じてるわ、和哉……大好きよ」\r\n"
+    },
+    {
+      "lineNumber": 411,
+      "line": "@Talk name=智花 voice=TM031432\r\n"
+    },
+    {
+      "lineNumber": 412,
+      "line": "「今も、昔も、これからもずっと……好き、大好き……」\r\n"
+    },
+    {
+      "lineNumber": 415,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 416,
+      "line": "囁かれるたびに、愛しさが募っていく。\r\n"
+    },
+    {
+      "lineNumber": 419,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 420,
+      "line": "「ああ、俺もだ……愛してる、智花」\r\n"
+    },
+    {
+      "lineNumber": 423,
+      "line": "@Talk name=智花 voice=TM031433\r\n"
+    },
+    {
+      "lineNumber": 424,
+      "line": "「んっ……嬉しい……私も……私も、愛してる……ずっと、\r\n"
+    },
+    {
+      "lineNumber": 425,
+      "line": "　和哉だけを愛しているわ」\r\n"
+    },
+    {
+      "lineNumber": 430,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 431,
+      "line": "触れあっている場所が、ほんのりと熱くなる。\r\n"
+    },
+    {
+      "lineNumber": 434,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 435,
+      "line": "これから先の人生を、俺は彼女と歩いていくことになる\r\n"
+    },
+    {
+      "lineNumber": 436,
+      "line": "だろう。\r\n"
+    },
+    {
+      "lineNumber": 439,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 440,
+      "line": "言葉を交さなくても、暖かな体温が、お互いに確信を\r\n"
+    },
+    {
+      "lineNumber": 441,
+      "line": "持っていることを教えてくれる。\r\n"
+    },
+    {
+      "lineNumber": 444,
+      "line": "@Talk name=智花 voice=TM031434\r\n"
+    },
+    {
+      "lineNumber": 445,
+      "line": "「和哉……」\r\n"
+    },
+    {
+      "lineNumber": 448,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 449,
+      "line": "宝石のような、大きな瞳を見つめ返す。\r\n"
+    },
+    {
+      "lineNumber": 452,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 453,
+      "line": "俺たちは、微笑み合い、幸福感に包まれながら——\r\n"
+    },
+    {
+      "lineNumber": 461,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 462,
+      "line": "——未来を誓い合う、幸せなキスを交わしたのだった。\r\n"
+    }
+  ]
+}

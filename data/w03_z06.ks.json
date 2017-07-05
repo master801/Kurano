@@ -1,0 +1,181 @@
+{
+  "name": "w03_z06.ks",
+  "lines": [
+    {
+      "lineNumber": 12,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 13,
+      "line": "夕食後の、まどろみの時間。\r\n"
+    },
+    {
+      "lineNumber": 16,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 17,
+      "line": "冷えた麦茶をテーブルの上に置いて、ひと口ごくり。\r\n"
+    },
+    {
+      "lineNumber": 25,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 26,
+      "line": "「さてと……」\r\n"
+    },
+    {
+      "lineNumber": 31,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 32,
+      "line": "姉弟の仲も、離婚話がはじまった当初よりはだいぶ\r\n"
+    },
+    {
+      "lineNumber": 33,
+      "line": "落ち着いてきたように思える。\r\n"
+    },
+    {
+      "lineNumber": 36,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 37,
+      "line": "「それでも……」\r\n"
+    },
+    {
+      "lineNumber": 40,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 41,
+      "line": "まだ、姉弟の間で違和感が残っているのは確かだ。\r\n"
+    },
+    {
+      "lineNumber": 44,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 45,
+      "line": "こうして一人、部屋に引っ込んでいるよりは、みんなの\r\n"
+    },
+    {
+      "lineNumber": 46,
+      "line": "様子を見に行った方がいいかもしれない。\r\n"
+    },
+    {
+      "lineNumber": 49,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 50,
+      "line": "そうすれば、これからの問題の打開案がふいに浮かぶこと\r\n"
+    },
+    {
+      "lineNumber": 51,
+      "line": "だってあるかもしれない……\r\n"
+    },
+    {
+      "lineNumber": 54,
+      "line": "@Talk name=心の声\r\n"
+    },
+    {
+      "lineNumber": 55,
+      "line": "俺は麦茶をもうひと口飲んでから、立ち上がった。\r\n"
+    },
+    {
+      "lineNumber": 58,
+      "line": "@Talk name=和哉\r\n"
+    },
+    {
+      "lineNumber": 59,
+      "line": "「誰の様子を見に行くかな？」\r\n"
+    },
+    {
+      "lineNumber": 69,
+      "line": "\t@onFlag id=10\r\n"
+    },
+    {
+      "lineNumber": 71,
+      "line": "\t@if exp=\"GetParam(52) == 0\"\r\n"
+    },
+    {
+      "lineNumber": 72,
+      "line": "\t\t@onFlag id=151\t\t\r\n"
+    },
+    {
+      "lineNumber": 73,
+      "line": "\t\t@Change target=w02_z05_ab01\r\n"
+    },
+    {
+      "lineNumber": 74,
+      "line": "\t@elsif exp=\"GetParam(52) == 1\"\r\n"
+    },
+    {
+      "lineNumber": 75,
+      "line": "\t\t@Change target=w03_z07_ab01\r\n"
+    },
+    {
+      "lineNumber": 76,
+      "line": "\t@endif\r\n"
+    },
+    {
+      "lineNumber": 79,
+      "line": "\t@onFlag id=11\r\n"
+    },
+    {
+      "lineNumber": 81,
+      "line": "\t@if exp=\"GetParam(54) == 0\"\r\n"
+    },
+    {
+      "lineNumber": 82,
+      "line": "\t\t@onFlag id=152\t\t\r\n"
+    },
+    {
+      "lineNumber": 83,
+      "line": "\t\t@Change target=w02_z05_c01\r\n"
+    },
+    {
+      "lineNumber": 84,
+      "line": "\t@elsif exp=\"GetParam(54) == 1\"\r\n"
+    },
+    {
+      "lineNumber": 85,
+      "line": "\t\t@Change target=w03_z07_c01\r\n"
+    },
+    {
+      "lineNumber": 86,
+      "line": "\t@endif\r\n"
+    },
+    {
+      "lineNumber": 90,
+      "line": "\t@onFlag id=12\r\n"
+    },
+    {
+      "lineNumber": 92,
+      "line": "\t@if exp=\"GetParam(56) == 0\"\r\n"
+    },
+    {
+      "lineNumber": 93,
+      "line": "\t\t@onFlag id=153\t\t\r\n"
+    },
+    {
+      "lineNumber": 94,
+      "line": "\t\t@Change target=w02_z05_de01\r\n"
+    },
+    {
+      "lineNumber": 95,
+      "line": "\t@elsif exp=\"GetParam(56) == 1\"\r\n"
+    },
+    {
+      "lineNumber": 96,
+      "line": "\t\t@Change target=w03_z07_de01\r\n"
+    },
+    {
+      "lineNumber": 97,
+      "line": "\t@endif\r\n"
+    }
+  ]
+}
