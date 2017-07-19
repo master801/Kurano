@@ -3,2135 +3,5562 @@
   "lines": [
     {
       "lineNumber": 13,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 14,
-      "line": "「ありがとうございました」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ありがとうございました」\r\n"
+      }
     },
     {
       "lineNumber": 19,
-      "line": "@Talk name=絵麻 voice=EM000448\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000448"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 20,
-      "line": "「……ました」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……ました」\r\n"
+      }
     },
     {
       "lineNumber": 29,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 30,
-      "line": "今日の最後のお客さんを見送ると、そろそろ店じまいの\r\n"
+      "shift": false,
+      "line": {
+        "text": "今日の最後のお客さんを見送ると、そろそろ店じまいの\r\n"
+      }
     },
     {
       "lineNumber": 31,
-      "line": "時間だった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "時間だった。\r\n"
+      }
     },
     {
       "lineNumber": 34,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 35,
-      "line": "ラストオーダーの時間は終わってるし、あとは片付けを\r\n"
+      "shift": false,
+      "line": {
+        "text": "ラストオーダーの時間は終わってるし、あとは片付けを\r\n"
+      }
     },
     {
       "lineNumber": 36,
-      "line": "残すのみだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "残すのみだ。\r\n"
+      }
     },
     {
       "lineNumber": 39,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 40,
-      "line": "「絵麻、体調は大丈夫か？　今日はずいぶん頑張って\r\n"
+      "shift": false,
+      "line": {
+        "text": "「絵麻、体調は大丈夫か？　今日はずいぶん頑張って\r\n"
+      }
     },
     {
       "lineNumber": 41,
-      "line": "　くれていたけど」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　くれていたけど」\r\n"
+      }
     },
     {
       "lineNumber": 44,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 45,
-      "line": "絵麻の体力に見合わないくらい、無理をさせてしまった\r\n"
+      "shift": false,
+      "line": {
+        "text": "絵麻の体力に見合わないくらい、無理をさせてしまった\r\n"
+      }
     },
     {
       "lineNumber": 46,
-      "line": "のではないかと心配になる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "のではないかと心配になる。\r\n"
+      }
     },
     {
       "lineNumber": 52,
-      "line": "@Talk name=絵麻 voice=EM000449\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000449"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 53,
-      "line": "「えまは大丈夫、です、お兄ちゃん。えまは、だんだん\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えまは大丈夫、です、お兄ちゃん。えまは、だんだん\r\n"
+      }
     },
     {
       "lineNumber": 54,
-      "line": "　体力がついてきました」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　体力がついてきました」\r\n"
+      }
     },
     {
       "lineNumber": 60,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 61,
-      "line": "そう言って、ひょろひょろの腕に力こぶを作ろうとする\r\n"
+      "shift": false,
+      "line": {
+        "text": "そう言って、ひょろひょろの腕に力こぶを作ろうとする\r\n"
+      }
     },
     {
       "lineNumber": 62,
-      "line": "絵麻。\r\n"
+      "shift": false,
+      "line": {
+        "text": "絵麻。\r\n"
+      }
     },
     {
       "lineNumber": 65,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 66,
-      "line": "「ははは、そうか。それは頼もしいな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ははは、そうか。それは頼もしいな」\r\n"
+      }
     },
     {
       "lineNumber": 73,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 74,
-      "line": "ぽんぽんと頭を撫でる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ぽんぽんと頭を撫でる。\r\n"
+      }
     },
     {
       "lineNumber": 79,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 80,
-      "line": "確かに以前より、貧血になったりだるそうにしている\r\n"
+      "shift": false,
+      "line": {
+        "text": "確かに以前より、貧血になったりだるそうにしている\r\n"
+      }
     },
     {
       "lineNumber": 81,
-      "line": "姿をあまり見なくはなった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "姿をあまり見なくはなった。\r\n"
+      }
     },
     {
       "lineNumber": 84,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 85,
-      "line": "しかしだからこそ、兄として油断せずに注意して\r\n"
+      "shift": false,
+      "line": {
+        "text": "しかしだからこそ、兄として油断せずに注意して\r\n"
+      }
     },
     {
       "lineNumber": 86,
-      "line": "あげたいと思った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "あげたいと思った。\r\n"
+      }
     },
     {
       "lineNumber": 92,
-      "line": "@Talk name=いずみ voice=IS000767\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000767"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 93,
-      "line": "「みんな、今日も一日お疲れさま」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「みんな、今日も一日お疲れさま」\r\n"
+      }
     },
     {
       "lineNumber": 99,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 100,
-      "line": "ホールへと集まった姉弟をぐるりと見回してから、\r\n"
+      "shift": false,
+      "line": {
+        "text": "ホールへと集まった姉弟をぐるりと見回してから、\r\n"
+      }
     },
     {
       "lineNumber": 101,
-      "line": "いずみ姉さんがにっこりと微笑んだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いずみ姉さんがにっこりと微笑んだ。\r\n"
+      }
     },
     {
       "lineNumber": 107,
-      "line": "@Talk name=みこと voice=MK000674\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000674"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 108,
-      "line": "「今日も疲れたぁー……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「今日も疲れたぁー……」\r\n"
+      }
     },
     {
       "lineNumber": 115,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 116,
-      "line": "客席のテーブルにくたりと伸びる、みこと姉ちゃん。\r\n"
+      "shift": false,
+      "line": {
+        "text": "客席のテーブルにくたりと伸びる、みこと姉ちゃん。\r\n"
+      }
     },
     {
       "lineNumber": 122,
-      "line": "@Talk name=智花 voice=TM000840\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000840"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 123,
-      "line": "「夜になってから、お客さんが急に増えたものね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「夜になってから、お客さんが急に増えたものね」\r\n"
+      }
     },
     {
       "lineNumber": 128,
-      "line": "@Talk name=いずみ voice=IS000768\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000768"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 129,
-      "line": "「そうねぇ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そうねぇ……」\r\n"
+      }
     },
     {
       "lineNumber": 132,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 133,
-      "line": "いずみ姉さんが思案げに眉根を寄せる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いずみ姉さんが思案げに眉根を寄せる。\r\n"
+      }
     },
     {
       "lineNumber": 139,
-      "line": "@Talk name=いずみ voice=IS000769\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000769"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 140,
-      "line": "「乙賀屋の生徒が、部活終わりに寄ったのでしょうね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「乙賀屋の生徒が、部活終わりに寄ったのでしょうね」\r\n"
+      }
     },
     {
       "lineNumber": 145,
-      "line": "@Talk name=智花 voice=TM000841\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000841"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 146,
-      "line": "「今までそういうのって、少なかった気がするけど」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「今までそういうのって、少なかった気がするけど」\r\n"
+      }
     },
     {
       "lineNumber": 149,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 150,
-      "line": "確かに、この店の客層は自然と店の周辺に住んでいる\r\n"
+      "shift": false,
+      "line": {
+        "text": "確かに、この店の客層は自然と店の周辺に住んでいる\r\n"
+      }
     },
     {
       "lineNumber": 151,
-      "line": "奥様方や子ども、評判を聞きつけた男性客くらい\r\n"
+      "shift": false,
+      "line": {
+        "text": "奥様方や子ども、評判を聞きつけた男性客くらい\r\n"
+      }
     },
     {
       "lineNumber": 152,
-      "line": "だったんだけど。\r\n"
+      "shift": false,
+      "line": {
+        "text": "だったんだけど。\r\n"
+      }
     },
     {
       "lineNumber": 159,
-      "line": "@Talk name=みこと voice=MK000675\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000675"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 160,
-      "line": "「き、きっとさっ！　アップルパイがちいきにしんとう\r\n"
+      "shift": false,
+      "line": {
+        "text": "「き、きっとさっ！　アップルパイがちいきにしんとう\r\n"
+      }
     },
     {
       "lineNumber": 161,
-      "line": "　してきたってことだよねっ！？　しんとう！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　してきたってことだよねっ！？　しんとう！」\r\n"
+      }
     },
     {
       "lineNumber": 167,
-      "line": "@Talk name=みこと voice=MK000676\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000676"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 168,
-      "line": "「んっふっふ、こ、困っちゃうよねぇ〜！　やっぱり、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっふっふ、こ、困っちゃうよねぇ〜！　やっぱり、\r\n"
+      }
     },
     {
       "lineNumber": 169,
-      "line": "　看板娘のおかげかなぁ〜？　かなぁ〜！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　看板娘のおかげかなぁ〜？　かなぁ〜！？」\r\n"
+      }
     },
     {
       "lineNumber": 172,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 173,
-      "line": "「…………？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「…………？」\r\n"
+      }
     },
     {
       "lineNumber": 179,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 180,
-      "line": "みこと姉ちゃんの不自然な反応に、いずみ姉さんと顔を\r\n"
+      "shift": false,
+      "line": {
+        "text": "みこと姉ちゃんの不自然な反応に、いずみ姉さんと顔を\r\n"
+      }
     },
     {
       "lineNumber": 181,
-      "line": "見合わせる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "見合わせる。\r\n"
+      }
     },
     {
       "lineNumber": 186,
-      "line": "@Talk name=いずみ voice=IS000770\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000770"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 187,
-      "line": "「みことちゃん、あなた、私たちになにか隠し事を\r\n"
+      "shift": false,
+      "line": {
+        "text": "「みことちゃん、あなた、私たちになにか隠し事を\r\n"
+      }
     },
     {
       "lineNumber": 188,
-      "line": "　してるんじゃないかしら？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　してるんじゃないかしら？」\r\n"
+      }
     },
     {
       "lineNumber": 194,
-      "line": "@Talk name=みこと voice=MK000677\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000677"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 195,
-      "line": "「ひゃぇっ！？　な、なにそれ、そんなわけないじゃん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ひゃぇっ！？　な、なにそれ、そんなわけないじゃん」\r\n"
+      }
     },
     {
       "lineNumber": 201,
-      "line": "@Talk name=いずみ voice=IS000771\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000771"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 202,
-      "line": "「ふぅん、そう……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふぅん、そう……？」\r\n"
+      }
     },
     {
       "lineNumber": 205,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 206,
-      "line": "いずみ姉さんがさらに疑惑の目を向ける。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いずみ姉さんがさらに疑惑の目を向ける。\r\n"
+      }
     },
     {
       "lineNumber": 212,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 213,
-      "line": "みこと姉ちゃんは、蛇に睨まれたかえるのように\r\n"
+      "shift": false,
+      "line": {
+        "text": "みこと姉ちゃんは、蛇に睨まれたかえるのように\r\n"
+      }
     },
     {
       "lineNumber": 214,
-      "line": "がくがくと震えだす。\r\n"
+      "shift": false,
+      "line": {
+        "text": "がくがくと震えだす。\r\n"
+      }
     },
     {
       "lineNumber": 220,
-      "line": "@Talk name=いずみ voice=IS000772\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000772"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 221,
-      "line": "「……まぁ、いいわ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……まぁ、いいわ」\r\n"
+      }
     },
     {
       "lineNumber": 224,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 225,
-      "line": "いずみ姉さんは肩をすくめて、みこと姉ちゃんから目を\r\n"
+      "shift": false,
+      "line": {
+        "text": "いずみ姉さんは肩をすくめて、みこと姉ちゃんから目を\r\n"
+      }
     },
     {
       "lineNumber": 226,
-      "line": "逸らした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "逸らした。\r\n"
+      }
     },
     {
       "lineNumber": 232,
-      "line": "@Talk name=みこと voice=MK000678\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000678"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 233,
-      "line": "「はふぅぅ…………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はふぅぅ…………」\r\n"
+      }
     },
     {
       "lineNumber": 238,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 239,
-      "line": "「………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「………………」\r\n"
+      }
     },
     {
       "lineNumber": 242,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 243,
-      "line": "この反応……なにかは分からないが、隠し事をしている\r\n"
+      "shift": false,
+      "line": {
+        "text": "この反応……なにかは分からないが、隠し事をしている\r\n"
+      }
     },
     {
       "lineNumber": 244,
-      "line": "のは確実なようだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "のは確実なようだ。\r\n"
+      }
     },
     {
       "lineNumber": 247,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 248,
-      "line": "みこと姉ちゃんが隠し事をするなんて珍しいし、\r\n"
+      "shift": false,
+      "line": {
+        "text": "みこと姉ちゃんが隠し事をするなんて珍しいし、\r\n"
+      }
     },
     {
       "lineNumber": 249,
-      "line": "気になるな。\r\n"
+      "shift": false,
+      "line": {
+        "text": "気になるな。\r\n"
+      }
     },
     {
       "lineNumber": 255,
-      "line": "@Talk name=いずみ voice=IS000773\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000773"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 256,
-      "line": "「今日は私とみことでお店の片付けをするから、みんなは\r\n"
+      "shift": false,
+      "line": {
+        "text": "「今日は私とみことでお店の片付けをするから、みんなは\r\n"
+      }
     },
     {
       "lineNumber": 257,
-      "line": "　お家の方をお願いしていいかしら？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　お家の方をお願いしていいかしら？」\r\n"
+      }
     },
     {
       "lineNumber": 260,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 261,
-      "line": "「えっ、二人だけで片付けるのか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えっ、二人だけで片付けるのか？」\r\n"
+      }
     },
     {
       "lineNumber": 267,
-      "line": "@Talk name=いずみ voice=IS000774\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000774"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 268,
-      "line": "「私たちはお料理で協力出来ないぶん、こういうことで\r\n"
+      "shift": false,
+      "line": {
+        "text": "「私たちはお料理で協力出来ないぶん、こういうことで\r\n"
+      }
     },
     {
       "lineNumber": 269,
-      "line": "　協力しないと、ね？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　協力しないと、ね？」\r\n"
+      }
     },
     {
       "lineNumber": 272,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 273,
-      "line": "にっこりと笑ういずみ姉さん。\r\n"
+      "shift": false,
+      "line": {
+        "text": "にっこりと笑ういずみ姉さん。\r\n"
+      }
     },
     {
       "lineNumber": 278,
-      "line": "@Talk name=みこと voice=MK000679\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000679"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 279,
-      "line": "「そーだね。そのぶん、晩ごはんにきたいするよぉー」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そーだね。そのぶん、晩ごはんにきたいするよぉー」\r\n"
+      }
     },
     {
       "lineNumber": 282,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 283,
-      "line": "机にぐでーっと伸びた状態で手を上げて、弥恵の頭を\r\n"
+      "shift": false,
+      "line": {
+        "text": "机にぐでーっと伸びた状態で手を上げて、弥恵の頭を\r\n"
+      }
     },
     {
       "lineNumber": 284,
-      "line": "撫でる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "撫でる。\r\n"
+      }
     },
     {
       "lineNumber": 291,
-      "line": "@Talk name=弥恵 voice=YE000534\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000534"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 292,
-      "line": "「あっ……うん。がんばって作るね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あっ……うん。がんばって作るね」\r\n"
+      }
     },
     {
       "lineNumber": 298,
-      "line": "@Talk name=智花 voice=TM000842\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000842"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 299,
-      "line": "「弥恵は厨房で頑張ってたから疲れたでしょう？\r\n"
+      "shift": false,
+      "line": {
+        "text": "「弥恵は厨房で頑張ってたから疲れたでしょう？\r\n"
+      }
     },
     {
       "lineNumber": 300,
-      "line": "　私も作るから気を張らなくていいわ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　私も作るから気を張らなくていいわ」\r\n"
+      }
     },
     {
       "lineNumber": 306,
-      "line": "@Talk name=絵麻 voice=EM000450\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000450"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 307,
-      "line": "「えまも手伝い、ます」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えまも手伝い、ます」\r\n"
+      }
     },
     {
       "lineNumber": 312,
-      "line": "@Talk name=弥恵 voice=YE000535\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000535"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 313,
-      "line": "「えへへ、ありがとう」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えへへ、ありがとう」\r\n"
+      }
     },
     {
       "lineNumber": 318,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 319,
-      "line": "「じゃあ、俺は残ってる力仕事はやっていくよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「じゃあ、俺は残ってる力仕事はやっていくよ」\r\n"
+      }
     },
     {
       "lineNumber": 322,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 323,
-      "line": "店内の椅子をテーブルに上げたり、テラス席の屋根を\r\n"
+      "shift": false,
+      "line": {
+        "text": "店内の椅子をテーブルに上げたり、テラス席の屋根を\r\n"
+      }
     },
     {
       "lineNumber": 324,
-      "line": "戻したりと、力仕事もまだ残っている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "戻したりと、力仕事もまだ残っている。\r\n"
+      }
     },
     {
       "lineNumber": 329,
-      "line": "@Talk name=いずみ voice=IS000775\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000775"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 330,
-      "line": "「ありがとう、かずちゃん。助かるわ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ありがとう、かずちゃん。助かるわ」\r\n"
+      }
     },
     {
       "lineNumber": 336,
-      "line": "@Talk name=みこと voice=MK000680\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000680"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 337,
-      "line": "「わーいっ！　カズくんとお片付けー！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「わーいっ！　カズくんとお片付けー！！」\r\n"
+      }
     },
     {
       "lineNumber": 345,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 346,
-      "line": "「うわっ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うわっ！？」\r\n"
+      }
     },
     {
       "lineNumber": 349,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 350,
-      "line": "みこと姉ちゃんは一瞬で立ち上がって、一瞬で俺に\r\n"
+      "shift": false,
+      "line": {
+        "text": "みこと姉ちゃんは一瞬で立ち上がって、一瞬で俺に\r\n"
+      }
     },
     {
       "lineNumber": 351,
-      "line": "抱きついてくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "抱きついてくる。\r\n"
+      }
     },
     {
       "lineNumber": 357,
-      "line": "@Talk name=みこと voice=MK000681\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000681"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 358,
-      "line": "「んふふっ、がぜんやる気でちゃうもんね〜！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んふふっ、がぜんやる気でちゃうもんね〜！」\r\n"
+      }
     },
     {
       "lineNumber": 361,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 362,
-      "line": "「はいはい、頑張ろうな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はいはい、頑張ろうな」\r\n"
+      }
     },
     {
       "lineNumber": 367,
-      "line": "@Talk name=みこと voice=MK000682\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000682"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 368,
-      "line": "「まっかせて！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「まっかせて！」\r\n"
+      }
     },
     {
       "lineNumber": 375,
-      "line": "@Talk name=いずみ voice=IS000776\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000776"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 376,
-      "line": "「かずちゃん、私もいるのだからね？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「かずちゃん、私もいるのだからね？」\r\n"
+      }
     },
     {
       "lineNumber": 389,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 390,
-      "line": "豊満な胸を押しつけるようにして、いずみ姉さんまで\r\n"
+      "shift": false,
+      "line": {
+        "text": "豊満な胸を押しつけるようにして、いずみ姉さんまで\r\n"
+      }
     },
     {
       "lineNumber": 391,
-      "line": "抱きついてくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "抱きついてくる。\r\n"
+      }
     },
     {
       "lineNumber": 396,
-      "line": "@Talk name=みこと voice=MK000683\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000683"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 397,
-      "line": "「あ゛ーっ、おっぱい使うのは反則だよ、いずみっっ！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ゛ーっ、おっぱい使うのは反則だよ、いずみっっ！！」\r\n"
+      }
     },
     {
       "lineNumber": 403,
-      "line": "@Talk name=智花 voice=TM000843\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000843"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 404,
-      "line": "「ね、姉さんたちと三人で……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ね、姉さんたちと三人で……？」\r\n"
+      }
     },
     {
       "lineNumber": 409,
-      "line": "@Talk name=絵麻 voice=EM000451\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000451"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 410,
-      "line": "「誘惑が心配、ですか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「誘惑が心配、ですか？」\r\n"
+      }
     },
     {
       "lineNumber": 416,
-      "line": "@Talk name=智花 voice=TM000844\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000844"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 417,
-      "line": "「はうっ！？　そ、そそそんなことないわよ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はうっ！？　そ、そそそんなことないわよ？」\r\n"
+      }
     },
     {
       "lineNumber": 422,
-      "line": "@Talk name=弥恵 voice=YE000536\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000536"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 423,
-      "line": "「あはは……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あはは……」\r\n"
+      }
     },
     {
       "lineNumber": 431,
-      "line": "@Talk name=智花 voice=TM000845\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000845"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 432,
-      "line": "「うぅぅ……和哉っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うぅぅ……和哉っ！」\r\n"
+      }
     },
     {
       "lineNumber": 435,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 436,
-      "line": "「ん、なんだ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、なんだ？」\r\n"
+      }
     },
     {
       "lineNumber": 441,
-      "line": "@Talk name=智花 voice=TM000846\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000846"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 442,
-      "line": "「い、家の方でもやることはたくさんあるんだから、早く\r\n"
+      "shift": false,
+      "line": {
+        "text": "「い、家の方でもやることはたくさんあるんだから、早く\r\n"
+      }
     },
     {
       "lineNumber": 443,
-      "line": "　終わらせてきてよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　終わらせてきてよね」\r\n"
+      }
     },
     {
       "lineNumber": 446,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 447,
-      "line": "「ああ、分かった」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああ、分かった」\r\n"
+      }
     },
     {
       "lineNumber": 450,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 451,
-      "line": "微妙に不機嫌になっている智花に頷きを返す。\r\n"
+      "shift": false,
+      "line": {
+        "text": "微妙に不機嫌になっている智花に頷きを返す。\r\n"
+      }
     },
     {
       "lineNumber": 457,
-      "line": "@Talk name=いずみ voice=IS000777\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "IS000777"
+          },
+          {
+            "key": "name",
+            "value": "いずみ"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 458,
-      "line": "「さあ、お腹も空いてしまうし、さっそくはじめましょう\r\n"
+      "shift": false,
+      "line": {
+        "text": "「さあ、お腹も空いてしまうし、さっそくはじめましょう\r\n"
+      }
     },
     {
       "lineNumber": 459,
-      "line": "　か」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　か」\r\n"
+      }
     },
     {
       "lineNumber": 465,
-      "line": "@Talk name=みこと voice=MK000684\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "MK000684"
+          },
+          {
+            "key": "name",
+            "value": "みこと"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 466,
-      "line": "「りょーかいっ！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「りょーかいっ！！」\r\n"
+      }
     },
     {
       "lineNumber": 469,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 470,
-      "line": "みこと姉ちゃんの元気な返事を皮切りに、俺たちは\r\n"
+      "shift": false,
+      "line": {
+        "text": "みこと姉ちゃんの元気な返事を皮切りに、俺たちは\r\n"
+      }
     },
     {
       "lineNumber": 471,
-      "line": "それぞれの分担場所へと向かった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "それぞれの分担場所へと向かった。\r\n"
+      }
     },
     {
       "lineNumber": 482,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 483,
-      "line": "戸締まりを姉さんたちに任せ、俺は一足先に家へと戻って\r\n"
+      "shift": false,
+      "line": {
+        "text": "戸締まりを姉さんたちに任せ、俺は一足先に家へと戻って\r\n"
+      }
     },
     {
       "lineNumber": 484,
-      "line": "きた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "きた。\r\n"
+      }
     },
     {
       "lineNumber": 499,
-      "line": "@Talk name=智花 voice=TM000847\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000847"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 500,
-      "line": "「……じゃあ、あれは？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……じゃあ、あれは？」\r\n"
+      }
     },
     {
       "lineNumber": 505,
-      "line": "@Talk name=弥恵 voice=YE000537\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000537"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 506,
-      "line": "「そっちはチョコレートで作るんだよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そっちはチョコレートで作るんだよ」\r\n"
+      }
     },
     {
       "lineNumber": 511,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 512,
-      "line": "リビングの扉を開くと、智花と弥恵が夕飯の準備を進めて\r\n"
+      "shift": false,
+      "line": {
+        "text": "リビングの扉を開くと、智花と弥恵が夕飯の準備を進めて\r\n"
+      }
     },
     {
       "lineNumber": 513,
-      "line": "いた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いた。\r\n"
+      }
     },
     {
       "lineNumber": 516,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 517,
-      "line": "絵麻はまだ手伝えることがないらしく、\r\n"
+      "shift": false,
+      "line": {
+        "text": "絵麻はまだ手伝えることがないらしく、\r\n"
+      }
     },
     {
       "lineNumber": 518,
-      "line": "ダイニングテーブルに座っている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ダイニングテーブルに座っている。\r\n"
+      }
     },
     {
       "lineNumber": 521,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 522,
-      "line": "「ただいま」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ただいま」\r\n"
+      }
     },
     {
       "lineNumber": 527,
-      "line": "@Talk name=智花 voice=TM000848\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000848"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 528,
-      "line": "「あっ、おかえりなさい、和哉」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あっ、おかえりなさい、和哉」\r\n"
+      }
     },
     {
       "lineNumber": 538,
-      "line": "@Talk name=弥恵＆絵麻 voice=EM000452/YE000538\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000452/YE000538"
+          },
+          {
+            "key": "name",
+            "value": "弥恵＆絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 539,
-      "line": "「おかえりなさい、兄さん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「おかえりなさい、兄さん」\r\n"
+      }
     },
     {
       "lineNumber": 540,
-      "line": "「おかえりなさい、お兄ちゃん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「おかえりなさい、お兄ちゃん」\r\n"
+      }
     },
     {
       "lineNumber": 543,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 544,
-      "line": "「なんの話をしてたんだ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「なんの話をしてたんだ？」\r\n"
+      }
     },
     {
       "lineNumber": 550,
-      "line": "@Talk name=絵麻 voice=EM000453\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000453"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 551,
-      "line": "「らぶらぶケーキです」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「らぶらぶケーキです」\r\n"
+      }
     },
     {
       "lineNumber": 554,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 555,
-      "line": "「ら、らぶらぶ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ら、らぶらぶ？」\r\n"
+      }
     },
     {
       "lineNumber": 560,
-      "line": "@Talk name=智花 voice=TM000849\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000849"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 561,
-      "line": "「明日、予約のケーキを受け取りに来るお客さんが\r\n"
+      "shift": false,
+      "line": {
+        "text": "「明日、予約のケーキを受け取りに来るお客さんが\r\n"
+      }
     },
     {
       "lineNumber": 562,
-      "line": "　いるから、その確認よ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　いるから、その確認よ」\r\n"
+      }
     },
     {
       "lineNumber": 567,
-      "line": "@Talk name=弥恵 voice=YE000539\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000539"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 568,
-      "line": "「２件あるから、間違えると大変だねって」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「２件あるから、間違えると大変だねって」\r\n"
+      }
     },
     {
       "lineNumber": 571,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 572,
-      "line": "「……ああ、なるほど」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……ああ、なるほど」\r\n"
+      }
     },
     {
       "lineNumber": 577,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 578,
-      "line": "店のカレンダーに、そういう書き込みがあったような気が\r\n"
+      "shift": false,
+      "line": {
+        "text": "店のカレンダーに、そういう書き込みがあったような気が\r\n"
+      }
     },
     {
       "lineNumber": 579,
-      "line": "する。\r\n"
+      "shift": false,
+      "line": {
+        "text": "する。\r\n"
+      }
     },
     {
       "lineNumber": 584,
-      "line": "@Talk name=智花 voice=TM000850\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000850"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 585,
-      "line": "「一件は結婚記念日用のケーキで、もう一件は\r\n"
+      "shift": false,
+      "line": {
+        "text": "「一件は結婚記念日用のケーキで、もう一件は\r\n"
+      }
     },
     {
       "lineNumber": 586,
-      "line": "　カップル用の記念日ケーキなのよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　カップル用の記念日ケーキなのよね」\r\n"
+      }
     },
     {
       "lineNumber": 592,
-      "line": "@Talk name=弥恵 voice=YE000540\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000540"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 593,
-      "line": "「うん。もうスポンジは焼いて休ませてあるから、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん。もうスポンジは焼いて休ませてあるから、\r\n"
+      }
     },
     {
       "lineNumber": 594,
-      "line": "　明日学校から帰ってきたら、デコレーションしようと\r\n"
+      "shift": false,
+      "line": {
+        "text": "　明日学校から帰ってきたら、デコレーションしようと\r\n"
+      }
     },
     {
       "lineNumber": 595,
-      "line": "　思ってるの」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　思ってるの」\r\n"
+      }
     },
     {
       "lineNumber": 600,
-      "line": "@Talk name=智花 voice=TM000851\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000851"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 601,
-      "line": "「受け取りは二件とも夜だから、それで十分間に合うん\r\n"
+      "shift": false,
+      "line": {
+        "text": "「受け取りは二件とも夜だから、それで十分間に合うん\r\n"
+      }
     },
     {
       "lineNumber": 602,
-      "line": "　ですって。ね、弥恵？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ですって。ね、弥恵？」\r\n"
+      }
     },
     {
       "lineNumber": 608,
-      "line": "@Talk name=弥恵 voice=YE000541\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000541"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 609,
-      "line": "「う、うん。がんばる」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うん。がんばる」\r\n"
+      }
     },
     {
       "lineNumber": 612,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 613,
-      "line": "弥恵は緊張で強ばった表情で頷いた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "弥恵は緊張で強ばった表情で頷いた。\r\n"
+      }
     },
     {
       "lineNumber": 618,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 619,
-      "line": "店で出しているケーキもお客さんに評判で、及第点以上の\r\n"
+      "shift": false,
+      "line": {
+        "text": "店で出しているケーキもお客さんに評判で、及第点以上の\r\n"
+      }
     },
     {
       "lineNumber": 620,
-      "line": "ものを作っているのに……まだ自信は持てていない様子だ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ものを作っているのに……まだ自信は持てていない様子だ。\r\n"
+      }
     },
     {
       "lineNumber": 623,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 624,
-      "line": "「弥恵」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「弥恵」\r\n"
+      }
     },
     {
       "lineNumber": 629,
-      "line": "@Talk name=弥恵 voice=YE000542\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000542"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 630,
-      "line": "「ん、なぁに、兄さん？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、なぁに、兄さん？」\r\n"
+      }
     },
     {
       "lineNumber": 633,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 634,
-      "line": "近づいて行って、弥恵の頭を撫でる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "近づいて行って、弥恵の頭を撫でる。\r\n"
+      }
     },
     {
       "lineNumber": 641,
-      "line": "@Talk name=弥恵 voice=YE000543\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000543"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 642,
-      "line": "「はわわ、兄さん？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はわわ、兄さん？」\r\n"
+      }
     },
     {
       "lineNumber": 645,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 646,
-      "line": "「弥恵には頼りっぱなしだな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「弥恵には頼りっぱなしだな」\r\n"
+      }
     },
     {
       "lineNumber": 652,
-      "line": "@Talk name=弥恵 voice=YE000544\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000544"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 653,
-      "line": "「う、ううん……そんなことないよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、ううん……そんなことないよ」\r\n"
+      }
     },
     {
       "lineNumber": 656,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 657,
-      "line": "「ありがとう。俺も手伝うから、頑張ろうな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ありがとう。俺も手伝うから、頑張ろうな」\r\n"
+      }
     },
     {
       "lineNumber": 663,
-      "line": "@Talk name=弥恵 voice=YE000545\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000545"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 664,
-      "line": "「ぁっ……うん！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ぁっ……うん！」\r\n"
+      }
     },
     {
       "lineNumber": 667,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 668,
-      "line": "弥恵が嬉しそうに笑ってくれる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "弥恵が嬉しそうに笑ってくれる。\r\n"
+      }
     },
     {
       "lineNumber": 671,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 672,
-      "line": "その穏やかな笑顔を見て、ほっと安心した。\r\n"
+      "shift": false,
+      "line": {
+        "text": "その穏やかな笑顔を見て、ほっと安心した。\r\n"
+      }
     },
     {
       "lineNumber": 678,
-      "line": "@Talk name=絵麻 voice=EM000454\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000454"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 679,
-      "line": "「記念日のケーキ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「記念日のケーキ……」\r\n"
+      }
     },
     {
       "lineNumber": 685,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 686,
-      "line": "ダイニングテーブルに座っている絵麻は、\r\n"
+      "shift": false,
+      "line": {
+        "text": "ダイニングテーブルに座っている絵麻は、\r\n"
+      }
     },
     {
       "lineNumber": 687,
-      "line": "スケッチブックを眺めている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "スケッチブックを眺めている。\r\n"
+      }
     },
     {
       "lineNumber": 690,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 691,
-      "line": "「それは？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「それは？」\r\n"
+      }
     },
     {
       "lineNumber": 698,
-      "line": "@Talk name=絵麻 voice=EM000455\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000455"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 699,
-      "line": "「ケーキのデザインです、お兄ちゃん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ケーキのデザインです、お兄ちゃん」\r\n"
+      }
     },
     {
       "lineNumber": 702,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 703,
-      "line": "「へえ……どれどれ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「へえ……どれどれ……」\r\n"
+      }
     },
     {
       "lineNumber": 708,
-      "line": "@Talk name=弥恵 voice=YE000546\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000546"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 709,
-      "line": "「それはお父さんが描いていてくれたんだよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「それはお父さんが描いていてくれたんだよ」\r\n"
+      }
     },
     {
       "lineNumber": 714,
-      "line": "@Talk name=智花 voice=TM000852\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000852"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 715,
-      "line": "「明日はそれに沿って作るのよね？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「明日はそれに沿って作るのよね？」\r\n"
+      }
     },
     {
       "lineNumber": 721,
-      "line": "@Talk name=弥恵 voice=YE000547\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000547"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 722,
-      "line": "「うん。飾りのレシピもそれぞれちゃんとあるから、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん。飾りのレシピもそれぞれちゃんとあるから、\r\n"
+      }
     },
     {
       "lineNumber": 723,
-      "line": "　わたしでもなんとか作れるの」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　わたしでもなんとか作れるの」\r\n"
+      }
     },
     {
       "lineNumber": 728,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 729,
-      "line": "二人の言葉を聞きつつ、スケッチブックをのぞき込んだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "二人の言葉を聞きつつ、スケッチブックをのぞき込んだ。\r\n"
+      }
     },
     {
       "lineNumber": 734,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 735,
-      "line": "『１周年のお祝いケーキ』\r\n"
+      "shift": false,
+      "line": {
+        "text": "『１周年のお祝いケーキ』\r\n"
+      }
     },
     {
       "lineNumber": 738,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 739,
-      "line": "開かれているページには、父さんの字でそう見出しが\r\n"
+      "shift": false,
+      "line": {
+        "text": "開かれているページには、父さんの字でそう見出しが\r\n"
+      }
     },
     {
       "lineNumber": 740,
-      "line": "つけられている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "つけられている。\r\n"
+      }
     },
     {
       "lineNumber": 746,
-      "line": "@Talk name=絵麻 voice=EM000456\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000456"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 747,
-      "line": "「デザイン担当がパパなのを、初めて知りました」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「デザイン担当がパパなのを、初めて知りました」\r\n"
+      }
     },
     {
       "lineNumber": 752,
-      "line": "@Talk name=智花 voice=TM000853\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000853"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 753,
-      "line": "「お客さんの要望を聞くのは母さんで、それを絵に\r\n"
+      "shift": false,
+      "line": {
+        "text": "「お客さんの要望を聞くのは母さんで、それを絵に\r\n"
+      }
     },
     {
       "lineNumber": 754,
-      "line": "　おこすのが父さんだったみたいね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　おこすのが父さんだったみたいね」\r\n"
+      }
     },
     {
       "lineNumber": 759,
-      "line": "@Talk name=弥恵 voice=YE000548\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000548"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 760,
-      "line": "「うん。予約を受け付ける時は、夜遅くまで話し合ったり\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん。予約を受け付ける時は、夜遅くまで話し合ったり\r\n"
+      }
     },
     {
       "lineNumber": 761,
-      "line": "　してたんだよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　してたんだよ」\r\n"
+      }
     },
     {
       "lineNumber": 764,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 765,
-      "line": "「へえ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「へえ……」\r\n"
+      }
     },
     {
       "lineNumber": 770,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 771,
-      "line": "確かに、普段の父さんからは想像できないような\r\n"
+      "shift": false,
+      "line": {
+        "text": "確かに、普段の父さんからは想像できないような\r\n"
+      }
     },
     {
       "lineNumber": 772,
-      "line": "可愛らしい絵柄で、ケーキがデザインされている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "可愛らしい絵柄で、ケーキがデザインされている。\r\n"
+      }
     },
     {
       "lineNumber": 775,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 776,
-      "line": "クッキーで『１』の数字を作ったり、マジパンでバラを\r\n"
+      "shift": false,
+      "line": {
+        "text": "クッキーで『１』の数字を作ったり、マジパンでバラを\r\n"
+      }
     },
     {
       "lineNumber": 777,
-      "line": "作ったり……細かな工夫が随所に盛り込まれているようだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "作ったり……細かな工夫が随所に盛り込まれているようだ。\r\n"
+      }
     },
     {
       "lineNumber": 782,
-      "line": "@Talk name=智花 voice=TM000854\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000854"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 783,
-      "line": "「記念日をちゃんとお祝いしてくれるなんて、素敵よね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「記念日をちゃんとお祝いしてくれるなんて、素敵よね」\r\n"
+      }
     },
     {
       "lineNumber": 786,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 787,
-      "line": "智花がうっとりと呟いた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花がうっとりと呟いた。\r\n"
+      }
     },
     {
       "lineNumber": 792,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 793,
-      "line": "「そういうものなのか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そういうものなのか？」\r\n"
+      }
     },
     {
       "lineNumber": 799,
-      "line": "@Talk name=絵麻 voice=EM000457\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000457"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 800,
-      "line": "「女の子はそういうもの、です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「女の子はそういうもの、です」\r\n"
+      }
     },
     {
       "lineNumber": 806,
-      "line": "@Talk name=弥恵 voice=YE000549\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000549"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 807,
-      "line": "「えとえと、大切にされてる感じがするもんね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えとえと、大切にされてる感じがするもんね」\r\n"
+      }
     },
     {
       "lineNumber": 810,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 811,
-      "line": "鍋をかき混ぜる手を止めて、弥恵が恥ずかしそうに言う。\r\n"
+      "shift": false,
+      "line": {
+        "text": "鍋をかき混ぜる手を止めて、弥恵が恥ずかしそうに言う。\r\n"
+      }
     },
     {
       "lineNumber": 814,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 815,
-      "line": "「なるほど……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「なるほど……」\r\n"
+      }
     },
     {
       "lineNumber": 821,
-      "line": "@Talk name=智花 voice=TM000855\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000855"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 822,
-      "line": "「和哉ったら……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「和哉ったら……」\r\n"
+      }
     },
     {
       "lineNumber": 827,
-      "line": "@Talk name=智花 voice=TM000856\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000856"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 828,
-      "line": "「でも、そういえば父さんもそういうの、あまり気に\r\n"
+      "shift": false,
+      "line": {
+        "text": "「でも、そういえば父さんもそういうの、あまり気に\r\n"
+      }
     },
     {
       "lineNumber": 829,
-      "line": "　しないタイプだったものね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　しないタイプだったものね」\r\n"
+      }
     },
     {
       "lineNumber": 834,
-      "line": "@Talk name=弥恵 voice=YE000550\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000550"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 835,
-      "line": "「『お花くらいくれないの？』って、お母さんに怒られて\r\n"
+      "shift": false,
+      "line": {
+        "text": "「『お花くらいくれないの？』って、お母さんに怒られて\r\n"
+      }
     },
     {
       "lineNumber": 836,
-      "line": "　たもんね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　たもんね」\r\n"
+      }
     },
     {
       "lineNumber": 842,
-      "line": "@Talk name=絵麻 voice=EM000458\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000458"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 843,
-      "line": "「はい。パパはごーいんぐまいうぇーです」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はい。パパはごーいんぐまいうぇーです」\r\n"
+      }
     },
     {
       "lineNumber": 846,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 847,
-      "line": "「それも少し違うような？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「それも少し違うような？」\r\n"
+      }
     },
     {
       "lineNumber": 852,
-      "line": "@Talk name=智花 voice=TM000857\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000857"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 853,
-      "line": "「そういうのが積み重なって、あんなケンカになったの\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そういうのが積み重なって、あんなケンカになったの\r\n"
+      }
     },
     {
       "lineNumber": 854,
-      "line": "　かしらね……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　かしらね……」\r\n"
+      }
     },
     {
       "lineNumber": 857,
-      "line": "@Talk name=無音/みんな\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "無音/みんな"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 858,
-      "line": "「……………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……………………」\r\n"
+      }
     },
     {
       "lineNumber": 863,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 864,
-      "line": "智花の言葉に、みんな押し黙る。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の言葉に、みんな押し黙る。\r\n"
+      }
     },
     {
       "lineNumber": 867,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 868,
-      "line": "それぞれ、あの日のケンカのことを思い出しているのかも\r\n"
+      "shift": false,
+      "line": {
+        "text": "それぞれ、あの日のケンカのことを思い出しているのかも\r\n"
+      }
     },
     {
       "lineNumber": 869,
-      "line": "しれない。\r\n"
+      "shift": false,
+      "line": {
+        "text": "しれない。\r\n"
+      }
     },
     {
       "lineNumber": 874,
-      "line": "@Talk name=智花 voice=TM000858_a\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000858_a"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 875,
-      "line": "「好きな人と結婚できるって、とても幸せだと\r\n"
+      "shift": false,
+      "line": {
+        "text": "「好きな人と結婚できるって、とても幸せだと\r\n"
+      }
     },
     {
       "lineNumber": 876,
-      "line": "　思うけれど……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　思うけれど……」\r\n"
+      }
     },
     {
       "lineNumber": 879,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 880,
-      "line": "沈黙の中ぽつり、と智花の言葉が落ちる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "沈黙の中ぽつり、と智花の言葉が落ちる。\r\n"
+      }
     },
     {
       "lineNumber": 886,
-      "line": "@Talk name=弥恵 voice=YE000551\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000551"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 887,
-      "line": "「う、うん……わたしもそう思う」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うん……わたしもそう思う」\r\n"
+      }
     },
     {
       "lineNumber": 893,
-      "line": "@Talk name=絵麻 voice=EM000459\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000459"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 894,
-      "line": "「パパもママも、ほんとはしあわせのはず、です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「パパもママも、ほんとはしあわせのはず、です」\r\n"
+      }
     },
     {
       "lineNumber": 899,
-      "line": "@Talk name=絵麻 voice=EM000460\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000460"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 900,
-      "line": "「だから、スペシャルケーキにも、ジンクスがついたの\r\n"
+      "shift": false,
+      "line": {
+        "text": "「だから、スペシャルケーキにも、ジンクスがついたの\r\n"
+      }
     },
     {
       "lineNumber": 901,
-      "line": "　です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　です」\r\n"
+      }
     },
     {
       "lineNumber": 904,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 905,
-      "line": "「ジンクス？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ジンクス？」\r\n"
+      }
     },
     {
       "lineNumber": 910,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 911,
-      "line": "スペシャルケーキは、『アップルパイ』のオーダーメイド\r\n"
+      "shift": false,
+      "line": {
+        "text": "スペシャルケーキは、『アップルパイ』のオーダーメイド\r\n"
+      }
     },
     {
       "lineNumber": 912,
-      "line": "ケーキのひとつだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ケーキのひとつだ。\r\n"
+      }
     },
     {
       "lineNumber": 915,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 916,
-      "line": "手間と時間がとてもかかるから、あまり予約を受け付ける\r\n"
+      "shift": false,
+      "line": {
+        "text": "手間と時間がとてもかかるから、あまり予約を受け付ける\r\n"
+      }
     },
     {
       "lineNumber": 917,
-      "line": "ことができないケーキなので、それでプレミアがついて\r\n"
+      "shift": false,
+      "line": {
+        "text": "ことができないケーキなので、それでプレミアがついて\r\n"
+      }
     },
     {
       "lineNumber": 918,
-      "line": "いるというのなら分かるのだが……\r\n"
+      "shift": false,
+      "line": {
+        "text": "いるというのなら分かるのだが……\r\n"
+      }
     },
     {
       "lineNumber": 921,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 922,
-      "line": "あのケーキにジンクスがあるなんて、初めて聞く話だった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "あのケーキにジンクスがあるなんて、初めて聞く話だった。\r\n"
+      }
     },
     {
       "lineNumber": 928,
-      "line": "@Talk name=弥恵 voice=YE000552\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000552"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 929,
-      "line": "「うん、あのね、うちのスペシャルケーキを一緒に食べた\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん、あのね、うちのスペシャルケーキを一緒に食べた\r\n"
+      }
     },
     {
       "lineNumber": 930,
-      "line": "　カップルはね……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　カップルはね……」\r\n"
+      }
     },
     {
       "lineNumber": 938,
-      "line": "@Talk name=智花 voice=TM000859\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000859"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 939,
-      "line": "「あ、あー、あー！！　結婚といえば、この間、弥恵と\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ、あー、あー！！　結婚といえば、この間、弥恵と\r\n"
+      }
     },
     {
       "lineNumber": 940,
-      "line": "　一緒に読んだ雑誌、ジューンブライド特集だったわね！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　一緒に読んだ雑誌、ジューンブライド特集だったわね！」\r\n"
+      }
     },
     {
       "lineNumber": 943,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 944,
-      "line": "「ジューンブライド特集？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ジューンブライド特集？」\r\n"
+      }
     },
     {
       "lineNumber": 950,
-      "line": "@Talk name=弥恵 voice=YE000553\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000553"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 951,
-      "line": "「あ、あのね、少女まんがの、先月号の特集だったの」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ、あのね、少女まんがの、先月号の特集だったの」\r\n"
+      }
     },
     {
       "lineNumber": 954,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 955,
-      "line": "「ああ、あの弥恵がいつも買っている雑誌か？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああ、あの弥恵がいつも買っている雑誌か？」\r\n"
+      }
     },
     {
       "lineNumber": 958,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 959,
-      "line": "目の中に星が書いてある女の子たちがきゃっきゃする、\r\n"
+      "shift": false,
+      "line": {
+        "text": "目の中に星が書いてある女の子たちがきゃっきゃする、\r\n"
+      }
     },
     {
       "lineNumber": 960,
-      "line": "オーソドックスな少女まんが雑誌だ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "オーソドックスな少女まんが雑誌だ。\r\n"
+      }
     },
     {
       "lineNumber": 966,
-      "line": "@Talk name=弥恵 voice=YE000554\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000554"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 967,
-      "line": "「ふぇっ！？　ど、どうして買ってること知ってるの！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふぇっ！？　ど、どうして買ってること知ってるの！？」\r\n"
+      }
     },
     {
       "lineNumber": 970,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 971,
-      "line": "「だってその雑誌、智花がよく借りてるだろう？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「だってその雑誌、智花がよく借りてるだろう？」\r\n"
+      }
     },
     {
       "lineNumber": 977,
-      "line": "@Talk name=弥恵 voice=YE000555\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000555"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 978,
-      "line": "「は、はぅぅ……恥ずかしいよう……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「は、はぅぅ……恥ずかしいよう……」\r\n"
+      }
     },
     {
       "lineNumber": 983,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 984,
-      "line": "別に恥ずかしがるようなことは書いていなかった気が\r\n"
+      "shift": false,
+      "line": {
+        "text": "別に恥ずかしがるようなことは書いていなかった気が\r\n"
+      }
     },
     {
       "lineNumber": 985,
-      "line": "するのだが。\r\n"
+      "shift": false,
+      "line": {
+        "text": "するのだが。\r\n"
+      }
     },
     {
       "lineNumber": 988,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 989,
-      "line": "少女まんがと少年まんがでは、恥ずかしさのツボが違うの\r\n"
+      "shift": false,
+      "line": {
+        "text": "少女まんがと少年まんがでは、恥ずかしさのツボが違うの\r\n"
+      }
     },
     {
       "lineNumber": 990,
-      "line": "かもしれない。\r\n"
+      "shift": false,
+      "line": {
+        "text": "かもしれない。\r\n"
+      }
     },
     {
       "lineNumber": 993,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 994,
-      "line": "……俺だって、十兵衛と貸し借りしている雑誌を\r\n"
+      "shift": false,
+      "line": {
+        "text": "……俺だって、十兵衛と貸し借りしている雑誌を\r\n"
+      }
     },
     {
       "lineNumber": 995,
-      "line": "読まれたら『恥ずかしい』どころじゃ済まないだろうし。\r\n"
+      "shift": false,
+      "line": {
+        "text": "読まれたら『恥ずかしい』どころじゃ済まないだろうし。\r\n"
+      }
     },
     {
       "lineNumber": 1000,
-      "line": "@Talk name=智花 voice=TM000860\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000860"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1001,
-      "line": "「その特集はね、カラーページにはウェディングドレス\r\n"
+      "shift": false,
+      "line": {
+        "text": "「その特集はね、カラーページにはウェディングドレス\r\n"
+      }
     },
     {
       "lineNumber": 1002,
-      "line": "　とかの写真が載っていて、白黒ページには\r\n"
+      "shift": false,
+      "line": {
+        "text": "　とかの写真が載っていて、白黒ページには\r\n"
+      }
     },
     {
       "lineNumber": 1003,
-      "line": "　インタビューが載っていたの」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　インタビューが載っていたの」\r\n"
+      }
     },
     {
       "lineNumber": 1006,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1007,
-      "line": "「インタビュー？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「インタビュー？」\r\n"
+      }
     },
     {
       "lineNumber": 1013,
-      "line": "@Talk name=絵麻 voice=EM000461\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000461"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1014,
-      "line": "「出会いからプロポーズまでの、のろけ話です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「出会いからプロポーズまでの、のろけ話です」\r\n"
+      }
     },
     {
       "lineNumber": 1017,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1018,
-      "line": "「なるほど……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「なるほど……」\r\n"
+      }
     },
     {
       "lineNumber": 1024,
-      "line": "@Talk name=弥恵 voice=YE000556\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000556"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1025,
-      "line": "「ウェディングケーキも、いろんな種類があって、すごく\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ウェディングケーキも、いろんな種類があって、すごく\r\n"
+      }
     },
     {
       "lineNumber": 1026,
-      "line": "　勉強になったよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　勉強になったよね」\r\n"
+      }
     },
     {
       "lineNumber": 1031,
-      "line": "@Talk name=智花 voice=TM000861\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000861"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1032,
-      "line": "「最近は実際に食べられるケーキが主流なのよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「最近は実際に食べられるケーキが主流なのよね」\r\n"
+      }
     },
     {
       "lineNumber": 1035,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1036,
-      "line": "さっきのしんみりとした沈黙はなんだったのかと思うほど、\r\n"
+      "shift": false,
+      "line": {
+        "text": "さっきのしんみりとした沈黙はなんだったのかと思うほど、\r\n"
+      }
     },
     {
       "lineNumber": 1037,
-      "line": "盛り上がっていく女性陣。\r\n"
+      "shift": false,
+      "line": {
+        "text": "盛り上がっていく女性陣。\r\n"
+      }
     },
     {
       "lineNumber": 1043,
-      "line": "@Talk name=智花 voice=TM000862\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000862"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1044,
-      "line": "「ウェディングドレスはやっぱり、白色がいちばん\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ウェディングドレスはやっぱり、白色がいちばん\r\n"
+      }
     },
     {
       "lineNumber": 1045,
-      "line": "　素敵だったわね……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　素敵だったわね……」\r\n"
+      }
     },
     {
       "lineNumber": 1051,
-      "line": "@Talk name=弥恵 voice=YE000557\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000557"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1052,
-      "line": "「うん、うん……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん、うん……！」\r\n"
+      }
     },
     {
       "lineNumber": 1057,
-      "line": "@Talk name=智花 voice=TM000863\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000863"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1058,
-      "line": "「いつか、ああいうのも着てみたいなぁ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「いつか、ああいうのも着てみたいなぁ……」\r\n"
+      }
     },
     {
       "lineNumber": 1064,
-      "line": "@Talk name=弥恵 voice=YE000558\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000558"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1065,
-      "line": "「うん、うんっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん、うんっ！」\r\n"
+      }
     },
     {
       "lineNumber": 1071,
-      "line": "@Talk name=絵麻 voice=EM000462\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000462"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1072,
-      "line": "「……お姉ちゃんたち、トリップです」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……お姉ちゃんたち、トリップです」\r\n"
+      }
     },
     {
       "lineNumber": 1075,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1076,
-      "line": "「ああ。夢の世界へダイブしたみたいだな……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああ。夢の世界へダイブしたみたいだな……」\r\n"
+      }
     },
     {
       "lineNumber": 1085,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1086,
-      "line": "二人とも、うっとりとした目は明後日の方向を見ていて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "二人とも、うっとりとした目は明後日の方向を見ていて、\r\n"
+      }
     },
     {
       "lineNumber": 1087,
-      "line": "頬はほんのりとピンク色に染まっている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "頬はほんのりとピンク色に染まっている。\r\n"
+      }
     },
     {
       "lineNumber": 1090,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1091,
-      "line": "まさに夢見る乙女という感じだ。こうなると長い。\r\n"
+      "shift": false,
+      "line": {
+        "text": "まさに夢見る乙女という感じだ。こうなると長い。\r\n"
+      }
     },
     {
       "lineNumber": 1099,
-      "line": "@Talk name=智花 voice=TM000864\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000864"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1100,
-      "line": "「でもきっと、花嫁さんが素敵に見えるのは、恋人として\r\n"
+      "shift": false,
+      "line": {
+        "text": "「でもきっと、花嫁さんが素敵に見えるのは、恋人として\r\n"
+      }
     },
     {
       "lineNumber": 1101,
-      "line": "　愛されていたからなのよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　愛されていたからなのよね」\r\n"
+      }
     },
     {
       "lineNumber": 1106,
-      "line": "@Talk name=弥恵 voice=YE000559\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000559"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1107,
-      "line": "「な……なるほど」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「な……なるほど」\r\n"
+      }
     },
     {
       "lineNumber": 1113,
-      "line": "@Talk name=智花 voice=TM000865\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000865"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1114,
-      "line": "「デートをして、告白して、どんどん好きな気持ちが\r\n"
+      "shift": false,
+      "line": {
+        "text": "「デートをして、告白して、どんどん好きな気持ちが\r\n"
+      }
     },
     {
       "lineNumber": 1115,
-      "line": "　高まっていって、それで……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　高まっていって、それで……」\r\n"
+      }
     },
     {
       "lineNumber": 1121,
-      "line": "@Talk name=弥恵 voice=YE000560\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000560"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1122,
-      "line": "「ふあぁぁぁぁ…………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふあぁぁぁぁ…………」\r\n"
+      }
     },
     {
       "lineNumber": 1127,
-      "line": "@Talk name=智花 voice=TM000866\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000866"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1128,
-      "line": "「そういうのがあるから、未来にも期待できて、その分\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そういうのがあるから、未来にも期待できて、その分\r\n"
+      }
     },
     {
       "lineNumber": 1129,
-      "line": "　輝いて見えるのよ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　輝いて見えるのよ……」\r\n"
+      }
     },
     {
       "lineNumber": 1135,
-      "line": "@Talk name=弥恵 voice=YE000561\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000561"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1136,
-      "line": "「わ、わたしもそう思うっ……！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「わ、わたしもそう思うっ……！！」\r\n"
+      }
     },
     {
       "lineNumber": 1141,
-      "line": "@Talk name=智花 voice=TM000867\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000867"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1142,
-      "line": "「デート……デートって、きっとすごく楽しいん\r\n"
+      "shift": false,
+      "line": {
+        "text": "「デート……デートって、きっとすごく楽しいん\r\n"
+      }
     },
     {
       "lineNumber": 1143,
-      "line": "　でしょうね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　でしょうね」\r\n"
+      }
     },
     {
       "lineNumber": 1149,
-      "line": "@Talk name=弥恵 voice=YE000562\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000562"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1150,
-      "line": "「す、すす、好きな人と一緒に歩くんだもんね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「す、すす、好きな人と一緒に歩くんだもんね」\r\n"
+      }
     },
     {
       "lineNumber": 1155,
-      "line": "@Talk name=智花 voice=TM000868\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000868"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1156,
-      "line": "「そうね、街中を歩いていても二人だけの世界で……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そうね、街中を歩いていても二人だけの世界で……\r\n"
+      }
     },
     {
       "lineNumber": 1157,
-      "line": "　手を、つ、繋いじゃったりして……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　手を、つ、繋いじゃったりして……」\r\n"
+      }
     },
     {
       "lineNumber": 1163,
-      "line": "@Talk name=弥恵 voice=YE000563\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000563"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1164,
-      "line": "「て、てててて、手をっ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「て、てててて、手をっ！？」\r\n"
+      }
     },
     {
       "lineNumber": 1170,
-      "line": "@Talk name=智花 voice=TM000869\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000869"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1171,
-      "line": "「ゆ、指とか……か、絡めちゃったりするのよ、きっと。\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ゆ、指とか……か、絡めちゃったりするのよ、きっと。\r\n"
+      }
     },
     {
       "lineNumber": 1172,
-      "line": "　『恋人繋ぎ』ってやつね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　『恋人繋ぎ』ってやつね」\r\n"
+      }
     },
     {
       "lineNumber": 1178,
-      "line": "@Talk name=弥恵 voice=YE000564\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000564"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1179,
-      "line": "「きゃー！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「きゃー！」\r\n"
+      }
     },
     {
       "lineNumber": 1185,
-      "line": "@Talk name=絵麻/和哉＆絵麻 voice=EM000463\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000463"
+          },
+          {
+            "key": "name",
+            "value": "絵麻/和哉＆絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1186,
-      "line": "「「………………」」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「「………………」」\r\n"
+      }
     },
     {
       "lineNumber": 1191,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1192,
-      "line": "盛り上がってる盛り上がってる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "盛り上がってる盛り上がってる。\r\n"
+      }
     },
     {
       "lineNumber": 1195,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1196,
-      "line": "智花と弥恵はよく少女漫画の貸し借りをしているから、\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花と弥恵はよく少女漫画の貸し借りをしているから、\r\n"
+      }
     },
     {
       "lineNumber": 1197,
-      "line": "趣味も理想も似ているのだろうな、と昔から思っては\r\n"
+      "shift": false,
+      "line": {
+        "text": "趣味も理想も似ているのだろうな、と昔から思っては\r\n"
+      }
     },
     {
       "lineNumber": 1198,
-      "line": "いるのだが。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いるのだが。\r\n"
+      }
     },
     {
       "lineNumber": 1203,
-      "line": "@Talk name=絵麻 voice=EM000464\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000464"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1204,
-      "line": "「とても楽しそうです」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「とても楽しそうです」\r\n"
+      }
     },
     {
       "lineNumber": 1207,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1208,
-      "line": "絵麻は俺の隣で、眩しいものを見るような表情をしている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "絵麻は俺の隣で、眩しいものを見るような表情をしている。\r\n"
+      }
     },
     {
       "lineNumber": 1211,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1212,
-      "line": "「絵麻はあれにまざらなくていいのか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「絵麻はあれにまざらなくていいのか？」\r\n"
+      }
     },
     {
       "lineNumber": 1218,
-      "line": "@Talk name=絵麻 voice=EM000465\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000465"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1219,
-      "line": "「はい。聴講です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はい。聴講です」\r\n"
+      }
     },
     {
       "lineNumber": 1222,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1223,
-      "line": "「ちょうこう？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ちょうこう？」\r\n"
+      }
     },
     {
       "lineNumber": 1228,
-      "line": "@Talk name=絵麻 voice=EM000466\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000466"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1229,
-      "line": "「女の子らしい夢を学んで、将来に役立てます」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「女の子らしい夢を学んで、将来に役立てます」\r\n"
+      }
     },
     {
       "lineNumber": 1232,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1233,
-      "line": "「女の子らしいって……絵麻も十分、女の子だろうに」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「女の子らしいって……絵麻も十分、女の子だろうに」\r\n"
+      }
     },
     {
       "lineNumber": 1238,
-      "line": "@Talk name=絵麻 voice=EM000467\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000467"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1239,
-      "line": "「………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「………………」\r\n"
+      }
     },
     {
       "lineNumber": 1242,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1243,
-      "line": "絵麻は珍しいものでも見るように、俺をまじまじと\r\n"
+      "shift": false,
+      "line": {
+        "text": "絵麻は珍しいものでも見るように、俺をまじまじと\r\n"
+      }
     },
     {
       "lineNumber": 1244,
-      "line": "見つめる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "見つめる。\r\n"
+      }
     },
     {
       "lineNumber": 1249,
-      "line": "@Talk name=絵麻 voice=EM000468\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000468"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1250,
-      "line": "「お兄ちゃんは、えまを女の子として見てくれている、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「お兄ちゃんは、えまを女の子として見てくれている、\r\n"
+      }
     },
     {
       "lineNumber": 1251,
-      "line": "　ですか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ですか？」\r\n"
+      }
     },
     {
       "lineNumber": 1254,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1255,
-      "line": "「当たり前だろう。絵麻は可愛い可愛い女の子だよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「当たり前だろう。絵麻は可愛い可愛い女の子だよ」\r\n"
+      }
     },
     {
       "lineNumber": 1262,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1263,
-      "line": "即答して、絵麻の頭をよしよしと撫でる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "即答して、絵麻の頭をよしよしと撫でる。\r\n"
+      }
     },
     {
       "lineNumber": 1269,
-      "line": "@Talk name=絵麻 voice=EM000469\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000469"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1270,
-      "line": "「………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「………………」\r\n"
+      }
     },
     {
       "lineNumber": 1276,
-      "line": "@Talk name=絵麻 voice=EM000470\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000470"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1277,
-      "line": "「そういう意味じゃ、ないんです……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そういう意味じゃ、ないんです……」\r\n"
+      }
     },
     {
       "lineNumber": 1280,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1281,
-      "line": "うつむいて、ぽつり。\r\n"
+      "shift": false,
+      "line": {
+        "text": "うつむいて、ぽつり。\r\n"
+      }
     },
     {
       "lineNumber": 1284,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1285,
-      "line": "「……絵麻？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……絵麻？」\r\n"
+      }
     },
     {
       "lineNumber": 1290,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1291,
-      "line": "上手く聞き取ることができず、絵麻の口元に耳を近づける。\r\n"
+      "shift": false,
+      "line": {
+        "text": "上手く聞き取ることができず、絵麻の口元に耳を近づける。\r\n"
+      }
     },
     {
       "lineNumber": 1296,
-      "line": "@Talk name=絵麻 voice=EM000471\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000471"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1297,
-      "line": "「……お兄ちゃん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……お兄ちゃん」\r\n"
+      }
     },
     {
       "lineNumber": 1300,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1301,
-      "line": "「うん？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うん？」\r\n"
+      }
     },
     {
       "lineNumber": 1307,
-      "line": "@Talk name=絵麻 voice=EM000472\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000472"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1308,
-      "line": "「ふーっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふーっ」\r\n"
+      }
     },
     {
       "lineNumber": 1316,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1317,
-      "line": "「うぉぉわっ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うぉぉわっ！？」\r\n"
+      }
     },
     {
       "lineNumber": 1320,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1321,
-      "line": "いきなり、耳に息を吹きかけられた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いきなり、耳に息を吹きかけられた。\r\n"
+      }
     },
     {
       "lineNumber": 1327,
-      "line": "@Talk name=絵麻 voice=EM000473\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000473"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1328,
-      "line": "「くすくす……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「くすくす……」\r\n"
+      }
     },
     {
       "lineNumber": 1331,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1332,
-      "line": "「な、なにするんだ、絵麻」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「な、なにするんだ、絵麻」\r\n"
+      }
     },
     {
       "lineNumber": 1338,
-      "line": "@Talk name=絵麻 voice=EM000474\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000474"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1339,
-      "line": "「乙女の夢、です」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「乙女の夢、です」\r\n"
+      }
     },
     {
       "lineNumber": 1342,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1343,
-      "line": "「へ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「へ？」\r\n"
+      }
     },
     {
       "lineNumber": 1348,
-      "line": "@Talk name=絵麻 voice=EM000475\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000475"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1349,
-      "line": "「旦那様に耳そうじをするのも、乙女の夢なのだそうです」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「旦那様に耳そうじをするのも、乙女の夢なのだそうです」\r\n"
+      }
     },
     {
       "lineNumber": 1354,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1355,
-      "line": "すいっと絵麻が視線を向ける。\r\n"
+      "shift": false,
+      "line": {
+        "text": "すいっと絵麻が視線を向ける。\r\n"
+      }
     },
     {
       "lineNumber": 1360,
-      "line": "@Talk name=智花 voice=TM000870\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000870"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1361,
-      "line": "「耳かきをするなら、やっぱりひざまくらよね〜！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「耳かきをするなら、やっぱりひざまくらよね〜！」\r\n"
+      }
     },
     {
       "lineNumber": 1367,
-      "line": "@Talk name=弥恵 voice=YE000565\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000565"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1368,
-      "line": "「う、うんっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うんっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1373,
-      "line": "@Talk name=智花 voice=TM000871\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM000871"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1374,
-      "line": "「耳かきの後ろの、白いわたわたでくすぐったりして、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「耳かきの後ろの、白いわたわたでくすぐったりして、\r\n"
+      }
     },
     {
       "lineNumber": 1375,
-      "line": "　それで『こらっ！』とか言われて……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　それで『こらっ！』とか言われて……」\r\n"
+      }
     },
     {
       "lineNumber": 1380,
-      "line": "@Talk name=弥恵 voice=YE000566\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000566"
+          },
+          {
+            "key": "name",
+            "value": "弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1381,
-      "line": "「そ、それもすてきかも……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そ、それもすてきかも……」\r\n"
+      }
     },
     {
       "lineNumber": 1390,
-      "line": "@Talk name=智花＆弥恵 voice=YE000567/TM000872\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "YE000567/TM000872"
+          },
+          {
+            "key": "name",
+            "value": "智花＆弥恵"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1391,
-      "line": "「「ふぁぁぁ〜…………」」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「「ふぁぁぁ〜…………」」\r\n"
+      }
     },
     {
       "lineNumber": 1396,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1397,
-      "line": "「まぁ、とりあえず……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「まぁ、とりあえず……」\r\n"
+      }
     },
     {
       "lineNumber": 1402,
-      "line": "@Talk name=絵麻 voice=EM000476\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000476"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1403,
-      "line": "「はい」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はい」\r\n"
+      }
     },
     {
       "lineNumber": 1406,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1407,
-      "line": "「姉さんたちが戻ってくる前に、夕食を作って\r\n"
+      "shift": false,
+      "line": {
+        "text": "「姉さんたちが戻ってくる前に、夕食を作って\r\n"
+      }
     },
     {
       "lineNumber": 1408,
-      "line": "　おかないとな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　おかないとな」\r\n"
+      }
     },
     {
       "lineNumber": 1414,
-      "line": "@Talk name=絵麻 voice=EM000477\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000477"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1415,
-      "line": "「はい。えまも手伝います」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はい。えまも手伝います」\r\n"
+      }
     },
     {
       "lineNumber": 1418,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1419,
-      "line": "「ありがとう。それじゃあ、皿を並べてくれるか？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ありがとう。それじゃあ、皿を並べてくれるか？」\r\n"
+      }
     },
     {
       "lineNumber": 1425,
-      "line": "@Talk name=絵麻 voice=EM000478\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "EM000478"
+          },
+          {
+            "key": "name",
+            "value": "絵麻"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1426,
-      "line": "「はい、お兄ちゃん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はい、お兄ちゃん」\r\n"
+      }
     },
     {
       "lineNumber": 1433,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1434,
-      "line": "幸せそうな乙女二人はそっとしておくことにして、\r\n"
+      "shift": false,
+      "line": {
+        "text": "幸せそうな乙女二人はそっとしておくことにして、\r\n"
+      }
     },
     {
       "lineNumber": 1435,
-      "line": "俺と絵麻は夕食の準備を再開したのだった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺と絵麻は夕食の準備を再開したのだった。\r\n"
+      }
     }
   ]
 }

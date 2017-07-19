@@ -2,3208 +2,6908 @@
   "name": "w06_c03_02.ks",
   "lines": [
     {
-      "lineNumber": 6,
-      "line": "\t@addSelect text=メガネ有り\r\n"
-    },
-    {
-      "lineNumber": 7,
-      "line": "\t@addSelect text=メガネ無し\r\n"
-    },
-    {
-      "lineNumber": 8,
-      "line": "\t@startSelect\r\n"
-    },
-    {
-      "lineNumber": 10,
-      "line": "\t@if exp=\"ChkSelect(1)\r\n"
-    },
-    {
       "lineNumber": 11,
-      "line": "\t\t@onFlag id=20\r\n"
-    },
-    {
-      "lineNumber": 12,
-      "line": "\t@endif\r\n"
-    },
-    {
-      "lineNumber": 17,
-      "line": "\t@hide\r\n"
-    },
-    {
-      "lineNumber": 18,
-      "line": "\t@cg file=EC007a\t\r\n"
-    },
-    {
-      "lineNumber": 19,
-      "line": "\t@update transition=turn time=2000\r\n"
-    },
-    {
-      "lineNumber": 20,
-      "line": "\t@waitUpdate\r\n"
-    },
-    {
-      "lineNumber": 24,
-      "line": "\t@hide\r\n"
-    },
-    {
-      "lineNumber": 25,
-      "line": "\t@cg file=EC007h\t\r\n"
-    },
-    {
-      "lineNumber": 26,
-      "line": "\t@update transition=turn time=2000\r\n"
-    },
-    {
-      "lineNumber": 27,
-      "line": "\t@waitUpdate\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 33,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 34,
-      "line": "「と、智花っ……！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「と、智花っ……！？」\r\n"
+      }
     },
     {
       "lineNumber": 37,
-      "line": "@Talk name=智花 voice=TM030264\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030264"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 38,
-      "line": "「和哉はじっとしてて」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「和哉はじっとしてて」\r\n"
+      }
     },
     {
       "lineNumber": 41,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 42,
-      "line": "妙に強ばった声で牽制して、智花は俺の股間に顔を\r\n"
+      "shift": false,
+      "line": {
+        "text": "妙に強ばった声で牽制して、智花は俺の股間に顔を\r\n"
+      }
     },
     {
       "lineNumber": 43,
-      "line": "近づけてきた。\r\n"
-    },
-    {
-      "lineNumber": 48,
-      "line": "\t@cg file=EC007aL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 52,
-      "line": "\t@cg file=EC007hL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "近づけてきた。\r\n"
+      }
     },
     {
       "lineNumber": 57,
-      "line": "@Talk name=智花 voice=TM030265\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030265"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 58,
-      "line": "「んぁぁ……ねえこれ、すっごく熱がこもってない……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぁぁ……ねえこれ、すっごく熱がこもってない……？」\r\n"
+      }
     },
     {
       "lineNumber": 61,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 62,
-      "line": "智花は夢見心地のようなぼうっとした表情で、\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は夢見心地のようなぼうっとした表情で、\r\n"
+      }
     },
     {
       "lineNumber": 63,
-      "line": "不思議そうに俺を見上げた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "不思議そうに俺を見上げた。\r\n"
+      }
     },
     {
       "lineNumber": 68,
-      "line": "\t@Talk name=智花 voice=TM030266\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030266"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 69,
-      "line": "\t「和哉のここ……ズボンごしなのに熱気が伝わってきて、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 70,
-      "line": "\t　あっ、やだっ……メガネくもっちゃいそう」\r\n"
-    },
-    {
-      "lineNumber": 71,
-      "line": "\t@Hitret id=29344\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 75,
-      "line": "\t@Talk name=智花 voice=TM030267\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030267"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 76,
-      "line": "\t「和哉のここ……ズボンごしなのに熱気が伝わってくるわ」\r\n"
-    },
-    {
-      "lineNumber": 77,
-      "line": "\t@Hitret id=29345\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 81,
-      "line": "@Talk name=智花 voice=TM030268\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030268"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 82,
-      "line": "「あぁ……ズボン、だんだん押し上げられてきて……和哉、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あぁ……ズボン、だんだん押し上げられてきて……和哉、\r\n"
+      }
     },
     {
       "lineNumber": 83,
-      "line": "　やっぱり興奮してるんじゃない」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　やっぱり興奮してるんじゃない」\r\n"
+      }
     },
     {
       "lineNumber": 86,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 87,
-      "line": "「生理現象だ。は、恥ずかしくてもこうなるんだよ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「生理現象だ。は、恥ずかしくてもこうなるんだよ、\r\n"
+      }
     },
     {
       "lineNumber": 88,
-      "line": "　多分……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　多分……」\r\n"
+      }
     },
     {
       "lineNumber": 91,
-      "line": "@Talk name=智花 voice=TM030269\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030269"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 92,
-      "line": "「また『多分』って使ってるわね……良くないわよ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「また『多分』って使ってるわね……良くないわよ、\r\n"
+      }
     },
     {
       "lineNumber": 93,
-      "line": "　そういうあいまいな表現……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　そういうあいまいな表現……」\r\n"
+      }
     },
     {
       "lineNumber": 96,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 97,
-      "line": "智花はたしなめるように言いながらも、視線は既に股間に\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花はたしなめるように言いながらも、視線は既に股間に\r\n"
+      }
     },
     {
       "lineNumber": 98,
-      "line": "釘付けになっていた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "釘付けになっていた。\r\n"
+      }
     },
     {
       "lineNumber": 101,
-      "line": "@Talk name=智花 voice=TM030270\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030270"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 102,
-      "line": "「んっ……それじゃあ、その……んん、見る、からね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっ……それじゃあ、その……んん、見る、からね」\r\n"
+      }
     },
     {
       "lineNumber": 107,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 108,
-      "line": "智花こそ熱っぽく吐息をしながら、ズボンのベルトに手を\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花こそ熱っぽく吐息をしながら、ズボンのベルトに手を\r\n"
+      }
     },
     {
       "lineNumber": 109,
-      "line": "かけてきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "かけてきた。\r\n"
+      }
     },
     {
       "lineNumber": 115,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 116,
-      "line": "ぎこちない手つきで、ひとつひとつ丹念に脱がしてくる。\r\n"
-    },
-    {
-      "lineNumber": 121,
-      "line": "\t@cg file=EC007bL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 125,
-      "line": "\t@cg file=EC007iL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "ぎこちない手つきで、ひとつひとつ丹念に脱がしてくる。\r\n"
+      }
     },
     {
       "lineNumber": 133,
-      "line": "@Talk name=智花 voice=TM030271\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030271"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 134,
-      "line": "「ん……ふわあぁっ……！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん……ふわあぁっ……！？」\r\n"
+      }
     },
     {
       "lineNumber": 137,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 138,
-      "line": "パンツのゴムを下ろしたとたんに飛び出してきたモノを\r\n"
+      "shift": false,
+      "line": {
+        "text": "パンツのゴムを下ろしたとたんに飛び出してきたモノを\r\n"
+      }
     },
     {
       "lineNumber": 139,
-      "line": "見て、智花が悲鳴のような声をあげた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "見て、智花が悲鳴のような声をあげた。\r\n"
+      }
     },
     {
       "lineNumber": 144,
-      "line": "@Talk name=智花 voice=TM030272\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030272"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 145,
-      "line": "「わ、すごい……こんなにおっきくなったのが、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「わ、すごい……こんなにおっきくなったのが、\r\n"
+      }
     },
     {
       "lineNumber": 146,
-      "line": "　ズボンの中に入ってたの……わ、わぁ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ズボンの中に入ってたの……わ、わぁ……」\r\n"
+      }
     },
     {
       "lineNumber": 149,
-      "line": "@Talk name=智花 voice=TM030273\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030273"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 150,
-      "line": "「これって苦しかったんじゃないの？　なんだか、その、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「これって苦しかったんじゃないの？　なんだか、その、\r\n"
+      }
     },
     {
       "lineNumber": 151,
-      "line": "　かわいそう……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　かわいそう……」\r\n"
+      }
     },
     {
       "lineNumber": 154,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 155,
-      "line": "まるで労るような手つきで、智花がモノを撫でてきた。\r\n"
-    },
-    {
-      "lineNumber": 160,
-      "line": "\t@cg file=EC007b\t\r\n"
-    },
-    {
-      "lineNumber": 164,
-      "line": "\t@cg file=EC007i\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "まるで労るような手つきで、智花がモノを撫でてきた。\r\n"
+      }
     },
     {
       "lineNumber": 168,
-      "line": "@Talk name=智花 voice=TM030274\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030274"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 169,
-      "line": "「わぁ……すごく熱くなってる……ぷにぷにの血管が、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「わぁ……すごく熱くなってる……ぷにぷにの血管が、\r\n"
+      }
     },
     {
       "lineNumber": 170,
-      "line": "　どくんどくんって、脈打って……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　どくんどくんって、脈打って……」\r\n"
+      }
     },
     {
       "lineNumber": 173,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 174,
-      "line": "智花が囁くたびに、モノに吐息が吹き付けてくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花が囁くたびに、モノに吐息が吹き付けてくる。\r\n"
+      }
     },
     {
       "lineNumber": 177,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 178,
-      "line": "その微妙な刺激が、手のひらの温かさと相まって快感に\r\n"
+      "shift": false,
+      "line": {
+        "text": "その微妙な刺激が、手のひらの温かさと相まって快感に\r\n"
+      }
     },
     {
       "lineNumber": 179,
-      "line": "繋がっていく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "繋がっていく。\r\n"
+      }
     },
     {
       "lineNumber": 182,
-      "line": "@Talk name=智花 voice=TM030275\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030275"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 183,
-      "line": "「ねぇ、和哉の、ぺ、ペニス……どんどん硬くなってきて\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ねぇ、和哉の、ぺ、ペニス……どんどん硬くなってきて\r\n"
+      }
     },
     {
       "lineNumber": 184,
-      "line": "　るわよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　るわよ」\r\n"
+      }
     },
     {
       "lineNumber": 189,
-      "line": "@Talk name=智花 voice=TM030276\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030276"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 190,
-      "line": "「ああぁっ……なにこれ、ん、ん……熱くて、和哉の匂い、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああぁっ……なにこれ、ん、ん……熱くて、和哉の匂い、\r\n"
+      }
     },
     {
       "lineNumber": 191,
-      "line": "　むわって、広がって……はぁ、はぁ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　むわって、広がって……はぁ、はぁ……」\r\n"
+      }
     },
     {
       "lineNumber": 194,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 195,
-      "line": "智花の手と、熱い視線にさらされて、俺のモノは完全に\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の手と、熱い視線にさらされて、俺のモノは完全に\r\n"
+      }
     },
     {
       "lineNumber": 196,
-      "line": "興奮しきってしまっていた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "興奮しきってしまっていた。\r\n"
+      }
     },
     {
       "lineNumber": 199,
-      "line": "@Talk name=智花 voice=TM030277\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030277"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 200,
-      "line": "「はぁ、あぁ……こんなの、あぁ……恥ずかしい……私、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はぁ、あぁ……こんなの、あぁ……恥ずかしい……私、\r\n"
+      }
     },
     {
       "lineNumber": 201,
-      "line": "　和哉のペニス、触ってる……自分から、すすんで\r\n"
+      "shift": false,
+      "line": {
+        "text": "　和哉のペニス、触ってる……自分から、すすんで\r\n"
+      }
     },
     {
       "lineNumber": 202,
-      "line": "　触っちゃってるぅ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　触っちゃってるぅ……」\r\n"
+      }
     },
     {
       "lineNumber": 205,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 206,
-      "line": "興奮状態の中でも、智花はやっと状況を再認識したらしく、\r\n"
+      "shift": false,
+      "line": {
+        "text": "興奮状態の中でも、智花はやっと状況を再認識したらしく、\r\n"
+      }
     },
     {
       "lineNumber": 207,
-      "line": "恥ずかしげに身体をくねらせた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "恥ずかしげに身体をくねらせた。\r\n"
+      }
     },
     {
       "lineNumber": 210,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 211,
-      "line": "それでも扱く手は止めずに、視線はまっすぐモノに\r\n"
+      "shift": false,
+      "line": {
+        "text": "それでも扱く手は止めずに、視線はまっすぐモノに\r\n"
+      }
     },
     {
       "lineNumber": 212,
-      "line": "注がれたままだ。\r\n"
+      "shift": false,
+      "line": {
+        "text": "注がれたままだ。\r\n"
+      }
     },
     {
       "lineNumber": 215,
-      "line": "@Talk name=智花 voice=TM030278\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030278"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 216,
-      "line": "「あ、あ……びくびくって……ペニス、私の手で、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ、あ……びくびくって……ペニス、私の手で、\r\n"
+      }
     },
     {
       "lineNumber": 217,
-      "line": "　興奮してるなんて……やらしい、恥ずかしい……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　興奮してるなんて……やらしい、恥ずかしい……」\r\n"
+      }
     },
     {
       "lineNumber": 220,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 221,
-      "line": "羞恥心が、逆に智花の意識をもうろうとさせているかの\r\n"
+      "shift": false,
+      "line": {
+        "text": "羞恥心が、逆に智花の意識をもうろうとさせているかの\r\n"
+      }
     },
     {
       "lineNumber": 222,
-      "line": "ようだった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ようだった。\r\n"
+      }
     },
     {
       "lineNumber": 225,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 226,
-      "line": "智花の瞳はどんどんとろけて、自身が愛撫されてでも\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の瞳はどんどんとろけて、自身が愛撫されてでも\r\n"
+      }
     },
     {
       "lineNumber": 227,
-      "line": "いるように、服から覗いている肌がピンク色に染まって\r\n"
+      "shift": false,
+      "line": {
+        "text": "いるように、服から覗いている肌がピンク色に染まって\r\n"
+      }
     },
     {
       "lineNumber": 228,
-      "line": "いく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いく。\r\n"
+      }
     },
     {
       "lineNumber": 231,
-      "line": "@Talk name=智花 voice=TM030279\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030279"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 232,
-      "line": "「ん、んん……っ、和哉のペニス、あばれてる……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、んん……っ、和哉のペニス、あばれてる……\r\n"
+      }
     },
     {
       "lineNumber": 233,
-      "line": "　もっとしてほしいの？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　もっとしてほしいの？」\r\n"
+      }
     },
     {
       "lineNumber": 236,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 237,
-      "line": "まるで子どもに語りかけるように優しげに囁かれ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "まるで子どもに語りかけるように優しげに囁かれ、\r\n"
+      }
     },
     {
       "lineNumber": 238,
-      "line": "倒錯した気分になってきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "倒錯した気分になってきた。\r\n"
+      }
     },
     {
       "lineNumber": 241,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 242,
-      "line": "理性がすりへっていくのが分かり、背筋がぶるりと震える。\r\n"
+      "shift": false,
+      "line": {
+        "text": "理性がすりへっていくのが分かり、背筋がぶるりと震える。\r\n"
+      }
     },
     {
       "lineNumber": 245,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 246,
-      "line": "「智花、ちょっと待っ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「智花、ちょっと待っ……」\r\n"
+      }
     },
     {
       "lineNumber": 249,
-      "line": "@Talk name=智花 voice=TM030280\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030280"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 250,
-      "line": "「もっとしてあげる……和哉のこと、興奮させて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「もっとしてあげる……和哉のこと、興奮させて、\r\n"
+      }
     },
     {
       "lineNumber": 251,
-      "line": "　どきどきさせるんだから……」\r\n"
-    },
-    {
-      "lineNumber": 256,
-      "line": "\t@cg file=EC007c\t\r\n"
-    },
-    {
-      "lineNumber": 260,
-      "line": "\t@cg file=EC007j\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "　どきどきさせるんだから……」\r\n"
+      }
     },
     {
       "lineNumber": 266,
-      "line": "@Talk name=智花 voice=TM030281\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030281"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 267,
-      "line": "「れる……っ……ん、れろん……っ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「れる……っ……ん、れろん……っ」\r\n"
+      }
     },
     {
       "lineNumber": 272,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 273,
-      "line": "「うぁぁっ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うぁぁっ！？」\r\n"
+      }
     },
     {
       "lineNumber": 276,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 277,
-      "line": "智花の真っ赤な舌が、亀頭をべろりと舐めあげた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の真っ赤な舌が、亀頭をべろりと舐めあげた。\r\n"
+      }
     },
     {
       "lineNumber": 280,
-      "line": "@Talk name=智花 voice=TM030282\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030282"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 281,
-      "line": "「ふぁ、び、びくって、すごく震えたわ……痛かったの？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふぁ、び、びくって、すごく震えたわ……痛かったの？」\r\n"
+      }
     },
     {
       "lineNumber": 284,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 285,
-      "line": "「そ、そういうわけじゃないけど……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そ、そういうわけじゃないけど……」\r\n"
+      }
     },
     {
       "lineNumber": 290,
-      "line": "@Talk name=智花 voice=TM030283\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030283"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 291,
-      "line": "「それなら、びっくりさせないでよね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「それなら、びっくりさせないでよね」\r\n"
+      }
     },
     {
       "lineNumber": 294,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 295,
-      "line": "智花は少しだけ平常に戻ったように拗ねた表情をした\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は少しだけ平常に戻ったように拗ねた表情をした\r\n"
+      }
     },
     {
       "lineNumber": 296,
-      "line": "ものの、またすぐにモノを舐める行為に戻った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ものの、またすぐにモノを舐める行為に戻った。\r\n"
+      }
     },
     {
       "lineNumber": 299,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 300,
-      "line": "「智花っ、そんなこと、しなくてもいいから」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「智花っ、そんなこと、しなくてもいいから」\r\n"
+      }
     },
     {
       "lineNumber": 305,
-      "line": "@Talk name=智花 voice=TM030284\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030284"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 306,
-      "line": "「んんっ……んぷぁ……どうして？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んんっ……んぷぁ……どうして？」\r\n"
+      }
     },
     {
       "lineNumber": 309,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 310,
-      "line": "「どうしてって……こんなこと、双子はしちゃいけない\r\n"
+      "shift": false,
+      "line": {
+        "text": "「どうしてって……こんなこと、双子はしちゃいけない\r\n"
+      }
     },
     {
       "lineNumber": 311,
-      "line": "　ことだろう」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ことだろう」\r\n"
+      }
     },
     {
       "lineNumber": 314,
-      "line": "@Talk name=智花 voice=TM030285\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030285"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 315,
-      "line": "「また、双子って言ったわね……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「また、双子って言ったわね……」\r\n"
+      }
     },
     {
       "lineNumber": 318,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 319,
-      "line": "智花はむっとしたような表情をした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花はむっとしたような表情をした。\r\n"
+      }
     },
     {
       "lineNumber": 322,
-      "line": "@Talk name=智花 voice=TM030286\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030286"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 323,
-      "line": "「和哉と双子なのは嬉しいけど……切ないわ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「和哉と双子なのは嬉しいけど……切ないわ……」\r\n"
+      }
     },
     {
       "lineNumber": 326,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 327,
-      "line": "亀頭に頬を擦りつけながら、智花は小さく漏らした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "亀頭に頬を擦りつけながら、智花は小さく漏らした。\r\n"
+      }
     },
     {
       "lineNumber": 330,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 331,
-      "line": "「智花……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「智花……」\r\n"
+      }
     },
     {
       "lineNumber": 334,
-      "line": "@Talk name=智花 voice=TM030287\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030287"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 335,
-      "line": "「お、男の人は……興奮したら、射精するんでしょっ？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「お、男の人は……興奮したら、射精するんでしょっ？」\r\n"
+      }
     },
     {
       "lineNumber": 338,
-      "line": "@Talk name=智花 voice=TM030288\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030288"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 339,
-      "line": "「それを確認するまでは、絶対にやめないからね」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「それを確認するまでは、絶対にやめないからね」\r\n"
+      }
     },
     {
       "lineNumber": 342,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 343,
-      "line": "急に語気荒く言い放ったかと思うと、俺の反論を\r\n"
+      "shift": false,
+      "line": {
+        "text": "急に語気荒く言い放ったかと思うと、俺の反論を\r\n"
+      }
     },
     {
       "lineNumber": 344,
-      "line": "拒否するように舌を伸ばした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "拒否するように舌を伸ばした。\r\n"
+      }
     },
     {
       "lineNumber": 349,
-      "line": "@Talk name=智花 voice=TM030289\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030289"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 350,
-      "line": "「んっ……んちゅ、れろっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっ……んちゅ、れろっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 353,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 354,
-      "line": "「うぅっ、智花……」\r\n"
-    },
-    {
-      "lineNumber": 359,
-      "line": "\t@cg file=EC007cL pos=-320,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 360,
-      "line": "\t@update transition=crossfade time=1000\r\n"
-    },
-    {
-      "lineNumber": 361,
-      "line": "\t@movecamera pos=60,0,0 time=20000\r\n"
-    },
-    {
-      "lineNumber": 365,
-      "line": "\t@cg file=EC007jL pos=-320,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 366,
-      "line": "\t@update transition=crossfade time=1000\r\n"
-    },
-    {
-      "lineNumber": 367,
-      "line": "\t@movecamera pos=60,0,0 time=20000\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うぅっ、智花……」\r\n"
+      }
     },
     {
       "lineNumber": 371,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 372,
-      "line": "智花に亀頭を舐められると、思考のすべてがモノへと\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花に亀頭を舐められると、思考のすべてがモノへと\r\n"
+      }
     },
     {
       "lineNumber": 373,
-      "line": "収束してしまうように感じる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "収束してしまうように感じる。\r\n"
+      }
     },
     {
       "lineNumber": 376,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 377,
-      "line": "理性が負けて、このまま智花に射精まで導かれたいという\r\n"
+      "shift": false,
+      "line": {
+        "text": "理性が負けて、このまま智花に射精まで導かれたいという\r\n"
+      }
     },
     {
       "lineNumber": 378,
-      "line": "思いが強くなってしまう……\r\n"
+      "shift": false,
+      "line": {
+        "text": "思いが強くなってしまう……\r\n"
+      }
     },
     {
       "lineNumber": 381,
-      "line": "@Talk name=智花 voice=TM030290\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030290"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 382,
-      "line": "「れろ、ん……れろろ……ちゅ、ちゅぅ……ん、れる……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「れろ、ん……れろろ……ちゅ、ちゅぅ……ん、れる……\r\n"
+      }
     },
     {
       "lineNumber": 383,
-      "line": "　和哉のペニス……だんだん、私の唾液でぬるぬるして\r\n"
+      "shift": false,
+      "line": {
+        "text": "　和哉のペニス……だんだん、私の唾液でぬるぬるして\r\n"
+      }
     },
     {
       "lineNumber": 384,
-      "line": "　きたわ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　きたわ……」\r\n"
+      }
     },
     {
       "lineNumber": 387,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 388,
-      "line": "智花は、垂れ落ちそうになった唾液を追って、亀頭以外の\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は、垂れ落ちそうになった唾液を追って、亀頭以外の\r\n"
+      }
     },
     {
       "lineNumber": 389,
-      "line": "部分にも舌を這わせはじめた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "部分にも舌を這わせはじめた。\r\n"
+      }
     },
     {
       "lineNumber": 392,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 393,
-      "line": "舌のざらついた感触も痛気持ちいいものではあったが、\r\n"
+      "shift": false,
+      "line": {
+        "text": "舌のざらついた感触も痛気持ちいいものではあったが、\r\n"
+      }
     },
     {
       "lineNumber": 394,
-      "line": "唾液が絡まると快感は倍増した。\r\n"
+      "shift": false,
+      "line": {
+        "text": "唾液が絡まると快感は倍増した。\r\n"
+      }
     },
     {
       "lineNumber": 397,
-      "line": "@Talk name=智花 voice=TM030291\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030291"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 398,
-      "line": "「ん、ちゅく……ん、あぁ……くちゅくちゅって、唾液の\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、ちゅく……ん、あぁ……くちゅくちゅって、唾液の\r\n"
+      }
     },
     {
       "lineNumber": 399,
-      "line": "　音がしちゃうわ……やらしい……ん、れる……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　音がしちゃうわ……やらしい……ん、れる……」\r\n"
+      }
     },
     {
       "lineNumber": 402,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 403,
-      "line": "そうかといって、音を抑えるようなそぶりはせず、\r\n"
+      "shift": false,
+      "line": {
+        "text": "そうかといって、音を抑えるようなそぶりはせず、\r\n"
+      }
     },
     {
       "lineNumber": 404,
-      "line": "むしろどうやったら音が立てられるのか研究するように\r\n"
+      "shift": false,
+      "line": {
+        "text": "むしろどうやったら音が立てられるのか研究するように\r\n"
+      }
     },
     {
       "lineNumber": 405,
-      "line": "舌をくねくねと動かす。\r\n"
+      "shift": false,
+      "line": {
+        "text": "舌をくねくねと動かす。\r\n"
+      }
     },
     {
       "lineNumber": 408,
-      "line": "@Talk name=智花 voice=TM030292\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030292"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 409,
-      "line": "「ぬるぬるした方が……エッチなかんじがする……んっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ぬるぬるした方が……エッチなかんじがする……んっ、\r\n"
+      }
     },
     {
       "lineNumber": 410,
-      "line": "　はずかしい、けれど……ん、ちゅ……どきどきする……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　はずかしい、けれど……ん、ちゅ……どきどきする……」\r\n"
+      }
     },
     {
       "lineNumber": 413,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 414,
-      "line": "智花は亀頭の裏側に舌を添え、熱っぽい吐息を漏らした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は亀頭の裏側に舌を添え、熱っぽい吐息を漏らした。\r\n"
+      }
     },
     {
       "lineNumber": 417,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 418,
-      "line": "口を開けたままにしているために、だんだんと唾液が舌を\r\n"
+      "shift": false,
+      "line": {
+        "text": "口を開けたままにしているために、だんだんと唾液が舌を\r\n"
+      }
     },
     {
       "lineNumber": 419,
-      "line": "伝わって、亀頭を濡らしはじめる。\r\n"
-    },
-    {
-      "lineNumber": 424,
-      "line": "\t@cg file=EC007c\t\r\n"
-    },
-    {
-      "lineNumber": 428,
-      "line": "\t@cg file=EC007j\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "伝わって、亀頭を濡らしはじめる。\r\n"
+      }
     },
     {
       "lineNumber": 432,
-      "line": "@Talk name=智花 voice=TM030293\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030293"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 433,
-      "line": "「ん……れるる……これで、もっとどろどろになって……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん……れるる……これで、もっとどろどろになって……\r\n"
+      }
     },
     {
       "lineNumber": 434,
-      "line": "　ふぁぁ、指まで垂れちゃった……んん……んるぅ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ふぁぁ、指まで垂れちゃった……んん……んるぅ……」\r\n"
+      }
     },
     {
       "lineNumber": 437,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 438,
-      "line": "智花は竿を伝う唾液を手に絡めながら、モノを擦ってきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は竿を伝う唾液を手に絡めながら、モノを擦ってきた。\r\n"
+      }
     },
     {
       "lineNumber": 441,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 442,
-      "line": "くちゅくちゅといやらしい音が手の中で生まれ、耳たぶを\r\n"
+      "shift": false,
+      "line": {
+        "text": "くちゅくちゅといやらしい音が手の中で生まれ、耳たぶを\r\n"
+      }
     },
     {
       "lineNumber": 443,
-      "line": "刺激する。\r\n"
+      "shift": false,
+      "line": {
+        "text": "刺激する。\r\n"
+      }
     },
     {
       "lineNumber": 446,
-      "line": "@Talk name=智花 voice=TM030294\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030294"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 447,
-      "line": "「ん、んっ……れろ、れろ……和哉のペニス、私の唾液の\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、んっ……れろ、れろ……和哉のペニス、私の唾液の\r\n"
+      }
     },
     {
       "lineNumber": 448,
-      "line": "　味になってる……ん、ちゅっ……やだぁ……恥ずかしい」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　味になってる……ん、ちゅっ……やだぁ……恥ずかしい」\r\n"
+      }
     },
     {
       "lineNumber": 451,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 452,
-      "line": "智花の舌が、手で擦っている竿の部分にも伸ばされる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の舌が、手で擦っている竿の部分にも伸ばされる。\r\n"
+      }
     },
     {
       "lineNumber": 455,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 456,
-      "line": "唾液まみれの指先とはまた違う、新種の生き物のように\r\n"
+      "shift": false,
+      "line": {
+        "text": "唾液まみれの指先とはまた違う、新種の生き物のように\r\n"
+      }
     },
     {
       "lineNumber": 457,
-      "line": "柔らかい舌の感触が竿を這っていく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "柔らかい舌の感触が竿を這っていく。\r\n"
+      }
     },
     {
       "lineNumber": 460,
-      "line": "@Talk name=智花 voice=TM030295\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030295"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 461,
-      "line": "「ん、はぁふ……私、本当に和哉のペニス、舐めてる……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、はぁふ……私、本当に和哉のペニス、舐めてる……\r\n"
+      }
     },
     {
       "lineNumber": 462,
-      "line": "　んんっ、恥ずかしい、んちゅ、はずかしい……っ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　んんっ、恥ずかしい、んちゅ、はずかしい……っ」\r\n"
+      }
     },
     {
       "lineNumber": 465,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 466,
-      "line": "今や智花の呼吸は、体育の後のように荒くなっていて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "今や智花の呼吸は、体育の後のように荒くなっていて、\r\n"
+      }
     },
     {
       "lineNumber": 467,
-      "line": "興奮しているのは明白だった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "興奮しているのは明白だった。\r\n"
+      }
     },
     {
       "lineNumber": 470,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 471,
-      "line": "普段であれば毛嫌いするような行為に没頭している智花の\r\n"
+      "shift": false,
+      "line": {
+        "text": "普段であれば毛嫌いするような行為に没頭している智花の\r\n"
+      }
     },
     {
       "lineNumber": 472,
-      "line": "姿に、現実感が失われていく。\r\n"
-    },
-    {
-      "lineNumber": 477,
-      "line": "\t@cg file=EC007cL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 481,
-      "line": "\t@cg file=EC007jL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "姿に、現実感が失われていく。\r\n"
+      }
     },
     {
       "lineNumber": 485,
-      "line": "@Talk name=智花 voice=TM030296\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030296"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 486,
-      "line": "「れる……ん、んっ……ちゅっ……ちゅぅ……ちゅる、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「れる……ん、んっ……ちゅっ……ちゅぅ……ちゅる、\r\n"
+      }
     },
     {
       "lineNumber": 487,
-      "line": "　ちゅう、ちゅぷ、ちゅむぅ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ちゅう、ちゅぷ、ちゅむぅ……」\r\n"
+      }
     },
     {
       "lineNumber": 490,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 491,
-      "line": "双子だからと言葉にすることを避けていた感情以上の\r\n"
+      "shift": false,
+      "line": {
+        "text": "双子だからと言葉にすることを避けていた感情以上の\r\n"
+      }
     },
     {
       "lineNumber": 492,
-      "line": "行為をしてしまっている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "行為をしてしまっている。\r\n"
+      }
     },
     {
       "lineNumber": 495,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 496,
-      "line": "そんな罪悪感が、快感に侵略されていく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "そんな罪悪感が、快感に侵略されていく。\r\n"
+      }
     },
     {
       "lineNumber": 501,
-      "line": "@Talk name=智花 voice=TM030297\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030297"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 502,
-      "line": "「んっ……ちゅ、れろ……んん、んりゅ……あっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっ……ちゅ、れろ……んん、んりゅ……あっ、\r\n"
+      }
     },
     {
       "lineNumber": 503,
-      "line": "　亀頭からぬるぬるしたの、出てきたわ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　亀頭からぬるぬるしたの、出てきたわ……」\r\n"
+      }
     },
     {
       "lineNumber": 506,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 507,
-      "line": "智花は舌先をすぼめて、先走りが出始めた鈴口のあたりを\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は舌先をすぼめて、先走りが出始めた鈴口のあたりを\r\n"
+      }
     },
     {
       "lineNumber": 508,
-      "line": "つんつんとつついてきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "つんつんとつついてきた。\r\n"
+      }
     },
     {
       "lineNumber": 511,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 512,
-      "line": "「そ、そんなもの、舐めなくていいから……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そ、そんなもの、舐めなくていいから……」\r\n"
+      }
     },
     {
       "lineNumber": 517,
-      "line": "\t@Talk name=智花 voice=TM030298\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030298"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 518,
-      "line": "\t「んん……ふぅん、和哉のペニスから出てるのね……\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 519,
-      "line": "\t　もしかして、先走り液……っていう、あれ？」\r\n"
-    },
-    {
-      "lineNumber": 520,
-      "line": "\t@Hitret id=29420\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 522,
-      "line": "\t@Talk name=和哉\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 523,
-      "line": "\t「うっ……分かってるなら、そんなもの舐めないでくれよ」\r\n"
-    },
-    {
-      "lineNumber": 524,
-      "line": "\t@Hitret id=29421\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 526,
-      "line": "\t@Talk name=智花 voice=TM030299\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030299"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 527,
-      "line": "\t「どうして？　こんなにエッチな味してるのに……」\r\n"
-    },
-    {
-      "lineNumber": 528,
-      "line": "\t@Hitret id=29422\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 532,
-      "line": "\t@Talk name=智花 voice=TM030300\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030300"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 533,
-      "line": "\t「んん……ふぅん、和哉のペニスから出てるのね……\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 534,
-      "line": "\t　もしかして、先走り液……っていう、あれかしら……\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 535,
-      "line": "\t　んちゅ、本で読んだことが、あるわ……ちゅるるっ」\r\n"
-    },
-    {
-      "lineNumber": 536,
-      "line": "\t@Hitret id=29423\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 538,
-      "line": "\t@Talk name=智花 voice=TM030301\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030301"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 539,
-      "line": "\t「味がしないって、書いてあったけど……んじゅっ、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 540,
-      "line": "\t　ちょっとしょっぱい感じがして……んちゅっ、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 541,
-      "line": "\t　おいしい、かもぉ……」\r\n"
-    },
-    {
-      "lineNumber": 542,
-      "line": "\t@Hitret id=29424\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 546,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 547,
-      "line": "智花はモノのてっぺんに舌をべたりとつけ、何度も\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花はモノのてっぺんに舌をべたりとつけ、何度も\r\n"
+      }
     },
     {
       "lineNumber": 548,
-      "line": "往復させた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "往復させた。\r\n"
+      }
     },
     {
       "lineNumber": 551,
-      "line": "@Talk name=智花 voice=TM030302\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030302"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 552,
-      "line": "「んちゅ、れる……っ、和哉は、んんっ、この先走りを\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んちゅ、れる……っ、和哉は、んんっ、この先走りを\r\n"
+      }
     },
     {
       "lineNumber": 553,
-      "line": "　舐められて……ちゅるる、興奮しないの……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　舐められて……ちゅるる、興奮しないの……？」\r\n"
+      }
     },
     {
       "lineNumber": 556,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 557,
-      "line": "智花は不満そうに眉根を寄せ、言いつのってきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は不満そうに眉根を寄せ、言いつのってきた。\r\n"
+      }
     },
     {
       "lineNumber": 560,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 561,
-      "line": "「す、するに決まってるだろ……智花が俺の……先走りを\r\n"
+      "shift": false,
+      "line": {
+        "text": "「す、するに決まってるだろ……智花が俺の……先走りを\r\n"
+      }
     },
     {
       "lineNumber": 562,
-      "line": "　舐めてるなんて、エロすぎて……」\r\n"
-    },
-    {
-      "lineNumber": 569,
-      "line": "\t@cg file=EC007c\t\r\n"
-    },
-    {
-      "lineNumber": 573,
-      "line": "\t@cg file=EC007j\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "　舐めてるなんて、エロすぎて……」\r\n"
+      }
     },
     {
       "lineNumber": 577,
-      "line": "@Talk name=智花 voice=TM030303\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030303"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 578,
-      "line": "「え、えろって……そんなはっきり言わないでよ、ばかっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「え、えろって……そんなはっきり言わないでよ、ばかっ、\r\n"
+      }
     },
     {
       "lineNumber": 579,
-      "line": "　恥ずかしい……っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　恥ずかしい……っ！」\r\n"
+      }
     },
     {
       "lineNumber": 582,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 583,
-      "line": "智花は照れ紛れに、ぎゅうっと竿を掴んできた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は照れ紛れに、ぎゅうっと竿を掴んできた。\r\n"
+      }
     },
     {
       "lineNumber": 586,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 587,
-      "line": "「してること自体恥ずかしいんだから、変わらないと\r\n"
+      "shift": false,
+      "line": {
+        "text": "「してること自体恥ずかしいんだから、変わらないと\r\n"
+      }
     },
     {
       "lineNumber": 588,
-      "line": "　思うけど」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　思うけど」\r\n"
+      }
     },
     {
       "lineNumber": 591,
-      "line": "@Talk name=智花 voice=TM030304\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030304"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 592,
-      "line": "「デリカシーがないんだから……もう……っ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「デリカシーがないんだから……もう……っ」\r\n"
+      }
     },
     {
       "lineNumber": 595,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 596,
-      "line": "拗ねたようにぶつぶつと言っている間にも、指先はモノを\r\n"
+      "shift": false,
+      "line": {
+        "text": "拗ねたようにぶつぶつと言っている間にも、指先はモノを\r\n"
+      }
     },
     {
       "lineNumber": 597,
-      "line": "愛撫しているし、熱い吐息が当てられている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "愛撫しているし、熱い吐息が当てられている。\r\n"
+      }
     },
     {
       "lineNumber": 600,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 601,
-      "line": "そんな智花の姿に、いやらしさを感じずにはいられな\r\n"
+      "shift": false,
+      "line": {
+        "text": "そんな智花の姿に、いやらしさを感じずにはいられな\r\n"
+      }
     },
     {
       "lineNumber": 602,
-      "line": "かった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "かった。\r\n"
+      }
     },
     {
       "lineNumber": 605,
-      "line": "@Talk name=智花 voice=TM030305\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030305"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 606,
-      "line": "「でも、そう、興奮するなら……このまま続けるから……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「でも、そう、興奮するなら……このまま続けるから……」\r\n"
+      }
     },
     {
       "lineNumber": 609,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 610,
-      "line": "「えっ、智花……！」\r\n"
-    },
-    {
-      "lineNumber": 615,
-      "line": "\t@cg file=EC007dL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 619,
-      "line": "\t@cg file=EC007kL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "「えっ、智花……！」\r\n"
+      }
     },
     {
       "lineNumber": 625,
-      "line": "@Talk name=智花 voice=TM030306\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030306"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 626,
-      "line": "「んぁむ……ちゅ、ちゅぱっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぁむ……ちゅ、ちゅぱっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 629,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 630,
-      "line": "智花は口を開け、亀頭を咥えてきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は口を開け、亀頭を咥えてきた。\r\n"
+      }
     },
     {
       "lineNumber": 635,
-      "line": "\t@Talk name=智花 voice=TM030307\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030307"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 636,
-      "line": "\t「んむ……んっ……ちゅぅ……あふ……っ大きい……っ、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 637,
-      "line": "\t　相変わらず、和哉のペニス、すごく太くてぇ……」\r\n"
-    },
-    {
-      "lineNumber": 638,
-      "line": "\t@Hitret id=29439\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 642,
-      "line": "\t@Talk name=智花 voice=TM030308\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030308"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 643,
-      "line": "\t「んむ……んっ……ちゅぅ……あふ……っ大きい……っ、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 644,
-      "line": "\t　男の子のペニスって、こんなに大きいものなの……？」\r\n"
-    },
-    {
-      "lineNumber": 645,
-      "line": "\t@Hitret id=29440\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 649,
-      "line": "@Talk name=智花 voice=TM030309\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030309"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 650,
-      "line": "「ん、んっ……歯が当たったら痛いのよね……？　んん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、んっ……歯が当たったら痛いのよね……？　んん、\r\n"
+      }
     },
     {
       "lineNumber": 651,
-      "line": "　れも、むふかひぃ……んん、ちゅぷっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　れも、むふかひぃ……んん、ちゅぷっ……」\r\n"
+      }
     },
     {
       "lineNumber": 654,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 655,
-      "line": "智花は眉根を寄せて呟きながら、飴細工に触れでも\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は眉根を寄せて呟きながら、飴細工に触れでも\r\n"
+      }
     },
     {
       "lineNumber": 656,
-      "line": "するかのように優しく亀頭を唇で包む。\r\n"
+      "shift": false,
+      "line": {
+        "text": "するかのように優しく亀頭を唇で包む。\r\n"
+      }
     },
     {
       "lineNumber": 659,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 660,
-      "line": "呼吸のたびに、こもった熱気がねっとりと亀頭を\r\n"
+      "shift": false,
+      "line": {
+        "text": "呼吸のたびに、こもった熱気がねっとりと亀頭を\r\n"
+      }
     },
     {
       "lineNumber": 661,
-      "line": "くすぐってくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "くすぐってくる。\r\n"
+      }
     },
     {
       "lineNumber": 666,
-      "line": "@Talk name=智花 voice=TM030310\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030310"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 667,
-      "line": "「あむぷ……ん……えぇと……ここから、ろうすれば……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あむぷ……ん……えぇと……ここから、ろうすれば……\r\n"
+      }
     },
     {
       "lineNumber": 668,
-      "line": "　ん、んん……いいんらっけ……んん……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、んん……いいんらっけ……んん……」\r\n"
+      }
     },
     {
       "lineNumber": 671,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 672,
-      "line": "亀頭を口に含んだまま、智花はなにかを思い出そうとして\r\n"
+      "shift": false,
+      "line": {
+        "text": "亀頭を口に含んだまま、智花はなにかを思い出そうとして\r\n"
+      }
     },
     {
       "lineNumber": 673,
-      "line": "いるかのように視線を泳がせた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "いるかのように視線を泳がせた。\r\n"
+      }
     },
     {
       "lineNumber": 676,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 677,
-      "line": "「智花……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「智花……？」\r\n"
+      }
     },
     {
       "lineNumber": 680,
-      "line": "@Talk name=智花 voice=TM030311\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030311"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 681,
-      "line": "「んぁ……だえき、たれてきちゃった……ん、んじゅるっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぁ……だえき、たれてきちゃった……ん、んじゅるっ」\r\n"
+      }
     },
     {
       "lineNumber": 686,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 687,
-      "line": "「っう……！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「っう……！？」\r\n"
+      }
     },
     {
       "lineNumber": 690,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 691,
-      "line": "開け放した口から垂れる唾液に気付いて、智花が思い切り\r\n"
+      "shift": false,
+      "line": {
+        "text": "開け放した口から垂れる唾液に気付いて、智花が思い切り\r\n"
+      }
     },
     {
       "lineNumber": 692,
-      "line": "息を吸った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "息を吸った。\r\n"
+      }
     },
     {
       "lineNumber": 695,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 696,
-      "line": "その途端、モノの中心がぐぐっと持っていかれるような、\r\n"
+      "shift": false,
+      "line": {
+        "text": "その途端、モノの中心がぐぐっと持っていかれるような、\r\n"
+      }
     },
     {
       "lineNumber": 697,
-      "line": "えも言われぬ快感が突き上げてきた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "えも言われぬ快感が突き上げてきた。\r\n"
+      }
     },
     {
       "lineNumber": 700,
-      "line": "@Talk name=智花 voice=TM030312\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030312"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 701,
-      "line": "「んんっ……んぷぁ、んりゅりゅ……ん、んっ……んっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んんっ……んぷぁ、んりゅりゅ……ん、んっ……んっ、\r\n"
+      }
     },
     {
       "lineNumber": 702,
-      "line": "　ペニスが、すごくびくびくってしたわ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ペニスが、すごくびくびくってしたわ……」\r\n"
+      }
     },
     {
       "lineNumber": 705,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 706,
-      "line": "「す、吸うのは止めてくれ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「す、吸うのは止めてくれ……」\r\n"
+      }
     },
     {
       "lineNumber": 709,
-      "line": "@Talk name=無音/智花\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "無音/智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 710,
-      "line": "「………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「………………」\r\n"
+      }
     },
     {
       "lineNumber": 713,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 714,
-      "line": "智花は俺の顔を見上げて、すっと目を細めた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は俺の顔を見上げて、すっと目を細めた。\r\n"
+      }
     },
     {
       "lineNumber": 719,
-      "line": "@Talk name=智花 voice=TM030313\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030313"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 720,
-      "line": "「んじゅるっ……じゅ、じゅるるるぅぅぅっ……！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅるっ……じゅ、じゅるるるぅぅぅっ……！！」\r\n"
+      }
     },
     {
       "lineNumber": 725,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 726,
-      "line": "「うあああぁぁっ……！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うあああぁぁっ……！？」\r\n"
+      }
     },
     {
       "lineNumber": 729,
-      "line": "@Talk name=智花 voice=TM030314\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030314"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 730,
-      "line": "「んじゅっ……じゅっ、やめへっへ……いうりゆうは……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅっ……じゅっ、やめへっへ……いうりゆうは……\r\n"
+      }
     },
     {
       "lineNumber": 731,
-      "line": "　じゅちゅっ、こうふん、するからなんでしょ……んん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅちゅっ、こうふん、するからなんでしょ……んん、\r\n"
+      }
     },
     {
       "lineNumber": 732,
-      "line": "　じゅじゅっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅじゅっ」\r\n"
+      }
     },
     {
       "lineNumber": 736,
-      "line": "@Talk name=智花 voice=TM030315\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030315"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 737,
-      "line": "「にゃら……んじゅる……やめてなんて、あげないっ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「にゃら……んじゅる……やめてなんて、あげないっ……\r\n"
+      }
     },
     {
       "lineNumber": 738,
-      "line": "　もっともっと、がまんできないくらい、こうふんさせる\r\n"
+      "shift": false,
+      "line": {
+        "text": "　もっともっと、がまんできないくらい、こうふんさせる\r\n"
+      }
     },
     {
       "lineNumber": 739,
-      "line": "　んらから……っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　んらから……っ！」\r\n"
+      }
     },
     {
       "lineNumber": 742,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 743,
-      "line": "智花はますます亀頭を咥えて、じゅるじゅると先走りを\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花はますます亀頭を咥えて、じゅるじゅると先走りを\r\n"
+      }
     },
     {
       "lineNumber": 744,
-      "line": "吸い出しはじめた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "吸い出しはじめた。\r\n"
+      }
     },
     {
       "lineNumber": 747,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 748,
-      "line": "「う、うぁっ……あっ……！」\r\n"
-    },
-    {
-      "lineNumber": 753,
-      "line": "\t@cg file=EC007eL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 757,
-      "line": "\t@cg file=EC007lL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うぁっ……あっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 763,
-      "line": "@Talk name=智花 voice=TM030316\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030316"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 764,
-      "line": "「んれぅ……んっ……エッチな声出しちゃって……ん、ん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んれぅ……んっ……エッチな声出しちゃって……ん、ん、\r\n"
+      }
     },
     {
       "lineNumber": 765,
-      "line": "　和哉、やらしい……んちゅ、じゅるるっ……そんなに\r\n"
+      "shift": false,
+      "line": {
+        "text": "　和哉、やらしい……んちゅ、じゅるるっ……そんなに\r\n"
+      }
     },
     {
       "lineNumber": 766,
-      "line": "　きもちいいんだ……ちゅじゅっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　きもちいいんだ……ちゅじゅっ……」\r\n"
+      }
     },
     {
       "lineNumber": 769,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 770,
-      "line": "智花は俺の反応を余さず観察しようとしているようだった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は俺の反応を余さず観察しようとしているようだった。\r\n"
+      }
     },
     {
       "lineNumber": 773,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 774,
-      "line": "俺が快感に感じるように、擦る場所や力加減を調節して\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺が快感に感じるように、擦る場所や力加減を調節して\r\n"
+      }
     },
     {
       "lineNumber": 775,
-      "line": "責めたててくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "責めたててくる。\r\n"
+      }
     },
     {
       "lineNumber": 778,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 779,
-      "line": "しかしそれだけではなく、智花は俺が興奮しているのを\r\n"
+      "shift": false,
+      "line": {
+        "text": "しかしそれだけではなく、智花は俺が興奮しているのを\r\n"
+      }
     },
     {
       "lineNumber": 780,
-      "line": "見て自身の興奮をも高めているようだった。\r\n"
-    },
-    {
-      "lineNumber": 785,
-      "line": "\t@cg file=EC007dL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 789,
-      "line": "\t@cg file=EC007kL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "見て自身の興奮をも高めているようだった。\r\n"
+      }
     },
     {
       "lineNumber": 793,
-      "line": "@Talk name=智花 voice=TM030317\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030317"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 794,
-      "line": "「ん、んじゅるっ……はぁはぁ……和哉、かずやぁ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、んじゅるっ……はぁはぁ……和哉、かずやぁ……\r\n"
+      }
     },
     {
       "lineNumber": 795,
-      "line": "　じゅくっ、じゅるるっ、わらひのふち、ひもひいい？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅくっ、じゅるるっ、わらひのふち、ひもひいい？」\r\n"
+      }
     },
     {
       "lineNumber": 798,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 799,
-      "line": "「あ、ああ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ、ああ……」\r\n"
+      }
     },
     {
       "lineNumber": 802,
-      "line": "@Talk name=智花 voice=TM030318\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030318"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 803,
-      "line": "「んふ……よかったぁ……んじゅ、じゅるる……んく、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んふ……よかったぁ……んじゅ、じゅるる……んく、\r\n"
+      }
     },
     {
       "lineNumber": 804,
-      "line": "　はぷっっ……ちゅぅぅっ、ちゅるぷっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　はぷっっ……ちゅぅぅっ、ちゅるぷっ！」\r\n"
+      }
     },
     {
       "lineNumber": 807,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 808,
-      "line": "頷いてから後悔をした。\r\n"
+      "shift": false,
+      "line": {
+        "text": "頷いてから後悔をした。\r\n"
+      }
     },
     {
       "lineNumber": 811,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 812,
-      "line": "言葉にすれば、事実になってしまう……覆すことの\r\n"
+      "shift": false,
+      "line": {
+        "text": "言葉にすれば、事実になってしまう……覆すことの\r\n"
+      }
     },
     {
       "lineNumber": 813,
-      "line": "できない、強固な事実に。\r\n"
+      "shift": false,
+      "line": {
+        "text": "できない、強固な事実に。\r\n"
+      }
     },
     {
       "lineNumber": 816,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 817,
-      "line": "だからこそ、双子としての一線を越えるような言葉を、\r\n"
+      "shift": false,
+      "line": {
+        "text": "だからこそ、双子としての一線を越えるような言葉を、\r\n"
+      }
     },
     {
       "lineNumber": 818,
-      "line": "明確にしてこなかったはずなのに……\r\n"
+      "shift": false,
+      "line": {
+        "text": "明確にしてこなかったはずなのに……\r\n"
+      }
     },
     {
       "lineNumber": 821,
-      "line": "@Talk name=智花 voice=TM030319\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030319"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 822,
-      "line": "「じゅっ、ちゅぅぅ……んぅぅ、も、のみきれない、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「じゅっ、ちゅぅぅ……んぅぅ、も、のみきれない、\r\n"
+      }
     },
     {
       "lineNumber": 823,
-      "line": "　くらい、だえきも、さきばしりも、あふれてきてぇ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "　くらい、だえきも、さきばしりも、あふれてきてぇ……\r\n"
+      }
     },
     {
       "lineNumber": 824,
-      "line": "　ん、んんっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、んんっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 829,
-      "line": "@Talk name=智花 voice=TM030320\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030320"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 830,
-      "line": "「ん、んっ……じゅる、じゅっ……ん、はぁ、はぁ、れぅ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ん、んっ……じゅる、じゅっ……ん、はぁ、はぁ、れぅ、\r\n"
+      }
     },
     {
       "lineNumber": 831,
-      "line": "　じゅるるっ……おふひ、もういっぱいっ……ん、はふ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅるるっ……おふひ、もういっぱいっ……ん、はふ、\r\n"
+      }
     },
     {
       "lineNumber": 832,
-      "line": "　はずかしい……ちゅぅぅっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　はずかしい……ちゅぅぅっ！」\r\n"
+      }
     },
     {
       "lineNumber": 835,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 836,
-      "line": "体液を吸い上げるたびに頬がすぼまり、口の中でモノが\r\n"
+      "shift": false,
+      "line": {
+        "text": "体液を吸い上げるたびに頬がすぼまり、口の中でモノが\r\n"
+      }
     },
     {
       "lineNumber": 837,
-      "line": "圧迫される。\r\n"
+      "shift": false,
+      "line": {
+        "text": "圧迫される。\r\n"
+      }
     },
     {
       "lineNumber": 840,
-      "line": "@Talk name=智花 voice=TM030321\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030321"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 841,
-      "line": "「んっ、んんっ……はぁ、れる、つぷ……れろっ、れるっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっ、んんっ……はぁ、れる、つぷ……れろっ、れるっ」\r\n"
+      }
     },
     {
       "lineNumber": 844,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 845,
-      "line": "智花が夢中になりはじめた証拠か、時折亀頭や竿に歯が\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花が夢中になりはじめた証拠か、時折亀頭や竿に歯が\r\n"
+      }
     },
     {
       "lineNumber": 846,
-      "line": "当たる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "当たる。\r\n"
+      }
     },
     {
       "lineNumber": 849,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 850,
-      "line": "「うぅ、くっ……」\r\n"
-    },
-    {
-      "lineNumber": 855,
-      "line": "\t@cg file=EC007eL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 859,
-      "line": "\t@cg file=EC007lL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うぅ、くっ……」\r\n"
+      }
     },
     {
       "lineNumber": 866,
-      "line": "@Talk name=智花 voice=TM030322\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030322"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 867,
-      "line": "「んんっ！？　ん、んじゅるっ……じゅるっ……んんぅ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んんっ！？　ん、んじゅるっ……じゅるっ……んんぅ！」\r\n"
+      }
     },
     {
       "lineNumber": 870,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 871,
-      "line": "唾液でコーティングされた裏筋に歯が当たった快感に、\r\n"
+      "shift": false,
+      "line": {
+        "text": "唾液でコーティングされた裏筋に歯が当たった快感に、\r\n"
+      }
     },
     {
       "lineNumber": 872,
-      "line": "思わず腰を突き出してしまった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "思わず腰を突き出してしまった。\r\n"
+      }
     },
     {
       "lineNumber": 875,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 876,
-      "line": "その拍子に、竿の半ばまでが智花の口に入りこんで\r\n"
+      "shift": false,
+      "line": {
+        "text": "その拍子に、竿の半ばまでが智花の口に入りこんで\r\n"
+      }
     },
     {
       "lineNumber": 877,
-      "line": "しまった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "しまった。\r\n"
+      }
     },
     {
       "lineNumber": 882,
-      "line": "@Talk name=智花 voice=TM030323\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030323"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 883,
-      "line": "「んちゅ、じゅるっ、ん、ん、んっ……はぁ、んぅぅ、ん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んちゅ、じゅるっ、ん、ん、んっ……はぁ、んぅぅ、ん、\r\n"
+      }
     },
     {
       "lineNumber": 884,
-      "line": "　んちゅっ……んるるるぅぅ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　んちゅっ……んるるるぅぅ……」\r\n"
+      }
     },
     {
       "lineNumber": 887,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 888,
-      "line": "いきなり口内を突く刺激に、目に涙を浮かべながらも\r\n"
+      "shift": false,
+      "line": {
+        "text": "いきなり口内を突く刺激に、目に涙を浮かべながらも\r\n"
+      }
     },
     {
       "lineNumber": 889,
-      "line": "智花は状態を維持しようとする。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は状態を維持しようとする。\r\n"
+      }
     },
     {
       "lineNumber": 892,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 893,
-      "line": "口内で舌が蠢き、吐き出さないようにと上あごにモノを\r\n"
+      "shift": false,
+      "line": {
+        "text": "口内で舌が蠢き、吐き出さないようにと上あごにモノを\r\n"
+      }
     },
     {
       "lineNumber": 894,
-      "line": "押し上げ、押さえつけていた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "押し上げ、押さえつけていた。\r\n"
+      }
     },
     {
       "lineNumber": 897,
-      "line": "@Talk name=智花 voice=TM030324\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030324"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 898,
-      "line": "「んっ……んじゅるるっ……ん、んぅっ……はぁ、はぁ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んっ……んじゅるるっ……ん、んぅっ……はぁ、はぁ、\r\n"
+      }
     },
     {
       "lineNumber": 899,
-      "line": "　んちゅぅ……じゅるっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　んちゅぅ……じゅるっ……」\r\n"
+      }
     },
     {
       "lineNumber": 902,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 903,
-      "line": "何度かの深呼吸のあと、智花はゆっくりと頭を後ろへ\r\n"
+      "shift": false,
+      "line": {
+        "text": "何度かの深呼吸のあと、智花はゆっくりと頭を後ろへ\r\n"
+      }
     },
     {
       "lineNumber": 904,
-      "line": "反らし、唇のリングで扱くようにしながらモノの\r\n"
+      "shift": false,
+      "line": {
+        "text": "反らし、唇のリングで扱くようにしながらモノの\r\n"
+      }
     },
     {
       "lineNumber": 905,
-      "line": "くびれ部分までを露出させた。\r\n"
-    },
-    {
-      "lineNumber": 910,
-      "line": "\t@cg file=EC007e\t\r\n"
-    },
-    {
-      "lineNumber": 914,
-      "line": "\t@cg file=EC007l\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "くびれ部分までを露出させた。\r\n"
+      }
     },
     {
       "lineNumber": 920,
-      "line": "@Talk name=智花 voice=TM030325\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030325"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 921,
-      "line": "「ぷぁっ……はぁ、はぁ……いきなり、びっくりするじゃ\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ぷぁっ……はぁ、はぁ……いきなり、びっくりするじゃ\r\n"
+      }
     },
     {
       "lineNumber": 922,
-      "line": "　ない……はぁ、んじゅるる……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ない……はぁ、んじゅるる……」\r\n"
+      }
     },
     {
       "lineNumber": 925,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 926,
-      "line": "「ご、ごめん……智花の口が、気持ちが良すぎて……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ご、ごめん……智花の口が、気持ちが良すぎて……」\r\n"
+      }
     },
     {
       "lineNumber": 929,
-      "line": "@Talk name=智花 voice=TM030326\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030326"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 930,
-      "line": "「っ……もう、調子いいんだから……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「っ……もう、調子いいんだから……」\r\n"
+      }
     },
     {
       "lineNumber": 933,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 934,
-      "line": "唾液まみれの口元を、まんざらでもないように歪める。\r\n"
+      "shift": false,
+      "line": {
+        "text": "唾液まみれの口元を、まんざらでもないように歪める。\r\n"
+      }
     },
     {
       "lineNumber": 939,
-      "line": "@Talk name=智花 voice=TM030327\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030327"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 940,
-      "line": "「和哉のペニス、どんどんあつくなって……血管が\r\n"
+      "shift": false,
+      "line": {
+        "text": "「和哉のペニス、どんどんあつくなって……血管が\r\n"
+      }
     },
     {
       "lineNumber": 941,
-      "line": "　浮き出てきて……ん、んっ、どきどきしてるの、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　浮き出てきて……ん、んっ、どきどきしてるの、\r\n"
+      }
     },
     {
       "lineNumber": 942,
-      "line": "　伝わってくるわ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　伝わってくるわ……」\r\n"
+      }
     },
     {
       "lineNumber": 945,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 946,
-      "line": "アイスキャンディでもなめるように、話をする間にも\r\n"
+      "shift": false,
+      "line": {
+        "text": "アイスキャンディでもなめるように、話をする間にも\r\n"
+      }
     },
     {
       "lineNumber": 947,
-      "line": "ぺろぺろと竿に舌を這わせている。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ぺろぺろと竿に舌を這わせている。\r\n"
+      }
     },
     {
       "lineNumber": 950,
-      "line": "@Talk name=智花 voice=TM030328\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030328"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 951,
-      "line": "「ねぇ、このペニス……射精しそうなくらい、ん、ん……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ねぇ、このペニス……射精しそうなくらい、ん、ん……\r\n"
+      }
     },
     {
       "lineNumber": 952,
-      "line": "　どきどきしてくれてる……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　どきどきしてくれてる……？」\r\n"
+      }
     },
     {
       "lineNumber": 955,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 956,
-      "line": "「あ、ああ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あ、ああ……」\r\n"
+      }
     },
     {
       "lineNumber": 961,
-      "line": "@Talk name=智花 voice=TM030329\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030329"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 962,
-      "line": "「んじゅぷっ……ん、んっ……本当に……？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅぷっ……ん、んっ……本当に……？」\r\n"
+      }
     },
     {
       "lineNumber": 965,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 966,
-      "line": "智花は再び口内にモノを導き、裏筋をねっとりと舌で\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は再び口内にモノを導き、裏筋をねっとりと舌で\r\n"
+      }
     },
     {
       "lineNumber": 967,
-      "line": "くすぐりはじめた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "くすぐりはじめた。\r\n"
+      }
     },
     {
       "lineNumber": 970,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 971,
-      "line": "「くっ……あぁっ、もう出そうなくらいだっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「くっ……あぁっ、もう出そうなくらいだっ……」\r\n"
+      }
     },
     {
       "lineNumber": 974,
-      "line": "@Talk name=智花 voice=TM030330\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030330"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 975,
-      "line": "「ぢゅっ……んんっ……そうなの……んちゅっ、私の口で、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ぢゅっ……んんっ……そうなの……んちゅっ、私の口で、\r\n"
+      }
     },
     {
       "lineNumber": 976,
-      "line": "　和哉が……気持ち良くなってるのね……れろっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　和哉が……気持ち良くなってるのね……れろっ」\r\n"
+      }
     },
     {
       "lineNumber": 981,
-      "line": "@Talk name=智花 voice=TM030331\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030331"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 982,
-      "line": "「はぁ……んちゅぅっ……恥ずかしいけど……ん、ん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はぁ……んちゅぅっ……恥ずかしいけど……ん、ん、\r\n"
+      }
     },
     {
       "lineNumber": 983,
-      "line": "　うれしい……ちゅぢゅっ、ペニス、私の口の中で、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　うれしい……ちゅぢゅっ、ペニス、私の口の中で、\r\n"
+      }
     },
     {
       "lineNumber": 984,
-      "line": "　こんなにびくびくしてぇ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　こんなにびくびくしてぇ……」\r\n"
+      }
     },
     {
       "lineNumber": 987,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 988,
-      "line": "智花はうっとりと目を細め、脈打つモノの根元を握って\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花はうっとりと目を細め、脈打つモノの根元を握って\r\n"
+      }
     },
     {
       "lineNumber": 989,
-      "line": "角度を変えながら、しっかりと口に含む。\r\n"
+      "shift": false,
+      "line": {
+        "text": "角度を変えながら、しっかりと口に含む。\r\n"
+      }
     },
     {
       "lineNumber": 994,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 995,
-      "line": "「くぁっ……智花……もう、俺……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「くぁっ……智花……もう、俺……！」\r\n"
+      }
     },
     {
       "lineNumber": 998,
-      "line": "@Talk name=智花 voice=TM030332\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030332"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 999,
-      "line": "「んちゅぅっ……んっ、はぁ……しゃせい……？\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んちゅぅっ……んっ、はぁ……しゃせい……？\r\n"
+      }
     },
     {
       "lineNumber": 1000,
-      "line": "　しゃせいしそうなの？　んちゅ、ちゅるる……っ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　しゃせいしそうなの？　んちゅ、ちゅるる……っ」\r\n"
+      }
     },
     {
       "lineNumber": 1003,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1004,
-      "line": "「ああ、智花の口、気持ち良すぎて……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああ、智花の口、気持ち良すぎて……」\r\n"
+      }
     },
     {
       "lineNumber": 1007,
-      "line": "@Talk name=智花 voice=TM030333\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030333"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1008,
-      "line": "「ぢゅぶっ……ん、んっ……や、やだぁ、はずかしいっ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ぢゅぶっ……ん、んっ……や、やだぁ、はずかしいっ……\r\n"
+      }
     },
     {
       "lineNumber": 1009,
-      "line": "　ん、んじゅるっ……はずかしいわよぉっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、んじゅるっ……はずかしいわよぉっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1012,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1013,
-      "line": "智花は突きだしたお尻を猫のようにもじもじと振った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は突きだしたお尻を猫のようにもじもじと振った。\r\n"
+      }
     },
     {
       "lineNumber": 1016,
-      "line": "@Talk name=智花 voice=TM030334\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030334"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1017,
-      "line": "「れも……んじゅぷっ……それにゃら、このまま、くちで\r\n"
+      "shift": false,
+      "line": {
+        "text": "「れも……んじゅぷっ……それにゃら、このまま、くちで\r\n"
+      }
     },
     {
       "lineNumber": 1018,
-      "line": "　じゅぷじゅぷ、してあげゆからぁっ……だして、んちゅ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅぷじゅぷ、してあげゆからぁっ……だして、んちゅ、\r\n"
+      }
     },
     {
       "lineNumber": 1019,
-      "line": "　しゃせーしてぇ……！！」\r\n"
-    },
-    {
-      "lineNumber": 1024,
-      "line": "\t@cg file=EC007d\t\r\n"
-    },
-    {
-      "lineNumber": 1028,
-      "line": "\t@cg file=EC007k\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "　しゃせーしてぇ……！！」\r\n"
+      }
     },
     {
       "lineNumber": 1032,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1033,
-      "line": "智花は浅いところでモノを咥えて亀頭をねぶったあと、\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は浅いところでモノを咥えて亀頭をねぶったあと、\r\n"
+      }
     },
     {
       "lineNumber": 1034,
-      "line": "頭を傾けて竿を口に入れた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "頭を傾けて竿を口に入れた。\r\n"
+      }
     },
     {
       "lineNumber": 1039,
-      "line": "@Talk name=智花 voice=TM030335\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030335"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1040,
-      "line": "「じゅぷぅぅっ……ん、ぢゅるっ、じゅぷっ……ちゅるっ\r\n"
+      "shift": false,
+      "line": {
+        "text": "「じゅぷぅぅっ……ん、ぢゅるっ、じゅぷっ……ちゅるっ\r\n"
+      }
     },
     {
       "lineNumber": 1041,
-      "line": "　じゅるぷ、ちゅる、んぢゅる……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　じゅるぷ、ちゅる、んぢゅる……」\r\n"
+      }
     },
     {
       "lineNumber": 1044,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1045,
-      "line": "「うあぁっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「うあぁっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1048,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1049,
-      "line": "溶けるように熱い感覚がモノを包み、強烈な快感が腰を\r\n"
+      "shift": false,
+      "line": {
+        "text": "溶けるように熱い感覚がモノを包み、強烈な快感が腰を\r\n"
+      }
     },
     {
       "lineNumber": 1050,
-      "line": "跳ねさせる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "跳ねさせる。\r\n"
+      }
     },
     {
       "lineNumber": 1053,
-      "line": "@Talk name=智花 voice=TM030336\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030336"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1054,
-      "line": "「んじゅっ、ちゅっ、ちゅぷ……ん、んれる……れろっ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅっ、ちゅっ、ちゅぷ……ん、んれる……れろっ」\r\n"
+      }
     },
     {
       "lineNumber": 1057,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1058,
-      "line": "口に入りきらない部分は、唾液を染みこませるかのような\r\n"
+      "shift": false,
+      "line": {
+        "text": "口に入りきらない部分は、唾液を染みこませるかのような\r\n"
+      }
     },
     {
       "lineNumber": 1059,
-      "line": "熱心さで扱いてくる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "熱心さで扱いてくる。\r\n"
+      }
     },
     {
       "lineNumber": 1062,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1063,
-      "line": "隙なく責めたてられて、モノはどんどん快感を\r\n"
+      "shift": false,
+      "line": {
+        "text": "隙なく責めたてられて、モノはどんどん快感を\r\n"
+      }
     },
     {
       "lineNumber": 1064,
-      "line": "強められていく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "強められていく。\r\n"
+      }
     },
     {
       "lineNumber": 1067,
-      "line": "@Talk name=智花 voice=TM030337\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030337"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1068,
-      "line": "「はぁ、はぷっ……ん、ん……ちゅぅっ、かじゅや、ん、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はぁ、はぷっ……ん、ん……ちゅぅっ、かじゅや、ん、\r\n"
+      }
     },
     {
       "lineNumber": 1069,
-      "line": "　らしてぇ……しゃせいしてよ……ん、んっはやく、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　らしてぇ……しゃせいしてよ……ん、んっはやく、\r\n"
+      }
     },
     {
       "lineNumber": 1070,
-      "line": "　はやくぅっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　はやくぅっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1073,
-      "line": "@Talk name=智花 voice=TM030338\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030338"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1074,
-      "line": "「そうじゃないと……んちゅ、ぢゅっ、私まで、どきどき\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そうじゃないと……んちゅ、ぢゅっ、私まで、どきどき\r\n"
+      }
     },
     {
       "lineNumber": 1075,
-      "line": "　してぇ……あたま、ぼーっとしてきちゃうからぁ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　してぇ……あたま、ぼーっとしてきちゃうからぁ……」\r\n"
+      }
     },
     {
       "lineNumber": 1078,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1079,
-      "line": "俺のモノを一気に高めようと、智花は頭を前後させて\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺のモノを一気に高めようと、智花は頭を前後させて\r\n"
+      }
     },
     {
       "lineNumber": 1080,
-      "line": "口内でモノを扱き始めた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "口内でモノを扱き始めた。\r\n"
+      }
     },
     {
       "lineNumber": 1083,
-      "line": "@Talk name=智花 voice=TM030339\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030339"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1084,
-      "line": "「んぷっ、ん、んじゅるっ……ちゅっちゅっ、ちゅれろ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぷっ、ん、んじゅるっ……ちゅっちゅっ、ちゅれろ、\r\n"
+      }
     },
     {
       "lineNumber": 1085,
-      "line": "　ん、んんんっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、んんんっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1088,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1089,
-      "line": "頬をすぼめたり、舌をうごめかせ、口内でも複雑な快感が\r\n"
+      "shift": false,
+      "line": {
+        "text": "頬をすぼめたり、舌をうごめかせ、口内でも複雑な快感が\r\n"
+      }
     },
     {
       "lineNumber": 1090,
-      "line": "与えられる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "与えられる。\r\n"
+      }
     },
     {
       "lineNumber": 1095,
-      "line": "@Talk name=智花 voice=TM030340\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030340"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1096,
-      "line": "「んじゅるっ、しゃせい、しゃせいして、かずやの\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅるっ、しゃせい、しゃせいして、かずやの\r\n"
+      }
     },
     {
       "lineNumber": 1097,
-      "line": "　せいえき、私にだして、んちゅっじゅるっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　せいえき、私にだして、んちゅっじゅるっ、\r\n"
+      }
     },
     {
       "lineNumber": 1098,
-      "line": "　どきどきしたってしょうこ、ちょうだいぃっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　どきどきしたってしょうこ、ちょうだいぃっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1101,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1102,
-      "line": "唾液を飛び散らせながら、智花がピストン運動の真似事を\r\n"
+      "shift": false,
+      "line": {
+        "text": "唾液を飛び散らせながら、智花がピストン運動の真似事を\r\n"
+      }
     },
     {
       "lineNumber": 1103,
-      "line": "する。\r\n"
+      "shift": false,
+      "line": {
+        "text": "する。\r\n"
+      }
     },
     {
       "lineNumber": 1106,
-      "line": "@Talk name=智花 voice=TM030341\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030341"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1107,
-      "line": "「ちゅ、ぢゅるっ、じゅぷっ、じゅっ、ちゅっ、ちゅぅっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ちゅ、ぢゅるっ、じゅぷっ、じゅっ、ちゅっ、ちゅぅっ、\r\n"
+      }
     },
     {
       "lineNumber": 1108,
-      "line": "　んちゅる、ぢゅちゅぅっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　んちゅる、ぢゅちゅぅっ！」\r\n"
+      }
     },
     {
       "lineNumber": 1111,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1112,
-      "line": "ぎこちない動きも、唾液のおかげでスムーズになってきて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "ぎこちない動きも、唾液のおかげでスムーズになってきて、\r\n"
+      }
     },
     {
       "lineNumber": 1113,
-      "line": "快感はうなぎ登りになった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "快感はうなぎ登りになった。\r\n"
+      }
     },
     {
       "lineNumber": 1116,
-      "line": "@Talk name=智花 voice=TM030342\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030342"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1117,
-      "line": "「じゅるるっ、んじゅっ、ちゅじゅちゅ、んっ、んんんっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「じゅるるっ、んじゅっ、ちゅじゅちゅ、んっ、んんんっ、\r\n"
+      }
     },
     {
       "lineNumber": 1118,
-      "line": "　ん、はぁ、じゅるちゅっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、はぁ、じゅるちゅっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1121,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1122,
-      "line": "滴る唾液と共に、先走り液を吸い上げられる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "滴る唾液と共に、先走り液を吸い上げられる。\r\n"
+      }
     },
     {
       "lineNumber": 1127,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1128,
-      "line": "「う、うあっ、智花、もう出るっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うあっ、智花、もう出るっ！」\r\n"
+      }
     },
     {
       "lineNumber": 1131,
-      "line": "@Talk name=智花 voice=TM030343\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030343"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1132,
-      "line": "「んじゅちゅ、ちゅっちゅぢゅるるっ、らして、んちゅ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んじゅちゅ、ちゅっちゅぢゅるるっ、らして、んちゅ、\r\n"
+      }
     },
     {
       "lineNumber": 1133,
-      "line": "　せーえき、このまま、んちゅ、ぢゅちゅっ、ちゅぅっ、\r\n"
+      "shift": false,
+      "line": {
+        "text": "　せーえき、このまま、んちゅ、ぢゅちゅっ、ちゅぅっ、\r\n"
+      }
     },
     {
       "lineNumber": 1134,
-      "line": "　このままわたしに、らしてぇっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　このままわたしに、らしてぇっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1139,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1140,
-      "line": "「う、うぅくっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うぅくっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1145,
-      "line": "@Talk name=智花 voice=TM030344\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030344"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1146,
-      "line": "「んちゅ、じゅっ、じゅるるっ、ちゅじゅるるるぅっ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んちゅ、じゅっ、じゅるるっ、ちゅじゅるるるぅっ！」\r\n"
+      }
     },
     {
       "lineNumber": 1151,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1152,
-      "line": "口内へ射精することを望んでいるのか、智花は思い切り\r\n"
+      "shift": false,
+      "line": {
+        "text": "口内へ射精することを望んでいるのか、智花は思い切り\r\n"
+      }
     },
     {
       "lineNumber": 1153,
-      "line": "喉奥までモノを咥えようとする。\r\n"
+      "shift": false,
+      "line": {
+        "text": "喉奥までモノを咥えようとする。\r\n"
+      }
     },
     {
       "lineNumber": 1158,
-      "line": "@Talk name=智花 voice=TM030345\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030345"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1159,
-      "line": "「じゅちゅ、ん、んちゅぅ、れるるぅぅっ、ん、んっ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「じゅちゅ、ん、んちゅぅ、れるるぅぅっ、ん、んっ！？」\r\n"
+      }
     },
     {
       "lineNumber": 1164,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1165,
-      "line": "俺はそんな智花の頭を支えつつ、モノを思い切り\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺はそんな智花の頭を支えつつ、モノを思い切り\r\n"
+      }
     },
     {
       "lineNumber": 1166,
-      "line": "引き抜こうとする。\r\n"
+      "shift": false,
+      "line": {
+        "text": "引き抜こうとする。\r\n"
+      }
     },
     {
       "lineNumber": 1171,
-      "line": "@Talk name=智花 voice=TM030346\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030346"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1172,
-      "line": "「んぷぁぁっ、ぢゅちゅっ、ぷはっ……か、かじゅや……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぷぁぁっ、ぢゅちゅっ、ぷはっ……か、かじゅや……\r\n"
+      }
     },
     {
       "lineNumber": 1173,
-      "line": "　ん、んぷぅっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ん、んぷぅっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1178,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1179,
-      "line": "口内の柔肉に擦られながら引き抜いていく間に、亀頭が\r\n"
+      "shift": false,
+      "line": {
+        "text": "口内の柔肉に擦られながら引き抜いていく間に、亀頭が\r\n"
+      }
     },
     {
       "lineNumber": 1180,
-      "line": "歯にあたり、ぐりっと刺激される。\r\n"
+      "shift": false,
+      "line": {
+        "text": "歯にあたり、ぐりっと刺激される。\r\n"
+      }
     },
     {
       "lineNumber": 1185,
-      "line": "@Talk name=智花 voice=TM030347\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030347"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1186,
-      "line": "「あふちゅ、ぢゅるっん、んぢゅっ……！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「あふちゅ、ぢゅるっん、んぢゅっ……！？」\r\n"
+      }
     },
     {
       "lineNumber": 1191,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1192,
-      "line": "「う、うくっ……！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「う、うくっ……！」\r\n"
+      }
     },
     {
       "lineNumber": 1197,
-      "line": "@Talk name=智花 voice=TM030348\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030348"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1198,
-      "line": "「ふぁ、ああぁっ……！？」\r\n"
-    },
-    {
-      "lineNumber": 1207,
-      "line": "\t@hide\r\n"
-    },
-    {
-      "lineNumber": 1208,
-      "line": "\t@flash color=white enter=100 leave=100\r\n"
-    },
-    {
-      "lineNumber": 1209,
-      "line": "\t@flash color=white enter=100 leave=100\r\n"
-    },
-    {
-      "lineNumber": 1210,
-      "line": "\t@whiteout time=1000 hitCancel\r\n"
-    },
-    {
-      "lineNumber": 1211,
-      "line": "\t@cg file=EC007f\t\r\n"
-    },
-    {
-      "lineNumber": 1212,
-      "line": "\t@update time=3000\r\n"
-    },
-    {
-      "lineNumber": 1216,
-      "line": "\t@hide\r\n"
-    },
-    {
-      "lineNumber": 1217,
-      "line": "\t@flash color=white enter=100 leave=100\r\n"
-    },
-    {
-      "lineNumber": 1218,
-      "line": "\t@flash color=white enter=100 leave=100\r\n"
-    },
-    {
-      "lineNumber": 1219,
-      "line": "\t@whiteout time=1000 hitCancel\r\n"
-    },
-    {
-      "lineNumber": 1220,
-      "line": "\t@cg file=EC007m\t\r\n"
-    },
-    {
-      "lineNumber": 1221,
-      "line": "\t@update time=3000\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ふぁ、ああぁっ……！？」\r\n"
+      }
     },
     {
       "lineNumber": 1226,
-      "line": "@Talk name=智花 voice=TM030349\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030349"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1227,
-      "line": "「ひゃぅっ、あっ、ふぁあああああああああっ！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ひゃぅっ、あっ、ふぁあああああああああっ！！」\r\n"
+      }
     },
     {
       "lineNumber": 1232,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1233,
-      "line": "俺は、唾液まみれの智花の顔に思い切り精を吐き出した。\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺は、唾液まみれの智花の顔に思い切り精を吐き出した。\r\n"
+      }
     },
     {
       "lineNumber": 1239,
-      "line": "@Talk name=智花 voice=TM030350\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030350"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1240,
-      "line": "「んぅ、あっ、あぁっ……熱いぃ……和哉の精液、熱くて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぅ、あっ、あぁっ……熱いぃ……和哉の精液、熱くて、\r\n"
+      }
     },
     {
       "lineNumber": 1241,
-      "line": "　溶かされちゃいそうぅっ……！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　溶かされちゃいそうぅっ……！！」\r\n"
+      }
     },
     {
       "lineNumber": 1244,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1245,
-      "line": "精液シャワーを受けながら、智花がぶるぶると身体を\r\n"
+      "shift": false,
+      "line": {
+        "text": "精液シャワーを受けながら、智花がぶるぶると身体を\r\n"
+      }
     },
     {
       "lineNumber": 1246,
-      "line": "震わせた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "震わせた。\r\n"
+      }
     },
     {
       "lineNumber": 1252,
-      "line": "@Talk name=智花 voice=TM030351\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030351"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1253,
-      "line": "「ああっ……和哉の匂い、和哉の、精液の匂いぃ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ああっ……和哉の匂い、和哉の、精液の匂いぃ……\r\n"
+      }
     },
     {
       "lineNumber": 1254,
-      "line": "　はぁん、んんっ……すごく濃くて、あぁっ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "　はぁん、んんっ……すごく濃くて、あぁっ……\r\n"
+      }
     },
     {
       "lineNumber": 1255,
-      "line": "　先走り液と、ぜんぜんちがう……っ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　先走り液と、ぜんぜんちがう……っ」\r\n"
+      }
     },
     {
       "lineNumber": 1261,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1262,
-      "line": "智花は精液を嫌がるどころか、顔を上向けて顔で受け止め\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は精液を嫌がるどころか、顔を上向けて顔で受け止め\r\n"
+      }
     },
     {
       "lineNumber": 1263,
-      "line": "続けている。\r\n"
-    },
-    {
-      "lineNumber": 1268,
-      "line": "\t@cg file=EC007fL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 1272,
-      "line": "\t@cg file=EC007mL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "続けている。\r\n"
+      }
     },
     {
       "lineNumber": 1278,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1279,
-      "line": "\tメガネのレンズに精液が垂れ、ねばねばと糸を引く。\r\n"
-    },
-    {
-      "lineNumber": 1280,
-      "line": "\t@Hitret id=29542\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1287,
-      "line": "@Talk name=智花 voice=TM030352\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030352"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1288,
-      "line": "「はぁ、あぁっ、ぁぁぁ……射精、すごい……こんなに、\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はぁ、あぁっ、ぁぁぁ……射精、すごい……こんなに、\r\n"
+      }
     },
     {
       "lineNumber": 1289,
-      "line": "　たくさん……勢いも、強くて……はぁ、あぁっ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　たくさん……勢いも、強くて……はぁ、あぁっ……」\r\n"
+      }
     },
     {
       "lineNumber": 1292,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1293,
-      "line": "俺の射精に身もだえる智花の姿に興奮して、なかなか\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺の射精に身もだえる智花の姿に興奮して、なかなか\r\n"
+      }
     },
     {
       "lineNumber": 1294,
-      "line": "収まらなかった射精は、ゆっくりと収束していった。\r\n"
-    },
-    {
-      "lineNumber": 1299,
-      "line": "\t@cg file=EC007gL pos=60,0,0\t\r\n"
-    },
-    {
-      "lineNumber": 1303,
-      "line": "\t@cg file=EC007nL pos=60,0,0\t\r\n"
+      "shift": false,
+      "line": {
+        "text": "収まらなかった射精は、ゆっくりと収束していった。\r\n"
+      }
     },
     {
       "lineNumber": 1307,
-      "line": "@Talk name=智花 voice=TM030353\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030353"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1308,
-      "line": "「はぁ、はぁ……精液、出し過ぎよぉ……顔、どろどろに\r\n"
+      "shift": false,
+      "line": {
+        "text": "「はぁ、はぁ……精液、出し過ぎよぉ……顔、どろどろに\r\n"
+      }
     },
     {
       "lineNumber": 1309,
-      "line": "　なっちゃった……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　なっちゃった……」\r\n"
+      }
     },
     {
       "lineNumber": 1312,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1313,
-      "line": "「ご……ごめん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「ご……ごめん」\r\n"
+      }
     },
     {
       "lineNumber": 1316,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1317,
-      "line": "智花の髪の毛や顔に精液がべったりと垂れ、あごへと\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の髪の毛や顔に精液がべったりと垂れ、あごへと\r\n"
+      }
     },
     {
       "lineNumber": 1318,
-      "line": "滴っていく。\r\n"
+      "shift": false,
+      "line": {
+        "text": "滴っていく。\r\n"
+      }
     },
     {
       "lineNumber": 1321,
-      "line": "@Talk name=智花 voice=TM030354\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030354"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1322,
-      "line": "「もう……口の中にって、言ったのに、どうして顔に\r\n"
+      "shift": false,
+      "line": {
+        "text": "「もう……口の中にって、言ったのに、どうして顔に\r\n"
+      }
     },
     {
       "lineNumber": 1323,
-      "line": "　かけるのよぉ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　かけるのよぉ……」\r\n"
+      }
     },
     {
       "lineNumber": 1326,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1327,
-      "line": "智花は頬を拭い、精液が絡まった指先を名残惜しそうに\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は頬を拭い、精液が絡まった指先を名残惜しそうに\r\n"
+      }
     },
     {
       "lineNumber": 1328,
-      "line": "ぺろりと舐めた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "ぺろりと舐めた。\r\n"
+      }
     },
     {
       "lineNumber": 1331,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1332,
-      "line": "「そ……それは……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そ……それは……」\r\n"
+      }
     },
     {
       "lineNumber": 1337,
-      "line": "\t@Talk name=智花 voice=TM030355\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030355"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1338,
-      "line": "\t「……メガネにかけたかったとか言うつもりじゃない\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1339,
-      "line": "\t　でしょうね？」\r\n"
-    },
-    {
-      "lineNumber": 1340,
-      "line": "\t@Hitret id=29551\r\n"
-    },
-    {
-      "lineNumber": 1342,
-      "line": "\t@PlaySe file=SE201\t\r\n"
-    },
-    {
-      "lineNumber": 1343,
-      "line": "\t@action id=メッセージ action=ActionShock width=50 height=50 cycle=200\r\n"
-    },
-    {
-      "lineNumber": 1344,
-      "line": "\t@font face=39\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1346,
-      "line": "\t@Talk name=和哉\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1347,
-      "line": "\t「うっ」\r\n"
-    },
-    {
-      "lineNumber": 1348,
-      "line": "\t@Hitret id=29552\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1350,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1351,
-      "line": "\t最中に考えていたのは、さすがに精液を飲ませるような\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1352,
-      "line": "\t真似はできないということだったはずだが……\r\n"
-    },
-    {
-      "lineNumber": 1353,
-      "line": "\t@Hitret id=29553\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1355,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1356,
-      "line": "\t今の智花の姿を見ていると、本当はメガネを汚して\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1357,
-      "line": "\tみたかったんじゃないかという気がしてくる。\r\n"
-    },
-    {
-      "lineNumber": 1358,
-      "line": "\t@Hitret id=29554\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1360,
-      "line": "\t@Talk name=智花 voice=TM030356\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030356"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1361,
-      "line": "\t「やっぱり、変態っぽいわ……」\r\n"
-    },
-    {
-      "lineNumber": 1362,
-      "line": "\t@Hitret id=29555\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1364,
-      "line": "\t@Talk name=和哉\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1365,
-      "line": "\t「す、すみません……」\r\n"
-    },
-    {
-      "lineNumber": 1366,
-      "line": "\t@Hitret id=29556\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1368,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1369,
-      "line": "\t素直に謝ると、智花はくすっと微笑を漏らした。\r\n"
-    },
-    {
-      "lineNumber": 1370,
-      "line": "\t@Hitret id=29557\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1372,
-      "line": "\t@Talk name=智花 voice=TM030357\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030357"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1373,
-      "line": "\t「くす……和哉が、メガネが好きって言うなら、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1374,
-      "line": "\t　これからもなるべくかけるようにしようかしら」\r\n"
-    },
-    {
-      "lineNumber": 1375,
-      "line": "\t@Hitret id=29558\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1377,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1378,
-      "line": "\t智花はメガネのレンズを指でごしごしと拭った。\r\n"
-    },
-    {
-      "lineNumber": 1379,
-      "line": "\t@Hitret id=29559\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1381,
-      "line": "\t@Talk name=智花 voice=TM030358\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030358"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1382,
-      "line": "\t「あっ……でも、このメガネ……かけるたびに、\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1383,
-      "line": "\t　今日のこと思い出しちゃうかも……」\r\n"
-    },
-    {
-      "lineNumber": 1384,
-      "line": "\t@Hitret id=29560\r\n"
-    },
-    {
-      "lineNumber": 1386,
-      "line": "\t@action id=カメラ action=ActionShock width=20 height=20 cycle=500\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1388,
-      "line": "\t@Talk name=智花 voice=TM030359\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030359"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1389,
-      "line": "\t「って……な、なに言わせるのよ、ばかっ！？」\r\n"
-    },
-    {
-      "lineNumber": 1390,
-      "line": "\t@Hitret id=29561\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1392,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1393,
-      "line": "\t智花ががばっと起き上がり、真っ赤な顔で叫ぶ。\r\n"
-    },
-    {
-      "lineNumber": 1394,
-      "line": "\t@Hitret id=29562\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1396,
-      "line": "\t@Talk name=和哉\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1397,
-      "line": "\t「お、俺はなにも言ってないぞ！？」\r\n"
-    },
-    {
-      "lineNumber": 1398,
-      "line": "\t@Hitret id=29563\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1400,
-      "line": "\t@Talk name=智花 voice=TM030360\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030360"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1401,
-      "line": "\t「か、和哉がメガネに興奮したりするから\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1402,
-      "line": "\t　こんなことになったのよ、もう、ば、ばかっ！」\r\n"
-    },
-    {
-      "lineNumber": 1403,
-      "line": "\t@Hitret id=29564\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1405,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1406,
-      "line": "\tあまりにも理不尽すぎるもの言いだが、事実とあっては\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1407,
-      "line": "\t返す言葉が見つからない。\r\n"
-    },
-    {
-      "lineNumber": 1408,
-      "line": "\t@Hitret id=29565\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1412,
-      "line": "\t@Talk name=智花 voice=TM030361\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030361"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1413,
-      "line": "\t「和哉って、精液、顔にかける方が興奮するの……？」\r\n"
-    },
-    {
-      "lineNumber": 1414,
-      "line": "\t@Hitret id=29566\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1416,
-      "line": "\t@Talk name=和哉\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1417,
-      "line": "\t「い、いや、そういうことでもないけど……」\r\n"
-    },
-    {
-      "lineNumber": 1418,
-      "line": "\t@Hitret id=29567\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1420,
-      "line": "\t@Talk name=智花 voice=TM030362\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030362"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1421,
-      "line": "\t「もし、そうならちょっと変態っぽいかも？」\r\n"
-    },
-    {
-      "lineNumber": 1422,
-      "line": "\t@Hitret id=29568\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1424,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1425,
-      "line": "\tそう言って、智花はくすっと微笑を漏らした。\r\n"
-    },
-    {
-      "lineNumber": 1426,
-      "line": "\t@Hitret id=29569\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1428,
-      "line": "\t@Talk name=智花 voice=TM030363\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030363"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1429,
-      "line": "\t「でも、せっかくの、和哉の精液だったんだから……\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1430,
-      "line": "\t　ちゃんと全部、もらいたかったのにな……」\r\n"
-    },
-    {
-      "lineNumber": 1431,
-      "line": "\t@Hitret id=29570\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1433,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1434,
-      "line": "\t智花はもじもじと言葉尻を誤魔化して、顔を垂れていく\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1435,
-      "line": "\t精液を舐め取った。\r\n"
-    },
-    {
-      "lineNumber": 1436,
-      "line": "\t@Hitret id=29571\r\n"
-    },
-    {
-      "lineNumber": 1442,
-      "line": "\t@cg file=EC007g\t\r\n"
-    },
-    {
-      "lineNumber": 1446,
-      "line": "\t@cg file=EC007n\t\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1450,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1451,
-      "line": "「と……とりあえず、片付けないとな」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「と……とりあえず、片付けないとな」\r\n"
+      }
     },
     {
       "lineNumber": 1454,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1455,
-      "line": "俺は部屋に置いてあったティッシュ箱を引き寄せて、\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺は部屋に置いてあったティッシュ箱を引き寄せて、\r\n"
+      }
     },
     {
       "lineNumber": 1456,
-      "line": "智花に手渡した。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花に手渡した。\r\n"
+      }
     },
     {
       "lineNumber": 1459,
-      "line": "@Talk name=智花 voice=TM030364\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030364"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1460,
-      "line": "「い、いいわよ、拭かなくても……その、舐めて綺麗に\r\n"
+      "shift": false,
+      "line": {
+        "text": "「い、いいわよ、拭かなくても……その、舐めて綺麗に\r\n"
+      }
     },
     {
       "lineNumber": 1461,
-      "line": "　するから」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　するから」\r\n"
+      }
     },
     {
       "lineNumber": 1464,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1465,
-      "line": "「犬猫じゃないんだから、変なこと言うなよ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「犬猫じゃないんだから、変なこと言うなよ」\r\n"
+      }
     },
     {
       "lineNumber": 1468,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1469,
-      "line": "俺は仕方なく、テッシュを何枚か抜き取って智花の顔を\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺は仕方なく、テッシュを何枚か抜き取って智花の顔を\r\n"
+      }
     },
     {
       "lineNumber": 1470,
-      "line": "拭った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "拭った。\r\n"
+      }
     },
     {
       "lineNumber": 1479,
-      "line": "@Talk name=智花 voice=TM030365\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030365"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1480,
-      "line": "「んぅっ……あぁ……もう、和哉の精液……興奮した証拠\r\n"
+      "shift": false,
+      "line": {
+        "text": "「んぅっ……あぁ……もう、和哉の精液……興奮した証拠\r\n"
+      }
     },
     {
       "lineNumber": 1481,
-      "line": "　だったのに……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　だったのに……」\r\n"
+      }
     },
     {
       "lineNumber": 1486,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1487,
-      "line": "\t完全に綺麗になっていないメガネを外しながら智花が言う。\r\n"
-    },
-    {
-      "lineNumber": 1488,
-      "line": "\t@Hitret id=29578\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1490,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1491,
-      "line": "\tその言葉に、射精したばかりの心がきりきりと痛んだ。\r\n"
-    },
-    {
-      "lineNumber": 1492,
-      "line": "\t@Hitret id=29579\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1496,
-      "line": "\t@Talk name=心の声\r\n"
+      "shift": true,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1497,
-      "line": "\t智花の言葉に、射精したばかりの心がきりきりと痛んだ。\r\n"
-    },
-    {
-      "lineNumber": 1498,
-      "line": "\t@Hitret id=29580\r\n"
+      "shift": true,
+      "line": {
+        "text": "\t"
+      }
     },
     {
       "lineNumber": 1502,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1503,
-      "line": "「その……ご、ごめん」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「その……ご、ごめん」\r\n"
+      }
     },
     {
       "lineNumber": 1509,
-      "line": "@Talk name=智花 voice=TM030366\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030366"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1510,
-      "line": "「どうして謝るの？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「どうして謝るの？」\r\n"
+      }
     },
     {
       "lineNumber": 1513,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1514,
-      "line": "「だから、その……双子だからって言っておいて、智花に\r\n"
+      "shift": false,
+      "line": {
+        "text": "「だから、その……双子だからって言っておいて、智花に\r\n"
+      }
     },
     {
       "lineNumber": 1515,
-      "line": "　こんなことをさせて……俺が止めないといけなかった」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　こんなことをさせて……俺が止めないといけなかった」\r\n"
+      }
     },
     {
       "lineNumber": 1520,
-      "line": "@Talk name=智花 voice=TM030367\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030367"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1521,
-      "line": "「別にさせられたわけじゃないでしょう？　わ、私は\r\n"
+      "shift": false,
+      "line": {
+        "text": "「別にさせられたわけじゃないでしょう？　わ、私は\r\n"
+      }
     },
     {
       "lineNumber": 1522,
-      "line": "　嫌だったわけじゃないし……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　嫌だったわけじゃないし……」\r\n"
+      }
     },
     {
       "lineNumber": 1527,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1528,
-      "line": "「でも、こういうことをする相手は俺じゃだめだろう……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「でも、こういうことをする相手は俺じゃだめだろう……\r\n"
+      }
     },
     {
       "lineNumber": 1529,
-      "line": "　ちゃんと相手を選ぶべきことだ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　ちゃんと相手を選ぶべきことだ」\r\n"
+      }
     },
     {
       "lineNumber": 1535,
-      "line": "@Talk name=智花 voice=TM030368\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030368"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1536,
-      "line": "「…………っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「…………っ！」\r\n"
+      }
     },
     {
       "lineNumber": 1539,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1540,
-      "line": "俺の言葉に、智花はさっと顔色を変えた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "俺の言葉に、智花はさっと顔色を変えた。\r\n"
+      }
     },
     {
       "lineNumber": 1543,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1544,
-      "line": "悲しさが浮かんだかと思うと、瞬く間に怒りが\r\n"
+      "shift": false,
+      "line": {
+        "text": "悲しさが浮かんだかと思うと、瞬く間に怒りが\r\n"
+      }
     },
     {
       "lineNumber": 1545,
-      "line": "上書きされる。\r\n"
+      "shift": false,
+      "line": {
+        "text": "上書きされる。\r\n"
+      }
     },
     {
       "lineNumber": 1552,
-      "line": "@Talk name=智花 voice=TM030369\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030369"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1553,
-      "line": "「わ、私が……手近な相手だからって\r\n"
+      "shift": false,
+      "line": {
+        "text": "「わ、私が……手近な相手だからって\r\n"
+      }
     },
     {
       "lineNumber": 1554,
-      "line": "　こんなことをしたと思ってるわけ！？」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　こんなことをしたと思ってるわけ！？」\r\n"
+      }
     },
     {
       "lineNumber": 1557,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1558,
-      "line": "「そういう意味じゃないけど、俺たちは双子なんだぞ」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そういう意味じゃないけど、俺たちは双子なんだぞ」\r\n"
+      }
     },
     {
       "lineNumber": 1565,
-      "line": "@Talk name=智花 voice=TM030370\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030370"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1566,
-      "line": "「そんなの、もう聞き飽きたわっ！！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「そんなの、もう聞き飽きたわっ！！」\r\n"
+      }
     },
     {
       "lineNumber": 1574,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1575,
-      "line": "「……っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「……っ！」\r\n"
+      }
     },
     {
       "lineNumber": 1578,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1579,
-      "line": "智花の手が振り上げられ、頬に鋭い痛みが走った。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花の手が振り上げられ、頬に鋭い痛みが走った。\r\n"
+      }
     },
     {
       "lineNumber": 1585,
-      "line": "@Talk name=智花 voice=TM030371\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030371"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1586,
-      "line": "「和哉と双子だなんてことは、言われなくても分かってる\r\n"
+      "shift": false,
+      "line": {
+        "text": "「和哉と双子だなんてことは、言われなくても分かってる\r\n"
+      }
     },
     {
       "lineNumber": 1587,
-      "line": "　わよ……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　わよ……」\r\n"
+      }
     },
     {
       "lineNumber": 1593,
-      "line": "@Talk name=智花 voice=TM030372\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030372"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1594,
-      "line": "「鏡を見るたびに、和哉のことを思い出すのよ……\r\n"
+      "shift": false,
+      "line": {
+        "text": "「鏡を見るたびに、和哉のことを思い出すのよ……\r\n"
+      }
     },
     {
       "lineNumber": 1595,
-      "line": "　それくらい、近しい存在なんだって、ちゃんと\r\n"
+      "shift": false,
+      "line": {
+        "text": "　それくらい、近しい存在なんだって、ちゃんと\r\n"
+      }
     },
     {
       "lineNumber": 1596,
-      "line": "　分かってる……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "　分かってる……」\r\n"
+      }
     },
     {
       "lineNumber": 1602,
-      "line": "@Talk name=智花 voice=TM030373\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "voice",
+            "value": "TM030373"
+          },
+          {
+            "key": "name",
+            "value": "智花"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1603,
-      "line": "「でも……」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「でも……」\r\n"
+      }
     },
     {
       "lineNumber": 1608,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1609,
-      "line": "智花は俯くと、ぱっと踵を返した。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は俯くと、ぱっと踵を返した。\r\n"
+      }
     },
     {
       "lineNumber": 1614,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1615,
-      "line": "「お、おい、智花っ！」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「お、おい、智花っ！」\r\n"
+      }
     },
     {
       "lineNumber": 1621,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1622,
-      "line": "智花は俺の呼びかけに答えず、部屋を出て行ってしまった。\r\n"
+      "shift": false,
+      "line": {
+        "text": "智花は俺の呼びかけに答えず、部屋を出て行ってしまった。\r\n"
+      }
     },
     {
       "lineNumber": 1625,
-      "line": "@Talk name=和哉\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "和哉"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1626,
-      "line": "「………………」\r\n"
+      "shift": false,
+      "line": {
+        "text": "「………………」\r\n"
+      }
     },
     {
       "lineNumber": 1631,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1632,
-      "line": "去り際の智花の瞳からは、涙が零れていた。\r\n"
+      "shift": false,
+      "line": {
+        "text": "去り際の智花の瞳からは、涙が零れていた。\r\n"
+      }
     },
     {
       "lineNumber": 1635,
-      "line": "@Talk name=心の声\r\n"
+      "shift": false,
+      "line": {
+        "type": "Talk",
+        "values": [
+          {
+            "key": "name",
+            "value": "心の声"
+          }
+        ]
+      }
     },
     {
       "lineNumber": 1636,
-      "line": "その光景の鮮烈さに、俺はしばらく身動きすることすら\r\n"
+      "shift": false,
+      "line": {
+        "text": "その光景の鮮烈さに、俺はしばらく身動きすることすら\r\n"
+      }
     },
     {
       "lineNumber": 1637,
-      "line": "できなかったのだった。\r\n"
-    },
-    {
-      "lineNumber": 1648,
-      "line": "\t@eyecatch bg=BG004c char=CC08012L\r\n"
-    },
-    {
-      "lineNumber": 1653,
-      "line": "\t@eyecatch bg=BG004c char=CC02012L\r\n"
+      "shift": false,
+      "line": {
+        "text": "できなかったのだった。\r\n"
+      }
     }
   ]
 }
