@@ -1,1013 +1,517 @@
 {
-  "name": "w06_z07_04.ks",
-  "lines": [
-    {
-      "lineNumber": 10,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK060102"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 11,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「えっとね、それじゃあ、ドリンクの次はね——」\r\n"
-      }
-    },
-    {
-      "lineNumber": 14,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 15,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんの視線が店内をさまよい、最後に\r\n"
-      }
-    },
-    {
-      "lineNumber": 16,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "カウンターへと向けられた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 23,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "智花"
-          },
-          {
-            "key": "voice",
-            "value": "TM060068"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 24,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ……！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 29,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 30,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺が店内に入ってからほとんど話していなかった智花が、\r\n"
-      }
-    },
-    {
-      "lineNumber": 31,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "びくっと身体を震わせる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 36,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS060130"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 37,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「智花ちゃん、ご主人さまに、最初におちんちんを挿れて\r\n"
-      }
-    },
-    {
-      "lineNumber": 38,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　もらえるようにお願いしておかなくて、本当に大丈夫\r\n"
-      }
-    },
-    {
-      "lineNumber": 39,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　なの？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 45,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "智花"
-          },
-          {
-            "key": "voice",
-            "value": "TM060069"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 46,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あ、あ、わ、わわ、私は…………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 49,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 50,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「えっと……どういうことだ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 56,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "絵麻"
-          },
-          {
-            "key": "voice",
-            "value": "EM060095"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 57,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「メインディッシュをだれにするか、ご主人さまに決めて\r\n"
-      }
-    },
-    {
-      "lineNumber": 58,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　もらおうと思っている、のです」\r\n"
-      }
-    },
-    {
-      "lineNumber": 64,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "弥恵"
-          },
-          {
-            "key": "voice",
-            "value": "YE060105"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 65,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「だ、だからね、平等にアピールしようって言っていたん\r\n"
-      }
-    },
-    {
-      "lineNumber": 66,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　だけど、智花姉さんは遠慮しちゃって……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 73,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "智花"
-          },
-          {
-            "key": "voice",
-            "value": "TM060070"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 74,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そ、そうよ、私は別に、か、和哉と、その……\r\n"
-      }
-    },
-    {
-      "lineNumber": 75,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　せ、せっ、セックスする、なんて、その……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 81,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "智花"
-          },
-          {
-            "key": "voice",
-            "value": "TM060071"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 82,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「た、確かに誰かに取られたくはないけれど……でも、\r\n"
-      }
-    },
-    {
-      "lineNumber": 83,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　や、やっぱり初めては、雰囲気も……じゃなくて、\r\n"
-      }
-    },
-    {
-      "lineNumber": 84,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　ええと、だからっ……！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 87,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 88,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "智花は顔を真っ赤にしたまま、あわあわと聞き取り辛い\r\n"
-      }
-    },
-    {
-      "lineNumber": 89,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "声で何事かをまくしたてる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 95,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "智花"
-          },
-          {
-            "key": "voice",
-            "value": "TM060072"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 96,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「くっ……とにかく、私はいいの、みんなで勝手に進めて\r\n"
-      }
-    },
-    {
-      "lineNumber": 97,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　いればいいじゃないっ！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 103,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 104,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ、智花！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 110,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 111,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "智花は真っ赤な顔のままそう叫ぶと、踵を返して厨房へと\r\n"
-      }
-    },
-    {
-      "lineNumber": 112,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "入って行った。\r\n"
-      }
-    },
-    {
-      "lineNumber": 115,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 116,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "階段を駆け登っていく音が続いて、智花が居住スペース\r\n"
-      }
-    },
-    {
-      "lineNumber": 117,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "へと駆けて行ったことを教えてくれた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 122,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "弥恵"
-          },
-          {
-            "key": "voice",
-            "value": "YE060106"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 123,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「智花姉さん……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 130,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS060131"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 131,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「うぅん……この作戦は失敗ね……シチュエーションを\r\n"
-      }
-    },
-    {
-      "lineNumber": 132,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　整えればあるいは……って、半分以上智花ちゃんの\r\n"
-      }
-    },
-    {
-      "lineNumber": 133,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　ためだったのだけれど」\r\n"
-      }
-    },
-    {
-      "lineNumber": 136,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 137,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「え？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 143,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS060132"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 144,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ああ、いいえ、こっちのお話よ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 149,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK060103"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 150,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ともがいないけど、どーするの？　ほんとに五人で、\r\n"
-      }
-    },
-    {
-      "lineNumber": 151,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　つづきしちゃう？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 156,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "絵麻"
-          },
-          {
-            "key": "voice",
-            "value": "EM060096"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 157,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「でも、ともかお姉ちゃんが素直じゃないことは、\r\n"
-      }
-    },
-    {
-      "lineNumber": 158,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　えまたち、分かっていますよ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 164,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS060133"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 165,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ええ、そうね……やっぱり一番最初は肝心だから、\r\n"
-      }
-    },
-    {
-      "lineNumber": 166,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　なるべく納得のいく形で進めたいわよね」\r\n"
-      }
-    },
-    {
-      "lineNumber": 172,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK060104"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 173,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「じゃあ、お預け？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 179,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "弥恵"
-          },
-          {
-            "key": "voice",
-            "value": "YE060107"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 180,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「う、うん、仕方無いよね……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 183,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 184,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "どうやら四人の間で、結論がまとまったらしい。\r\n"
-      }
-    },
-    {
-      "lineNumber": 190,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS060134"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 191,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「お片付けをしたら、私たちもお家に戻って、お夕飯を\r\n"
-      }
-    },
-    {
-      "lineNumber": 192,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　食べましょうか」\r\n"
-      }
-    },
-    {
-      "lineNumber": 198,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK060105"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 199,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そーだねっ！　カズくんの手料理、楽しみだな〜っ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 205,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "絵麻"
-          },
-          {
-            "key": "voice",
-            "value": "EM060097"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 206,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「今日のメニュー、なんですか、お兄ちゃん？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 209,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 210,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「え、あ、ああ、カレーだよ、注文通り」\r\n"
-      }
-    },
-    {
-      "lineNumber": 215,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "弥恵"
-          },
-          {
-            "key": "voice",
-            "value": "YE060108"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 216,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ありがとう、兄さん……なにか残っている作業が\r\n"
-      }
-    },
-    {
-      "lineNumber": 217,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　あったら手伝うよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 220,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 221,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "こっちが戸惑ってしまうくらい、みんな普通に戻っていた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 227,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 228,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "ただ、智花へのもやもやとした感情が、俺の中で\r\n"
-      }
-    },
-    {
-      "lineNumber": 229,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "くすぶり続けてはいたが……\r\n"
-      }
-    },
-    {
-      "lineNumber": 232,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 233,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "その日、思い考える以上のことは、俺にはなにも\r\n"
-      }
-    },
-    {
-      "lineNumber": 234,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "できなかったのだった。\r\n"
-      }
-    }
-  ]
+    "name": "w06_z07_04.ks",
+    "lines": [
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK060102"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 10
+        },
+        {
+            "line": {
+                "text": "「えっとね、それじゃあ、ドリンクの次はね——」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 11
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 14
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんの視線が店内をさまよい、最後に\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 15
+        },
+        {
+            "line": {
+                "text": "カウンターへと向けられた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 16
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "智花"
+                    },
+                    {
+                        "voice": "TM060068"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 23
+        },
+        {
+            "line": {
+                "text": "「あっ……！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 24
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 29
+        },
+        {
+            "line": {
+                "text": "俺が店内に入ってからほとんど話していなかった智花が、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 30
+        },
+        {
+            "line": {
+                "text": "びくっと身体を震わせる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 31
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS060130"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 36
+        },
+        {
+            "line": {
+                "text": "「智花ちゃん、ご主人さまに、最初におちんちんを挿れて\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 37
+        },
+        {
+            "line": {
+                "text": "　もらえるようにお願いしておかなくて、本当に大丈夫\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 38
+        },
+        {
+            "line": {
+                "text": "　なの？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 39
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "智花"
+                    },
+                    {
+                        "voice": "TM060069"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 45
+        },
+        {
+            "line": {
+                "text": "「あ、あ、わ、わわ、私は…………」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 46
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 49
+        },
+        {
+            "line": {
+                "text": "「えっと……どういうことだ？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 50
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "絵麻"
+                    },
+                    {
+                        "voice": "EM060095"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 56
+        },
+        {
+            "line": {
+                "text": "「メインディッシュをだれにするか、ご主人さまに決めて\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 57
+        },
+        {
+            "line": {
+                "text": "　もらおうと思っている、のです」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 58
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "弥恵"
+                    },
+                    {
+                        "voice": "YE060105"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 64
+        },
+        {
+            "line": {
+                "text": "「だ、だからね、平等にアピールしようって言っていたん\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 65
+        },
+        {
+            "line": {
+                "text": "　だけど、智花姉さんは遠慮しちゃって……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 66
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "智花"
+                    },
+                    {
+                        "voice": "TM060070"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 73
+        },
+        {
+            "line": {
+                "text": "「そ、そうよ、私は別に、か、和哉と、その……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 74
+        },
+        {
+            "line": {
+                "text": "　せ、せっ、セックスする、なんて、その……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 75
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "智花"
+                    },
+                    {
+                        "voice": "TM060071"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 81
+        },
+        {
+            "line": {
+                "text": "「た、確かに誰かに取られたくはないけれど……でも、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 82
+        },
+        {
+            "line": {
+                "text": "　や、やっぱり初めては、雰囲気も……じゃなくて、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 83
+        },
+        {
+            "line": {
+                "text": "　ええと、だからっ……！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 84
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 87
+        },
+        {
+            "line": {
+                "text": "智花は顔を真っ赤にしたまま、あわあわと聞き取り辛い\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 88
+        },
+        {
+            "line": {
+                "text": "声で何事かをまくしたてる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 89
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "智花"
+                    },
+                    {
+                        "voice": "TM060072"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 95
+        },
+        {
+            "line": {
+                "text": "「くっ……とにかく、私はいいの、みんなで勝手に進めて\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 96
+        },
+        {
+            "line": {
+                "text": "　いればいいじゃないっ！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 97
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 103
+        },
+        {
+            "line": {
+                "text": "「あっ、智花！？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 104
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 110
+        },
+        {
+            "line": {
+                "text": "智花は真っ赤な顔のままそう叫ぶと、踵を返して厨房へと\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 111
+        },
+        {
+            "line": {
+                "text": "入って行った。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 112
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 115
+        },
+        {
+            "line": {
+                "text": "階段を駆け登っていく音が続いて、智花が居住スペース\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 116
+        },
+        {
+            "line": {
+                "text": "へと駆けて行ったことを教えてくれた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 117
+        }
+    ]
 }

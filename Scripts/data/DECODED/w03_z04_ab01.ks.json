@@ -1,6001 +1,3063 @@
 {
-  "name": "w03_z04_ab01.ks",
-  "lines": [
-    {
-      "lineNumber": 16,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000614"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 17,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「かずちゃん、もう少しこっち側に寄らないと、野球部の\r\n"
-      }
-    },
-    {
-      "lineNumber": 18,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　ボールが飛んできてしまうかもしれないわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 24,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000542"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 25,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「カズくん、そっちに寄ると、サッカーゴールにぶつかる\r\n"
-      }
-    },
-    {
-      "lineNumber": 26,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　よーっ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 38,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 39,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「わかっ、分かったからっ、ひっ、引っ張らないでくれ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 42,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 43,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "生徒会の用事が早く済んだので、今日はいずみ姉さんと\r\n"
-      }
-    },
-    {
-      "lineNumber": 44,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんとの三人で帰ることにした──\r\n"
-      }
-    },
-    {
-      "lineNumber": 50,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 51,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "……のだけど……\r\n"
-      }
-    },
-    {
-      "lineNumber": 56,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000615"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 57,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「みことちゃん、少し離れてくれるかしら？\r\n"
-      }
-    },
-    {
-      "lineNumber": 58,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　かずちゃんが困っているでしょう」\r\n"
-      }
-    },
-    {
-      "lineNumber": 64,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000543"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 65,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いずみこそ、カズくんの手、はなしてよー！\r\n"
-      }
-    },
-    {
-      "lineNumber": 66,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　カズくんのこつばんがゆがんじゃうぅー！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 71,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000616"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 72,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あなたじゃないのだから、私がそんなに力いっぱい\r\n"
-      }
-    },
-    {
-      "lineNumber": 73,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　引っ張るはずないじゃない」\r\n"
-      }
-    },
-    {
-      "lineNumber": 79,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000544"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 80,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「むぅぅ〜〜〜〜！　言ったなぁ〜〜〜〜！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 85,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 86,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "こうして、両腕を姉さんたちにとられているので\r\n"
-      }
-    },
-    {
-      "lineNumber": 87,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "かなり歩きづらい。\r\n"
-      }
-    },
-    {
-      "lineNumber": 93,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000617"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 94,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そうだわ、今日は商店街に寄っていってもいいかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 97,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 98,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「もちろんいいけど……なんか用事とか？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 104,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000545"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 105,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「せいとかいちょーが買い食い？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 110,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000618"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 111,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「みことちゃん、黙って」\r\n"
-      }
-    },
-    {
-      "lineNumber": 117,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000619"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 118,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「せっかくかずちゃんと一緒に帰れるのだから、たまには\r\n"
-      }
-    },
-    {
-      "lineNumber": 119,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　遠回りをして帰りたいじゃない？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 126,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 127,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "そう言って、ぎゅっと身体を寄せてくる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 130,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 131,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ううっ……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 143,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 144,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "腕に、いずみ姉さんの豊満な胸が押しつけられる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 149,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000546"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 150,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「それなら、あたしも遠回りさんせー！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 157,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000547"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 158,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ねぇねぇ、カズくん、ドーナツ食べてかえろう、\r\n"
-      }
-    },
-    {
-      "lineNumber": 159,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　ドーナツっ！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 164,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 165,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ううっ！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 177,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 178,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんも、無防備に胸を押しつけてくる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 181,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 182,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんよりは大きくないけど、それでも女の子の\r\n"
-      }
-    },
-    {
-      "lineNumber": 183,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "胸は、ふにゅふにゅと柔らかいわけで……\r\n"
-      }
-    },
-    {
-      "lineNumber": 190,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000620"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 191,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「かずちゃん、『いずみお姉ちゃん大好き』を１回言うと\r\n"
-      }
-    },
-    {
-      "lineNumber": 192,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　お胸を１０揉みできる、という取り引きはどうかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 197,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 198,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そ、そういうことは姉弟でする取り引きじゃないと\r\n"
-      }
-    },
-    {
-      "lineNumber": 199,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　思うぞ、いずみ姉さん……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 204,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000621"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 205,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、かずちゃんたらお顔が真っ赤」\r\n"
-      }
-    },
-    {
-      "lineNumber": 215,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000548"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 216,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あたしは、カズくんにならいつでも触らせたげるよっ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 222,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 223,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「……ほ、ほら！　さっさと商店街に行こう！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 229,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000549"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 230,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ、カズくん！　むししないでよ〜〜っ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 233,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 234,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺は邪念を振り払うように、足早に歩き出した。\r\n"
-      }
-    },
-    {
-      "lineNumber": 247,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 248,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "相変わらず両腕を引っ張られながらも、なんとか商店街に\r\n"
-      }
-    },
-    {
-      "lineNumber": 249,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "到着した。\r\n"
-      }
-    },
-    {
-      "lineNumber": 252,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 253,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「遠回りが目的なら、適当に見て回る？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 258,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000622"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 259,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ええと……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 262,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 263,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "無目的のようなことを言っていたのに、いずみ姉さんは\r\n"
-      }
-    },
-    {
-      "lineNumber": 264,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "きょろきょろとあたりを見回している。\r\n"
-      }
-    },
-    {
-      "lineNumber": 267,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 268,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "本当は、なにか用事があったのだろうか？\r\n"
-      }
-    },
-    {
-      "lineNumber": 274,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000623"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 275,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ、ちょっとあちらへ寄ってもいいかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 278,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 279,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あちらって……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 285,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 286,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんの指さす先へ目を向ける。\r\n"
-      }
-    },
-    {
-      "lineNumber": 292,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000550"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 293,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「八百屋さん？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 299,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000624"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 300,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ええ、そうよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 312,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000625"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 313,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おじさま、こんにちは」\r\n"
-      }
-    },
-    {
-      "lineNumber": 316,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "八百屋さん"
-          },
-          {
-            "key": "voice",
-            "value": "NP310001"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 317,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おう、乙学の会長さん」\r\n"
-      }
-    },
-    {
-      "lineNumber": 322,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000626"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 323,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おからだの調子はいかがですか？　先日、腰の方が\r\n"
-      }
-    },
-    {
-      "lineNumber": 324,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　お悪いとおっしゃっていましたけれど」\r\n"
-      }
-    },
-    {
-      "lineNumber": 327,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "八百屋さん"
-          },
-          {
-            "key": "voice",
-            "value": "NP310002"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 328,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おう、もうすっかり快調よ！！　はっはっはっはっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 333,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000627"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 334,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、それは良かったですわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 337,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 338,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんが、ごく自然によそ行きの笑顔で応対して\r\n"
-      }
-    },
-    {
-      "lineNumber": 339,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 344,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 345,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いや、それにしても……\r\n"
-      }
-    },
-    {
-      "lineNumber": 350,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000551"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 351,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いずみ、なんでおじさんと仲良しなの？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 354,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 355,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺と同じ疑問を、みこと姉ちゃんが問いかけた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 360,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000628"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 361,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「生徒会の仕事で、ちょっとね」\r\n"
-      }
-    },
-    {
-      "lineNumber": 364,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 365,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "はて、生徒会の仕事で、商店街に関わることなんて\r\n"
-      }
-    },
-    {
-      "lineNumber": 366,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "あっただろうか？\r\n"
-      }
-    },
-    {
-      "lineNumber": 372,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000552"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 373,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「生徒会の仕事ぉ〜？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 380,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000553"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 381,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ねえねえ、カズくんも知り合いなの？　生徒会の\r\n"
-      }
-    },
-    {
-      "lineNumber": 382,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　お仕事でー」\r\n"
-      }
-    },
-    {
-      "lineNumber": 385,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 386,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いや……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 391,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 392,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺が首を振ると、みこと姉ちゃんは口をへの字に曲げて\r\n"
-      }
-    },
-    {
-      "lineNumber": 393,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "うなった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 398,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 399,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺たちは、疑惑たっぷりにいずみ姉さんを見つめる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 406,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 407,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "その一方で、いずみ姉さんは次々と、商店街を歩く人々に\r\n"
-      }
-    },
-    {
-      "lineNumber": 408,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "挨拶をして回ったのだった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 422,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000554"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 423,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふぃー、疲れたぁ〜……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 429,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000629"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 430,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「悪いわね、付き合わせてしまって……\r\n"
-      }
-    },
-    {
-      "lineNumber": 431,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　かずちゃんも疲れたでしょう？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 434,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 435,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そんなことはないよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 442,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000630"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 443,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いっぱい持たせてごめんなさいね」\r\n"
-      }
-    },
-    {
-      "lineNumber": 446,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 447,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いや、大丈夫だよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 452,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000555"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 453,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ほへー、すごい量になったよねー」\r\n"
-      }
-    },
-    {
-      "lineNumber": 458,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 459,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんは、俺が両手に持っているビニール袋を\r\n"
-      }
-    },
-    {
-      "lineNumber": 460,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "のぞきこんで目をぱちくりとさせた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 463,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 464,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんが受け取った差し入れは、最終的に肩に\r\n"
-      }
-    },
-    {
-      "lineNumber": 465,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "ずっしりくるくらいの量になっていた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 471,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000631"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 472,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふ、私の人徳かしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 475,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 476,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「…………？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 482,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 483,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "どうしてだろう。\r\n"
-      }
-    },
-    {
-      "lineNumber": 486,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 487,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "なぜだか、いずみ姉さんの口調がひどく自虐的に聞こえた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 494,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000556"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 495,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あんなにしょーてんがいのひとと仲がいいならさ、\r\n"
-      }
-    },
-    {
-      "lineNumber": 496,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　こんどクレープ屋さんを作ってって言っておいてよ、\r\n"
-      }
-    },
-    {
-      "lineNumber": 497,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　いずみ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 502,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000632"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 503,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「クレープ屋さん？　どうして？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 511,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000557"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 512,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「学生のこいびとどーしといえば、学校帰りのクレープ！\r\n"
-      }
-    },
-    {
-      "lineNumber": 513,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　これできまりなんだよ！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 518,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 519,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "びしぃっ！　と親指を立てるみこと姉ちゃん。\r\n"
-      }
-    },
-    {
-      "lineNumber": 524,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000633"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 525,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「……そうね、私とかずちゃんのために、提案して\r\n"
-      }
-    },
-    {
-      "lineNumber": 526,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　おくのも悪くないわね」\r\n"
-      }
-    },
-    {
-      "lineNumber": 532,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000558"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 533,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あたしとカズくんのためだよ！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 538,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000634"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 539,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、それなら却下だわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 545,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000559"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 546,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「えぇぇ〜、そんなぁっ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 549,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 550,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんは、クレープになにかしらのこだわりでも\r\n"
-      }
-    },
-    {
-      "lineNumber": 551,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "あるのだろうか？\r\n"
-      }
-    },
-    {
-      "lineNumber": 556,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 557,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "恋人同士の定番だって最初に言っているんだから、\r\n"
-      }
-    },
-    {
-      "lineNumber": 558,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "弟である俺とのためなんて言うのはきっと冗談なのだろう。\r\n"
-      }
-    },
-    {
-      "lineNumber": 565,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 566,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「………………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 569,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 570,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "……冗談にしておきたい……\r\n"
-      }
-    },
-    {
-      "lineNumber": 579,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000635"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 580,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そうだわ。神社で休んでいきましょう」\r\n"
-      }
-    },
-    {
-      "lineNumber": 583,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 584,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「神社？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 590,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000560"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 591,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「さんせー、つかれたー！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 594,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 595,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "とたんにぐったりとしだしたみこと姉ちゃんの姿に背中を\r\n"
-      }
-    },
-    {
-      "lineNumber": 596,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "押されるようにして、俺たちは神社へと寄り道することに\r\n"
-      }
-    },
-    {
-      "lineNumber": 597,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "決めたのだった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 609,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 610,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふぅっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 617,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 618,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "両手に持っていたビニール袋をベンチに置く。\r\n"
-      }
-    },
-    {
-      "lineNumber": 623,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 624,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "超重量から解放されて、肩が一気に軽くなった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 630,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000636"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 631,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「かずちゃん、お疲れさま」\r\n"
-      }
-    },
-    {
-      "lineNumber": 636,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000637"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 637,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「重たかったでしょう？　肩とか大丈夫？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 640,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 641,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「さっきも言ったけど、これぐらい大丈夫だから」\r\n"
-      }
-    },
-    {
-      "lineNumber": 648,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000561"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 649,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ねえねえっ、駄菓子屋のおばあちゃんからおやつ\r\n"
-      }
-    },
-    {
-      "lineNumber": 650,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　もらってたよねっ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 656,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 657,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "言っているそばから、袋をごそごそとやりはじめる\r\n"
-      }
-    },
-    {
-      "lineNumber": 658,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃん。\r\n"
-      }
-    },
-    {
-      "lineNumber": 664,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000638"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 665,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「まったくもう、みことったら」\r\n"
-      }
-    },
-    {
-      "lineNumber": 671,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000639"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 672,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「かずちゃんには、はい、これ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 678,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 679,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんは、別の袋をごそごそやったあとに、\r\n"
-      }
-    },
-    {
-      "lineNumber": 680,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "缶ジュースを渡してくれた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 683,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 684,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ありがとう」\r\n"
-      }
-    },
-    {
-      "lineNumber": 690,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000640"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 691,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ。まだあるから、遠慮せずに飲んで」\r\n"
-      }
-    },
-    {
-      "lineNumber": 696,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 697,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "ちなみに、この缶ジュースは薬局のお姉さんがくれたもの\r\n"
-      }
-    },
-    {
-      "lineNumber": 698,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "だ。\r\n"
-      }
-    },
-    {
-      "lineNumber": 701,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 702,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "薬局のお姉さんは、以前から商店街を歩くたびに『双子だ\r\n"
-      }
-    },
-    {
-      "lineNumber": 703,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "なんて珍しい』なんていう理由で声をかけてきていたので、\r\n"
-      }
-    },
-    {
-      "lineNumber": 704,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "俺も顔見知りではあるのだが……\r\n"
-      }
-    },
-    {
-      "lineNumber": 707,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 708,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "今日は、そういった特殊な人物以外……商店街の\r\n"
-      }
-    },
-    {
-      "lineNumber": 709,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "あらゆる店の人が、いずみ姉さんに声をかけていた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 712,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 713,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いずみ姉さんは、いつの間に商店街の人との人脈を\r\n"
-      }
-    },
-    {
-      "lineNumber": 714,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "広げたのだろう？\r\n"
-      }
-    },
-    {
-      "lineNumber": 720,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000562"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 721,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「よいしょっ！　ポテチもらうね！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 727,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 728,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "間髪入れずに袋を開けて、パリっとひと口。\r\n"
-      }
-    },
-    {
-      "lineNumber": 735,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000563"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 736,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んんぅ〜、おいしい〜っ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 739,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 740,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんの至福そうな表情に、いずみ姉さんは\r\n"
-      }
-    },
-    {
-      "lineNumber": 741,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "『仕方ない』と言いたそうに肩をすくめた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 747,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000641"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 748,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「私もなにかつまもうかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 754,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 755,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "そう言って、いずみ姉さんもごそごそやりはじめる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 761,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000642"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 762,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そういえば、和菓子屋のおじいさまから頂いたもの\r\n"
-      }
-    },
-    {
-      "lineNumber": 763,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　が……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 766,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 767,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "呟きつつ、姉さんはおまんじゅうを取り出した。\r\n"
-      }
-    },
-    {
-      "lineNumber": 773,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000643"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 774,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「はむっ……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 779,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000644"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 780,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「うん、おいしいわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 783,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 784,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "頬に手を当てて、幸せそうに目を細める。\r\n"
-      }
-    },
-    {
-      "lineNumber": 793,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 794,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "夏だからまだ明るいけれど、もう夕方の時間帯だ。\r\n"
-      }
-    },
-    {
-      "lineNumber": 797,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 798,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "肌を撫でる風が気持ちのいい時刻になっていた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 803,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000564"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 804,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「神社に来るのなんて、去年のお祭り以来だなー」\r\n"
-      }
-    },
-    {
-      "lineNumber": 807,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 808,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "のどかな空気に合わせたように間延びした声で、\r\n"
-      }
-    },
-    {
-      "lineNumber": 809,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんが呟いた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 815,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 816,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そういえば、俺もだ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 819,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 820,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "特別信心深いというわけでもないし、そうそうお参りに\r\n"
-      }
-    },
-    {
-      "lineNumber": 821,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "くることもない。\r\n"
-      }
-    },
-    {
-      "lineNumber": 826,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "無音/いずみ"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 827,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「………………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 830,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 831,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "嬉しそうにおまんじゅうをほおばる横顔が、ふと遠くを\r\n"
-      }
-    },
-    {
-      "lineNumber": 832,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "見るような表情になった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 835,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 836,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「姉さん？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 842,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000645"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 843,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ……あのね、お祭りには家族で出かけるのが\r\n"
-      }
-    },
-    {
-      "lineNumber": 844,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　恒例だったなぁって思い出していたの」\r\n"
-      }
-    },
-    {
-      "lineNumber": 847,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 848,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「………………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 851,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 852,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "何気ない口調を装っているけど、姉さんが少し\r\n"
-      }
-    },
-    {
-      "lineNumber": 853,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "寂しそうにしているのが分かってしまった。\r\n"
-      }
-    },
-    {
-      "lineNumber": 858,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000565"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 859,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そーだよね。毎年、お祭りの日だけは何曜日でも\r\n"
-      }
-    },
-    {
-      "lineNumber": 860,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　お休みにしてたねー……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 865,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000566"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 866,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「……今年は、ママたち間に合うのかな？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 872,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000646"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 873,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「さあ、どうかしら……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 876,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 877,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "相変わらず、いずみ姉さんの口調は寂しげだ。\r\n"
-      }
-    },
-    {
-      "lineNumber": 884,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 885,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いつもは気丈にしているけど、姉さんだって傷ついて\r\n"
-      }
-    },
-    {
-      "lineNumber": 886,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いないはずはないんだよな……\r\n"
-      }
-    },
-    {
-      "lineNumber": 894,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000567"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 895,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「う〜ん…………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 902,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000568"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 903,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ねえカズくんっ、去年はチョコバナナおごってくれた\r\n"
-      }
-    },
-    {
-      "lineNumber": 904,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　よねぇ〜？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 907,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 908,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「それは、みこと姉ちゃんの賭けに負けたからだ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 911,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 912,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "縁日の射的で、どちらが多く景品をゲットできるか\r\n"
-      }
-    },
-    {
-      "lineNumber": 913,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "むりやり勝負させられた結果、むりやりおごらされたのだ。\r\n"
-      }
-    },
-    {
-      "lineNumber": 919,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000569"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 920,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふっふっふ、射的だって運動神経なんだよぅ〜」\r\n"
-      }
-    },
-    {
-      "lineNumber": 923,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 924,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あの一戦で十分思い知ったよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 929,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 930,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "あのまま続けていたら、射的の景品がなくなるところ\r\n"
-      }
-    },
-    {
-      "lineNumber": 931,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "だったもんな。\r\n"
-      }
-    },
-    {
-      "lineNumber": 934,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 935,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "ほくほく顔で妹たちに景品を配っているみこと姉ちゃんを、\r\n"
-      }
-    },
-    {
-      "lineNumber": 936,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "今でもすぐに思い出すことができる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 941,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000647"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 942,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「一昨年は金魚すくいだったかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 947,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000570"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 948,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「金魚すくいはもっと前だよ。一昨年はたこ焼きの早食い\r\n"
-      }
-    },
-    {
-      "lineNumber": 949,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　対決っ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 952,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 953,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「毎年勝手に仕掛けてきて、勝手にルールも決められるん\r\n"
-      }
-    },
-    {
-      "lineNumber": 954,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　だよなぁ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 960,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000571"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 961,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふぅ、ゲーム選択もせんりゃくのうちなのだよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 964,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 965,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "どこかで仕入れたネタなのだろうが、誇らしげに言って\r\n"
-      }
-    },
-    {
-      "lineNumber": 966,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "のける。\r\n"
-      }
-    },
-    {
-      "lineNumber": 969,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 970,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「はぁ、これだもんな……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 976,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000648"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 977,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふ、かずちゃんは災難ね」\r\n"
-      }
-    },
-    {
-      "lineNumber": 982,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000572"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 983,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「今年はなんの勝負しよっかな〜」\r\n"
-      }
-    },
-    {
-      "lineNumber": 988,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000649"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 989,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そうね……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 994,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000650"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 995,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「もし今年もお祭りがあったら、私も参加しようかしら」\r\n"
-      }
-    },
-    {
-      "lineNumber": 998,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 999,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「…………？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1005,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000573"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1006,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んぅぅ？　あたし、いずみにはぜーったい負けないよっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1011,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000651"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1012,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、望むところだわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1015,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1016,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "なんだろう、なんだかいずみ姉さんの言い方に\r\n"
-      }
-    },
-    {
-      "lineNumber": 1017,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "引っかかりを覚えたのだが、理由が上手く言い表せない。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1023,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000574"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1024,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ぜーったい負けないよっ。だっていずみ、わなげで\r\n"
-      }
-    },
-    {
-      "lineNumber": 1025,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　１回も入らなかったじゃん」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1031,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000652"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1032,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「それこそ、ずいぶん昔の話だわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1038,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000575"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1039,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そーだっけ？　花火の音にびっくりしてかき氷ひっくり\r\n"
-      }
-    },
-    {
-      "lineNumber": 1040,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　かえしたのは？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1046,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000653"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1047,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そ、それも小さな頃の話よ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1053,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000576"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1054,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「じゃあじゃあ、浴衣の柄が気に入らなくていずみが\r\n"
-      }
-    },
-    {
-      "lineNumber": 1055,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　家出したのはぁ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1058,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1059,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「みこと姉ちゃん、あんまりいずみ姉さんをいじめるなよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1067,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000577"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1068,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あふっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1071,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1072,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "飲みかけの缶を、みこと姉ちゃんの頭に乗せる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1078,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000578"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1079,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おおっとっとっと……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1085,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1086,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "絶妙なバランス感覚で、みこと姉ちゃんは缶を落とさない。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1089,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1090,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「おお、すごい」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1096,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000579"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1097,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふー」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1103,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1104,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "こっちに気を取られてくれたところで、缶を取り戻した。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1109,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000580"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1110,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「えーっと、なんの話だったっけ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1113,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1114,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「お祭りは楽しかったって話だよ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1120,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000654"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1121,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ええ、そうね。それと……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1124,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1125,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「それと？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1130,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000655"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1131,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「かずちゃんは、やっぱりかっこいいってお話よ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1141,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1142,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「うわぁ！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1147,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000656"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1148,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、やっぱりかずちゃんは素敵ね。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1149,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　私のヒーローだわ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1152,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1153,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そ、そんな話、今の流れからひと言もしてなかった\r\n"
-      }
-    },
-    {
-      "lineNumber": 1154,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　はずだけど！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1159,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000657"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1160,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そうだったかしら？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1165,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000581"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1166,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いつも思ってるから問題なーし！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1174,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1175,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんまで抱きついてくる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1180,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1181,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「どういう理屈だ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1187,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000582"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1188,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いーとこなしのいずみはひっこんでてよぅ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1193,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000658"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1194,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「みことちゃん、今日はやけにつっかかってくるじゃない」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1199,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000659"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1200,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「……あっ、もしかして妬いてるの？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1209,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000583"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1210,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「にゃう！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1215,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000660"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1216,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そうよね、帰り道でもかずちゃんたら、私の胸が腕に\r\n"
-      }
-    },
-    {
-      "lineNumber": 1217,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　当たるたびにニコニコしてくれたものね？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1222,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000661"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1223,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「体育会系のみことちゃんは、かずちゃんを喜ばせるには\r\n"
-      }
-    },
-    {
-      "lineNumber": 1224,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　ちょっぴりスレンダーすぎるものね〜？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1227,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1228,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いや、こっちに話を振られても……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1231,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1232,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "うう、弟として……男として耳が痛い。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1238,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000584"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1239,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「妬いてないもん！　負けてないもん！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1245,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000662"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1246,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふ、それはどうかしら？　だって……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1260,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1261,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「はぐっ！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1267,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000585"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1268,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あっ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1276,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000663"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1277,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ほら……かずちゃん、お姉ちゃんのおっぱい\r\n"
-      }
-    },
-    {
-      "lineNumber": 1278,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　好きでしょう？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1284,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1285,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「〜〜〜〜っ！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1288,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1289,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "横から思い切り抱き締められたせいで、いずみ姉さんの\r\n"
-      }
-    },
-    {
-      "lineNumber": 1290,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "胸の谷間に腕を挟まれる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1293,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1294,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "これは、普段の抱きつき以上に刺激が強い！\r\n"
-      }
-    },
-    {
-      "lineNumber": 1301,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000664"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1302,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ふふっ、ほら、正直になっていいのよ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1305,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1306,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "こんなところで正直になったら、大問題だ！！\r\n"
-      }
-    },
-    {
-      "lineNumber": 1309,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1310,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "……なんて堂々と主張できるはずもなく、黙秘するしか\r\n"
-      }
-    },
-    {
-      "lineNumber": 1311,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "手段がない。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1317,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000586"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1318,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「うううーー、じゃあ、あたしはこっちで勝負だよ！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1321,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1322,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「えっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1328,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1329,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いきなり腕を引っ張られたと思ったら、みこと姉ちゃんの\r\n"
-      }
-    },
-    {
-      "lineNumber": 1330,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "太ももに手のひらが触れていた。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1335,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000665"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1336,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「なっ——！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1342,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000587"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1343,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふ！　どうどう、カズくん？　すべすべでしょ？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1350,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1351,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんが、俺の手に手を重ねてそっと動かす。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1354,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1355,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "図らずも、みこと姉ちゃんの太ももを撫でることになって\r\n"
-      }
-    },
-    {
-      "lineNumber": 1356,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "しまうわけで……\r\n"
-      }
-    },
-    {
-      "lineNumber": 1362,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1363,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「じょ、冗談が過ぎるって！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1369,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000588"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1370,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「あんっ、カズくん……指動かしたらダメだよぉ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1376,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1377,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「————！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1380,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1381,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "みこと姉ちゃんの甘い声に、離そうとした手が止まる。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1387,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000589"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1388,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふっ、カズくんに触られたところ、汗でぬれちゃう」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1391,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1392,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「………………」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1395,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1396,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "からかわれているのは明らかなのに、心臓が高鳴って\r\n"
-      }
-    },
-    {
-      "lineNumber": 1397,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "収まらない。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1403,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000590"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1404,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふっ、カズく〜ん♪」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1412,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1413,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "しなをつくってもたれかかってくる、みこと姉ちゃん。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1416,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1417,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "髪の毛からは、シャンプーの良い香りがして……\r\n"
-      }
-    },
-    {
-      "lineNumber": 1422,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1423,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「……ごくっ」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1429,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000666"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1430,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「むぅぅ……」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1439,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000667"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1440,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「か、かずちゃんっ！　お姉ちゃんのお胸も触ってみて！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1445,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1446,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「いいいいいや、ちょっと待って！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1451,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1452,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "手を取ろうとするいずみ姉さんに必死で抵抗する。\r\n"
-      }
-    },
-    {
-      "lineNumber": 1458,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000668"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1459,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「ど、どうしてかずちゃん？　お姉ちゃんのお胸、\r\n"
-      }
-    },
-    {
-      "lineNumber": 1460,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　好きじゃないの？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1463,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1464,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「そ、そんなに泣きそうな顔で言われても」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1469,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000591"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1470,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふ、足ならいつでも触れるけど、おっぱいは\r\n"
-      }
-    },
-    {
-      "lineNumber": 1471,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　むずかしいよね〜？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1480,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000669"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1481,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「分かったわ、みことちゃんっ！　その勝負、受けて\r\n"
-      }
-    },
-    {
-      "lineNumber": 1482,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "　立つわよ！！」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1488,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "和哉"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1489,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「勝負！？」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1494,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "みこと"
-          },
-          {
-            "key": "voice",
-            "value": "MK000592"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1495,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「んふふ、いいよ！　ぜったい負けないんだから」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1503,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "いずみ"
-          },
-          {
-            "key": "voice",
-            "value": "IS000670"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1504,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "「それなら、場所を移しましょう。いい場所があるの」\r\n"
-      }
-    },
-    {
-      "lineNumber": 1507,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "type": "Talk",
-        "values": [
-          {
-            "key": "name",
-            "value": "心の声"
-          }
-        ]
-      }
-    },
-    {
-      "lineNumber": 1508,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "にやりと不敵に笑ったいずみ姉さんの目は、闘志に燃えて\r\n"
-      }
-    },
-    {
-      "lineNumber": 1509,
-      "shouldShift": false,
-      "shift": 0,
-      "line": {
-        "text": "いた……\r\n"
-      }
-    }
-  ]
+    "name": "w03_z04_ab01.ks",
+    "lines": [
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000614"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 16
+        },
+        {
+            "line": {
+                "text": "「かずちゃん、もう少しこっち側に寄らないと、野球部の\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 17
+        },
+        {
+            "line": {
+                "text": "　ボールが飛んできてしまうかもしれないわ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 18
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000542"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 24
+        },
+        {
+            "line": {
+                "text": "「カズくん、そっちに寄ると、サッカーゴールにぶつかる\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 25
+        },
+        {
+            "line": {
+                "text": "　よーっ！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 26
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 38
+        },
+        {
+            "line": {
+                "text": "「わかっ、分かったからっ、ひっ、引っ張らないでくれ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 39
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 42
+        },
+        {
+            "line": {
+                "text": "生徒会の用事が早く済んだので、今日はいずみ姉さんと\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 43
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんとの三人で帰ることにした──\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 44
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 50
+        },
+        {
+            "line": {
+                "text": "……のだけど……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 51
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000615"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 56
+        },
+        {
+            "line": {
+                "text": "「みことちゃん、少し離れてくれるかしら？\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 57
+        },
+        {
+            "line": {
+                "text": "　かずちゃんが困っているでしょう」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 58
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000543"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 64
+        },
+        {
+            "line": {
+                "text": "「いずみこそ、カズくんの手、はなしてよー！\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 65
+        },
+        {
+            "line": {
+                "text": "　カズくんのこつばんがゆがんじゃうぅー！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 66
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000616"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 71
+        },
+        {
+            "line": {
+                "text": "「あなたじゃないのだから、私がそんなに力いっぱい\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 72
+        },
+        {
+            "line": {
+                "text": "　引っ張るはずないじゃない」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 73
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000544"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 79
+        },
+        {
+            "line": {
+                "text": "「むぅぅ〜〜〜〜！　言ったなぁ〜〜〜〜！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 80
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 85
+        },
+        {
+            "line": {
+                "text": "こうして、両腕を姉さんたちにとられているので\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 86
+        },
+        {
+            "line": {
+                "text": "かなり歩きづらい。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 87
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000617"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 93
+        },
+        {
+            "line": {
+                "text": "「そうだわ、今日は商店街に寄っていってもいいかしら？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 94
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 97
+        },
+        {
+            "line": {
+                "text": "「もちろんいいけど……なんか用事とか？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 98
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000545"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 104
+        },
+        {
+            "line": {
+                "text": "「せいとかいちょーが買い食い？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 105
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000618"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 110
+        },
+        {
+            "line": {
+                "text": "「みことちゃん、黙って」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 111
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000619"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 117
+        },
+        {
+            "line": {
+                "text": "「せっかくかずちゃんと一緒に帰れるのだから、たまには\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 118
+        },
+        {
+            "line": {
+                "text": "　遠回りをして帰りたいじゃない？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 119
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 126
+        },
+        {
+            "line": {
+                "text": "そう言って、ぎゅっと身体を寄せてくる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 127
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 130
+        },
+        {
+            "line": {
+                "text": "「ううっ……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 131
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 143
+        },
+        {
+            "line": {
+                "text": "腕に、いずみ姉さんの豊満な胸が押しつけられる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 144
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000546"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 149
+        },
+        {
+            "line": {
+                "text": "「それなら、あたしも遠回りさんせー！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 150
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000547"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 157
+        },
+        {
+            "line": {
+                "text": "「ねぇねぇ、カズくん、ドーナツ食べてかえろう、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 158
+        },
+        {
+            "line": {
+                "text": "　ドーナツっ！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 159
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 164
+        },
+        {
+            "line": {
+                "text": "「ううっ！？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 165
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 177
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんも、無防備に胸を押しつけてくる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 178
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 181
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんよりは大きくないけど、それでも女の子の\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 182
+        },
+        {
+            "line": {
+                "text": "胸は、ふにゅふにゅと柔らかいわけで……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 183
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000620"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 190
+        },
+        {
+            "line": {
+                "text": "「かずちゃん、『いずみお姉ちゃん大好き』を１回言うと\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 191
+        },
+        {
+            "line": {
+                "text": "　お胸を１０揉みできる、という取り引きはどうかしら？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 192
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 197
+        },
+        {
+            "line": {
+                "text": "「そ、そういうことは姉弟でする取り引きじゃないと\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 198
+        },
+        {
+            "line": {
+                "text": "　思うぞ、いずみ姉さん……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 199
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000621"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 204
+        },
+        {
+            "line": {
+                "text": "「ふふっ、かずちゃんたらお顔が真っ赤」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 205
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000548"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 215
+        },
+        {
+            "line": {
+                "text": "「あたしは、カズくんにならいつでも触らせたげるよっ？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 216
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 222
+        },
+        {
+            "line": {
+                "text": "「……ほ、ほら！　さっさと商店街に行こう！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 223
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000549"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 229
+        },
+        {
+            "line": {
+                "text": "「あっ、カズくん！　むししないでよ〜〜っ！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 230
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 233
+        },
+        {
+            "line": {
+                "text": "俺は邪念を振り払うように、足早に歩き出した。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 234
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 247
+        },
+        {
+            "line": {
+                "text": "相変わらず両腕を引っ張られながらも、なんとか商店街に\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 248
+        },
+        {
+            "line": {
+                "text": "到着した。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 249
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 252
+        },
+        {
+            "line": {
+                "text": "「遠回りが目的なら、適当に見て回る？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 253
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000622"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 258
+        },
+        {
+            "line": {
+                "text": "「ええと……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 259
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 262
+        },
+        {
+            "line": {
+                "text": "無目的のようなことを言っていたのに、いずみ姉さんは\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 263
+        },
+        {
+            "line": {
+                "text": "きょろきょろとあたりを見回している。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 264
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 267
+        },
+        {
+            "line": {
+                "text": "本当は、なにか用事があったのだろうか？\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 268
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000623"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 274
+        },
+        {
+            "line": {
+                "text": "「あっ、ちょっとあちらへ寄ってもいいかしら？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 275
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 278
+        },
+        {
+            "line": {
+                "text": "「あちらって……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 279
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 285
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんの指さす先へ目を向ける。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 286
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000550"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 292
+        },
+        {
+            "line": {
+                "text": "「八百屋さん？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 293
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000624"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 299
+        },
+        {
+            "line": {
+                "text": "「ええ、そうよ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 300
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000625"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 312
+        },
+        {
+            "line": {
+                "text": "「おじさま、こんにちは」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 313
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "八百屋さん"
+                    },
+                    {
+                        "voice": "NP310001"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 316
+        },
+        {
+            "line": {
+                "text": "「おう、乙学の会長さん」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 317
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000626"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 322
+        },
+        {
+            "line": {
+                "text": "「おからだの調子はいかがですか？　先日、腰の方が\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 323
+        },
+        {
+            "line": {
+                "text": "　お悪いとおっしゃっていましたけれど」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 324
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "八百屋さん"
+                    },
+                    {
+                        "voice": "NP310002"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 327
+        },
+        {
+            "line": {
+                "text": "「おう、もうすっかり快調よ！！　はっはっはっはっ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 328
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000627"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 333
+        },
+        {
+            "line": {
+                "text": "「ふふっ、それは良かったですわ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 334
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 337
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんが、ごく自然によそ行きの笑顔で応対して\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 338
+        },
+        {
+            "line": {
+                "text": "いる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 339
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 344
+        },
+        {
+            "line": {
+                "text": "いや、それにしても……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 345
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000551"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 350
+        },
+        {
+            "line": {
+                "text": "「いずみ、なんでおじさんと仲良しなの？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 351
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 354
+        },
+        {
+            "line": {
+                "text": "俺と同じ疑問を、みこと姉ちゃんが問いかけた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 355
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000628"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 360
+        },
+        {
+            "line": {
+                "text": "「生徒会の仕事で、ちょっとね」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 361
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 364
+        },
+        {
+            "line": {
+                "text": "はて、生徒会の仕事で、商店街に関わることなんて\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 365
+        },
+        {
+            "line": {
+                "text": "あっただろうか？\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 366
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000552"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 372
+        },
+        {
+            "line": {
+                "text": "「生徒会の仕事ぉ〜？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 373
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000553"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 380
+        },
+        {
+            "line": {
+                "text": "「ねえねえ、カズくんも知り合いなの？　生徒会の\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 381
+        },
+        {
+            "line": {
+                "text": "　お仕事でー」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 382
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 385
+        },
+        {
+            "line": {
+                "text": "「いや……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 386
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 391
+        },
+        {
+            "line": {
+                "text": "俺が首を振ると、みこと姉ちゃんは口をへの字に曲げて\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 392
+        },
+        {
+            "line": {
+                "text": "うなった。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 393
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 398
+        },
+        {
+            "line": {
+                "text": "俺たちは、疑惑たっぷりにいずみ姉さんを見つめる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 399
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 406
+        },
+        {
+            "line": {
+                "text": "その一方で、いずみ姉さんは次々と、商店街を歩く人々に\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 407
+        },
+        {
+            "line": {
+                "text": "挨拶をして回ったのだった。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 408
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000554"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 422
+        },
+        {
+            "line": {
+                "text": "「ふぃー、疲れたぁ〜……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 423
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000629"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 429
+        },
+        {
+            "line": {
+                "text": "「悪いわね、付き合わせてしまって……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 430
+        },
+        {
+            "line": {
+                "text": "　かずちゃんも疲れたでしょう？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 431
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 434
+        },
+        {
+            "line": {
+                "text": "「そんなことはないよ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 435
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000630"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 442
+        },
+        {
+            "line": {
+                "text": "「いっぱい持たせてごめんなさいね」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 443
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 446
+        },
+        {
+            "line": {
+                "text": "「いや、大丈夫だよ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 447
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000555"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 452
+        },
+        {
+            "line": {
+                "text": "「ほへー、すごい量になったよねー」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 453
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 458
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんは、俺が両手に持っているビニール袋を\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 459
+        },
+        {
+            "line": {
+                "text": "のぞきこんで目をぱちくりとさせた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 460
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 463
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんが受け取った差し入れは、最終的に肩に\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 464
+        },
+        {
+            "line": {
+                "text": "ずっしりくるくらいの量になっていた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 465
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000631"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 471
+        },
+        {
+            "line": {
+                "text": "「ふふ、私の人徳かしら？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 472
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 475
+        },
+        {
+            "line": {
+                "text": "「…………？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 476
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 482
+        },
+        {
+            "line": {
+                "text": "どうしてだろう。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 483
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 486
+        },
+        {
+            "line": {
+                "text": "なぜだか、いずみ姉さんの口調がひどく自虐的に聞こえた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 487
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000556"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 494
+        },
+        {
+            "line": {
+                "text": "「あんなにしょーてんがいのひとと仲がいいならさ、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 495
+        },
+        {
+            "line": {
+                "text": "　こんどクレープ屋さんを作ってって言っておいてよ、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 496
+        },
+        {
+            "line": {
+                "text": "　いずみ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 497
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000632"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 502
+        },
+        {
+            "line": {
+                "text": "「クレープ屋さん？　どうして？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 503
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000557"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 511
+        },
+        {
+            "line": {
+                "text": "「学生のこいびとどーしといえば、学校帰りのクレープ！\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 512
+        },
+        {
+            "line": {
+                "text": "　これできまりなんだよ！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 513
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 518
+        },
+        {
+            "line": {
+                "text": "びしぃっ！　と親指を立てるみこと姉ちゃん。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 519
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000633"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 524
+        },
+        {
+            "line": {
+                "text": "「……そうね、私とかずちゃんのために、提案して\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 525
+        },
+        {
+            "line": {
+                "text": "　おくのも悪くないわね」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 526
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000558"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 532
+        },
+        {
+            "line": {
+                "text": "「あたしとカズくんのためだよ！？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 533
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000634"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 538
+        },
+        {
+            "line": {
+                "text": "「ふふっ、それなら却下だわ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 539
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000559"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 545
+        },
+        {
+            "line": {
+                "text": "「えぇぇ〜、そんなぁっ！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 546
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 549
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんは、クレープになにかしらのこだわりでも\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 550
+        },
+        {
+            "line": {
+                "text": "あるのだろうか？\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 551
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 556
+        },
+        {
+            "line": {
+                "text": "恋人同士の定番だって最初に言っているんだから、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 557
+        },
+        {
+            "line": {
+                "text": "弟である俺とのためなんて言うのはきっと冗談なのだろう。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 558
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 565
+        },
+        {
+            "line": {
+                "text": "「………………」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 566
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 569
+        },
+        {
+            "line": {
+                "text": "……冗談にしておきたい……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 570
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000635"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 579
+        },
+        {
+            "line": {
+                "text": "「そうだわ。神社で休んでいきましょう」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 580
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 583
+        },
+        {
+            "line": {
+                "text": "「神社？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 584
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000560"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 590
+        },
+        {
+            "line": {
+                "text": "「さんせー、つかれたー！！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 591
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 594
+        },
+        {
+            "line": {
+                "text": "とたんにぐったりとしだしたみこと姉ちゃんの姿に背中を\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 595
+        },
+        {
+            "line": {
+                "text": "押されるようにして、俺たちは神社へと寄り道することに\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 596
+        },
+        {
+            "line": {
+                "text": "決めたのだった。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 597
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 609
+        },
+        {
+            "line": {
+                "text": "「ふぅっ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 610
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 617
+        },
+        {
+            "line": {
+                "text": "両手に持っていたビニール袋をベンチに置く。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 618
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 623
+        },
+        {
+            "line": {
+                "text": "超重量から解放されて、肩が一気に軽くなった。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 624
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000636"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 630
+        },
+        {
+            "line": {
+                "text": "「かずちゃん、お疲れさま」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 631
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000637"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 636
+        },
+        {
+            "line": {
+                "text": "「重たかったでしょう？　肩とか大丈夫？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 637
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 640
+        },
+        {
+            "line": {
+                "text": "「さっきも言ったけど、これぐらい大丈夫だから」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 641
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000561"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 648
+        },
+        {
+            "line": {
+                "text": "「ねえねえっ、駄菓子屋のおばあちゃんからおやつ\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 649
+        },
+        {
+            "line": {
+                "text": "　もらってたよねっ？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 650
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 656
+        },
+        {
+            "line": {
+                "text": "言っているそばから、袋をごそごそとやりはじめる\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 657
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃん。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 658
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000638"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 664
+        },
+        {
+            "line": {
+                "text": "「まったくもう、みことったら」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 665
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000639"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 671
+        },
+        {
+            "line": {
+                "text": "「かずちゃんには、はい、これ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 672
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 678
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんは、別の袋をごそごそやったあとに、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 679
+        },
+        {
+            "line": {
+                "text": "缶ジュースを渡してくれた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 680
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "和哉"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 683
+        },
+        {
+            "line": {
+                "text": "「ありがとう」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 684
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000640"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 690
+        },
+        {
+            "line": {
+                "text": "「ふふっ。まだあるから、遠慮せずに飲んで」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 691
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 696
+        },
+        {
+            "line": {
+                "text": "ちなみに、この缶ジュースは薬局のお姉さんがくれたもの\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 697
+        },
+        {
+            "line": {
+                "text": "だ。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 698
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 701
+        },
+        {
+            "line": {
+                "text": "薬局のお姉さんは、以前から商店街を歩くたびに『双子だ\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 702
+        },
+        {
+            "line": {
+                "text": "なんて珍しい』なんていう理由で声をかけてきていたので、\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 703
+        },
+        {
+            "line": {
+                "text": "俺も顔見知りではあるのだが……\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 704
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 707
+        },
+        {
+            "line": {
+                "text": "今日は、そういった特殊な人物以外……商店街の\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 708
+        },
+        {
+            "line": {
+                "text": "あらゆる店の人が、いずみ姉さんに声をかけていた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 709
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 712
+        },
+        {
+            "line": {
+                "text": "いずみ姉さんは、いつの間に商店街の人との人脈を\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 713
+        },
+        {
+            "line": {
+                "text": "広げたのだろう？\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 714
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000562"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 720
+        },
+        {
+            "line": {
+                "text": "「よいしょっ！　ポテチもらうね！」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 721
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 727
+        },
+        {
+            "line": {
+                "text": "間髪入れずに袋を開けて、パリっとひと口。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 728
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "みこと"
+                    },
+                    {
+                        "voice": "MK000563"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 735
+        },
+        {
+            "line": {
+                "text": "「んんぅ〜、おいしい〜っ」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 736
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 739
+        },
+        {
+            "line": {
+                "text": "みこと姉ちゃんの至福そうな表情に、いずみ姉さんは\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 740
+        },
+        {
+            "line": {
+                "text": "『仕方ない』と言いたそうに肩をすくめた。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 741
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000641"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 747
+        },
+        {
+            "line": {
+                "text": "「私もなにかつまもうかしら？」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 748
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 754
+        },
+        {
+            "line": {
+                "text": "そう言って、いずみ姉さんもごそごそやりはじめる。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 755
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "いずみ"
+                    },
+                    {
+                        "voice": "IS000642"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 761
+        },
+        {
+            "line": {
+                "text": "「そういえば、和菓子屋のおじいさまから頂いたもの\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 762
+        },
+        {
+            "line": {
+                "text": "　が……」\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 763
+        },
+        {
+            "line": {},
+            "annotation": {
+                "type": "Talk",
+                "values": [
+                    {
+                        "name": "心の声"
+                    }
+                ]
+            },
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 766
+        },
+        {
+            "line": {
+                "text": "呟きつつ、姉さんはおまんじゅうを取り出した。\r\n"
+            },
+            "annotation": {},
+            "shouldShift": false,
+            "shift": 0,
+            "textNumber": 767
+        }
+    ]
 }
